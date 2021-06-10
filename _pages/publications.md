@@ -9,51 +9,33 @@ permalink: /publications/
 categories: []
 tags: []
 ---
----
-layout: single
-title: Publications
-date:
-type: page
-published: true
-status: publish
-permalink: /publications/
-categories: []
-tags: []
----
+## Funding
 
-## Scientific Software
+**2021-23 NSF DBI, $778,797 (NSF DEB 2113424)**   
+Lead PI: Dr. Barnabas Daru, $585,050   
+Co-PI: Dr. April Wright (Southeastern Louisiana University), $193,747   
+Collaborative Research: phyloregion, computational infrastructure for biogeographic regionalization and macroecology in the R computing environment
 
-### rotl
+**2022-24 Texas Parks and Wildlife, $384,301**   
+Lead PI: Dr. Shawn McCracken   
+Co-PI: Dr. Barnabas Daru(co-PI)   
+A multi-taxa assessment of the Ingleside Sandsheet Pond habitat to inform and support conservation
 
-<p><code><a href="https://github.com/fmichonneau/rotl/">rotl</a></code> provides an interface to the data from <a href="http://tree.opentreeoflife.org/">Open Tree of Life</a> project. <code>rotl</code> makes it easy to have in memory a phylogenetic tree for a given subset of species, or trees from published studies that are stored in Open Tree.</p>
+**2020-23 NSF DEB**   
+Lead PI: Dr. A. Elizabeth Arnold (University of Arizona)   
+co-PI: Dr. Barnabas Daru, $143,676   
+Collaborative Research: Leveraging historical collections and new surveys to characterize foundational shifts in vital symbioses in the threatened Arctic
 
-If you use `rotl` please cite
-our [paper](https://doi.org/10.1111/2041-210X.12593)
+2019-23 NSF DBI (subaward), Digitization TCN: Collaborative: American Crossroads: Digitizing the vascular flora of the south-central US ($42,245)
 
-### rncl
+2016-18 Harvard University Herbaria Postdoctoral Fellowship, Analysis of extinction risk, biotic interactions and spatial trends of phenological diversity using herbarium records ($135,000)
 
-<p><code><a href="https://github.com/fmichonneau/rncl/">rncl</a></code> provides
-  an interface to the NEXUS Class Library to import in R the content of
-  phylogenetic trees stored in NEXUS and Newick files.</p>
+2015-16 South African National Research Foundation (Lead PI), Mangrove transcriptomics ($9300)
 
-### phylobase
+2015-16 Genome Research Institute, University of Pretoria, South Africa ($4500)
 
-<p><code><a href="https://github.com/fmichonneau/phylobase/">phylobase</a></code> provides functions and methods to handle phylogenetic trees and associated data. It aims to provide a common toolkit to manipulate phylogenetic data in R. Developers can focus on new methods rather than re-coding basic functions, while end-users do not need to re-learn the functions.</p>
-<p>Don't hesitate to send comments or suggestions by
-  opening <a href="https://github.com/phylobase/issues/new">an issue on
-  GitHub</a> or by getting in touch on the
-  developer <a href="https://lists.r-forge.r-project.org/cgi-bin/mailman/listinfo/phylobase-devl">mailing
-  list</a>.</p>
+2014 South African National Research Foundation Doctoral Fellowship ($8200)
 
-## Other Software
+2014 South African National Research Foundation Travel Grant ($3000)
 
-### foghorn
-
-[`foghorn`](https://github.com/fmichonneau/foghorn) gives access to the results
-of the CRAN check results directly in your R terminal.
-
-
-### riceware
-
-[`riceware`](https://github.com/fmichonneau/riceware) provides an implementation
-of the Diceware method for strong password generation.
+2003-07 Nigerian Petroleum Corporation Undergraduate Fellowship ($1912)
