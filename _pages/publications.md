@@ -46,8 +46,8 @@ our [paper](https://doi.org/10.1111/2041-210X.12593)
   list</a>.</p>
 
 2020
-------
----
+
+
 39- **Daru, B.H.**, Farooq, H., Antonelli, A. & Faurby, S. (2020) Endemism patterns are scale dependent. **_Nature Communications_** 11: 2115. [[DOI]](https://doi.org/10.1038/s41467-020-15921-6){:target="_blank"}
 
 38- Davies, T.J., **Daru, B.H.**, Bezeng, B.S., Charles-Dominique, T., Hempson, G.P., Kabongo, R.M., Maurin, O., Muasya, A.M., van der Bank, M. & Bond, W.J. (2020) Savanna tree evolutionary ages inform the reconstruction of the paleoenvironment of our hominin ancestors. **_Scientific Reports_** 10: 12430. [[DOI]](https://doi.org/10.7554/eLife.67422){:target="_blank"} 
