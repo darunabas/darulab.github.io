@@ -45,10 +45,6 @@ our [paper](https://doi.org/10.1111/2041-210X.12593)
   developer <a href="https://lists.r-forge.r-project.org/cgi-bin/mailman/listinfo/phylobase-devl">mailing
   list</a>.</p>
 
-## 2021
-
-39- **Daru, B.H.**, Farooq, H., Antonelli, A. & Faurby, S. (2020) Endemism patterns are scale dependent. **_Nature Communications_** 11: 2115. [[DOI]](https://doi.org/10.1038/s41467-020-15921-6)
-
 2020
 ------
 ---
