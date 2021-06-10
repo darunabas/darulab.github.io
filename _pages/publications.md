@@ -44,3 +44,16 @@ our [paper](https://doi.org/10.1111/2041-210X.12593)
   GitHub</a> or by getting in touch on the
   developer <a href="https://lists.r-forge.r-project.org/cgi-bin/mailman/listinfo/phylobase-devl">mailing
   list</a>.</p>
+
+## Other Software
+
+### foghorn
+
+[`foghorn`](https://github.com/fmichonneau/foghorn) gives access to the results
+of the CRAN check results directly in your R terminal.
+
+
+### riceware
+
+[`riceware`](https://github.com/fmichonneau/riceware) provides an implementation
+of the Diceware method for strong password generation.
