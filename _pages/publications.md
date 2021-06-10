@@ -26,16 +26,16 @@ Lead PI: Dr. A. Elizabeth Arnold (University of Arizona)
 co-PI: Dr. Barnabas Daru, $143,676   
 Collaborative Research: Leveraging historical collections and new surveys to characterize foundational shifts in vital symbioses in the threatened Arctic
 
-2019-23 NSF DBI (subaward), Digitization TCN: Collaborative: American Crossroads: Digitizing the vascular flora of the south-central US ($42,245)
+## 2017
 
-2016-18 Harvard University Herbaria Postdoctoral Fellowship, Analysis of extinction risk, biotic interactions and spatial trends of phenological diversity using herbarium records ($135,000)
+* **Molecular phylogeny of Didemnidae (Ascidiacea: Tunicata)** <br>
+   da Silva Oliveira F. A., Michonneau F., da Cruz Lotufo T. <br>
+   *Zoological Journal of the Linnean Society*<br>
+  [<i class="fa fa-book" aria-hidden="true"></i> Journal]({{ page.doi }}/10.1093/zoolinnean/zlw002){: .btn .btn--small .btn--danger}
+  [<i class="fa fa-file-pdf-o" aria-hidden="true"></i> PDF file]({{ site.baseurl}}/articles/daSilva+2017.pdf){: .btn .btn--small .btn--warning}
+  [<i class="fa fa-unlock-alt" aria-hidden="true"></i> sci-hub]({{ page.scihub }}/10.1093/zoolinnean/zlw002){: .btn .btn--small .btn--success}
 
-2015-16 South African National Research Foundation (Lead PI), Mangrove transcriptomics ($9300)
+## 2016
 
-2015-16 Genome Research Institute, University of Pretoria, South Africa ($4500)
-
-2014 South African National Research Foundation Doctoral Fellowship ($8200)
-
-2014 South African National Research Foundation Travel Grant ($3000)
-
-2003-07 Nigerian Petroleum Corporation Undergraduate Fellowship ($1912)
+* **Ten Simple Rules for Digital Data Storage** <i class="fa fa-unlock" aria-hidden="true" style="color: #f89406"></i> <br>
+  Hart T., Barmby P., LeBauer D.,  Michonneau F.,  Mount S., Mulrooney P., Poisot T., Woo K.H., Zimmerman N. B., Hollister J.<br>
