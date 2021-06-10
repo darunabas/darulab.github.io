@@ -3,115 +3,203 @@ permalink: /publications/
 title: Publications
 published: true
 ---
-
-2021
-------
 ---
-40- Rock, B.M. & **Daru, B.H.** (2021) Impediments to understanding seagrasses' response to global change. **_Frontiers in Marine Science_** 8: 608867. [[DOI]](https://doi.org/10.3389/fmars.2021.608867){:target="_blank"} [[download PDF]](/docs/41_RockDaru2021fmars.pdf){:target="_blank"}
-
-41- **Daru, B.H.** (2021) Exploring a new way to think about climate regions. **_eLife_** 10: e67422. [[DOI]](https://doi.org/10.7554/eLife.67422){:target="_blank"} [[download PDF]](/docs/40_Daru2021_eLife.pdf){:target="_blank"}
-
-2020
-------
+layout: single
+title: Publications
+date:
+type: page
+published: true
+permalink: /publications/
+status: publish
+categories: []
+tags: []
+scihub: http://sci-hub.cc
+doi: https://doi.org
+github: https://github.com
 ---
-39- **Daru, B.H.**, Farooq, H., Antonelli, A. & Faurby, S. (2020) Endemism patterns are scale dependent. **_Nature Communications_** 11: 2115. [[DOI]](https://doi.org/10.1038/s41467-020-15921-6){:target="_blank"} [[download PDF]](/docs/39_Daru2020_NCOMMS.pdf){:target="_blank"}
 
-38- Davies, T.J., **Daru, B.H.**, Bezeng, B.S., Charles-Dominique, T., Hempson, G.P., Kabongo, R.M., Maurin, O., Muasya, A.M., van der Bank, M. & Bond, W.J. (2020) Savanna tree evolutionary ages inform the reconstruction of the paleoenvironment of our hominin ancestors. **_Scientific Reports_** 10: 12430. [[DOI]](https://doi.org/10.7554/eLife.67422){:target="_blank"} [[download PDF]](/docs/38_Davies2020_SREP.pdf){:target="_blank"}
+<!---
+journal: [<i class="fa fa-book" aria-hidden="true"></i> Journal]({{ page.doi }}/ ){: .btn .btn--small .btn--danger}
+preprint: [<i class="fa fa-file-text-o" aria-hidden="true"></i> Preprint]({{ page.doi }}/ ){: .btn .btn--small}
+github repo: [<i class="fa fa-github" aria-hidden="true"></i> GitHub Repository](){: .btn .btn--small .btn--info}
+pdf: [<i class="fa fa-file-pdf-o" aria-hidden="true"></i> PDF file]({{ site.baseurl}}/){: .btn .btn--small .btn--warning}
+sci-hub [<i class="fa fa-unlock-alt" aria-hidden="true"></i> sci-hub]({{ page.scihub }}/){: .btn .btn--small .btn--success}
 
-37- **Daru, B.H.**, Karunarathne P. & Schliep K. (2020) phyloregion: R package for biogeographic regionalization and macroecology. Methods in Ecology and Evolution 11: 1483-1491. [[DOI]](https://doi.org/10.7554/eLife.67422){:target="_blank"} [[download PDF]](/docs/37_Daru2020_MEE.pdf){:target="_blank"}
+free-access: <i class="fa fa-unlock-alt" aria-hidden="true" style="color: #62c462"></i>
+open-access: <i class="fa fa-unlock" aria-hidden="true" style="color: #f89406"></i>
+--->
 
-2019
-------
----
-36- **Daru, B.H.**, le Roux, P.C., Gopalraj, J., Park, D.S., Holt, B.G. & Greve, M. (2019) Spatial overlaps between the global protected areas network and terrestrial hotspots of evolutionary diversity. **_Global Ecology and Biogeography_** 28: 757-766. [[DOI]](https://doi.org/10.7554/eLife.67422){:target="_blank"} [[download PDF]](/docs/36_Daru2019_GEB.pdf){:target="_blank"}
+I strive to make all the outputs from my research accessible. Below, in addition to links to the journals in which the article was published, I also provide links to local copies of the PDF files, and links to [sci-hub](https://en.wikipedia.org/wiki/Sci-Hub) in case you don't have access to these publications through a journal subscription. Open-access publications (released under a Creative Commons license) have <i class="fa fa-unlock" aria-hidden="true" style="color: #f89406"></i> near their title, while free-access (no journal subscription required to read the article) publications have <i class="fa fa-unlock-alt" aria-hidden="true" style="color: #62c462"></i>.
 
-35- Mathakutha, R., Steyn, C., le Roux, P.C., Blom, I.J., Chown, S.L., **Daru, B.H.**, Ripley, B.S., Louw, A. & Greve, M. (2019) Invasive species differ in key functional traits from native and non-invasive alien plant species. **_Journal of Vegetation Science_** 30: 994-1006. [[DOI]](https://doi.org/10.7554/eLife.67422){:target="_blank"} [[download PDF]](/docs/35_Mathakutha2019_JVS.pdf){:target="_blank"}
+## Pre-prints
 
-34- **Daru, B.H.**, Kling, M.M., Meineke, E.K. & van Wyk, A.E. (2019) Temperature controls phenology in continuously flowering Protea species of subtropical Africa. _**Applications in Plant Sciences**_ 7: e1232. [[DOI]](https://doi.org/10.7554/eLife.67422){:target="_blank"} [[download PDF]](/docs/34_Daru2019_APPS.pdf){:target="_blank"}
 
-2018
-------
----
-33- **Daru, B.H.**, Park, D.S., Primack, R.B., Willis, C.G., Barrington, D.S., Whitfeld, T.J.S., Seidler, T.G., Sweeney, P.W., Foster, D.R., Ellison, A.M. & Davis, C.C. (2018) Widespread sampling biases in herbaria revealed from large-scale digitization. **_New Phytologist_** 217: 939-955. [[DOI]](https://doi.org/10.7554/eLife.67422){:target="_blank"} [[download PDF]](/docs/33_Daru2018_NPH.pdf){:target="_blank"}
+* **Cryptic and not-so-cryptic species in the complex <em>Holothuria (Thymiosycia) impatiens</em> (Forsskal, 1775) (Echinodermata: Holothuroidea)** <i class="fa fa-unlock" aria-hidden="true" style="color: #f89406"></i><br>
+   Michonneau F.<br>
+   [<i class="fa fa-file-text-o" aria-hidden="true"></i> Preprint](https://doi.org/10.1101/014225){: .btn .btn--small}
 
-32- **Daru, B.H.**, Bowman, E.A., Pfister, D.H. & Arnold, A.E. (2018) A novel proof-of-concept for capturing the diversity of endophytic fungi preserved in herbarium specimens. **_Philosophical Transactions of the Royal Society B_** 374: 20170395. [[DOI]](https://doi.org/10.7554/eLife.67422){:target="_blank"} [[download PDF]](/docs/32_Daru2018_PTRSB.pdf){:target="_blank"}
+* **More than meets the eye: diversity and geographic patterns in sea cucumbers** <i class="fa fa-unlock" aria-hidden="true" style="color: #f89406"></i><br>
+  Michonneau F., McPherson S., O'Loughlin P.M., Paulay G. <br>
+  [<i class="fa fa-file-text-o" aria-hidden="true"></i> Preprint](https://doi.org/10.1101/014282){: .btn .btn--small}
 
-31- Meineke, E.K., Davies, T.J., **Daru, B.H.** & Davis, C.C. (2018) Biological collections for understanding biodiversity in the Anthropocene. **_Philosophical Transactions of the Royal Society B_** 374: 20170386. [[DOI]](https://doi.org/10.7554/eLife.67422){:target="_blank"} [[download PDF]](/docs/31_Meineke2018_PTRSB.pdf){:target="_blank"}
 
-30- **Daru, B.H.**, van der Bank, M. & Davies, T.J. (2018) Unravelling the evolutionary origins of biogeographic assemblages. Diversity and Distributions 24: 313–324. [[DOI]](https://doi.org/10.7554/eLife.67422){:target="_blank"} [[download PDF]](/docs/30_Daru2018_DDI.pdf){:target="_blank"}
+## 2017
 
-2017
-------
----
-29- **Daru, B.H.**, Elliott, T.L., Park, D.S. & Davies, T.J. (2017) Understanding the processes underpinning patterns of phylogenetic regionalization. **_Trends in Ecology and Evolution_** 32: 845-860. [[DOI]](https://doi.org/10.7554/eLife.67422){:target="_blank"} [[download PDF]](/docs/29_Daru2017_TREE.pdf){:target="_blank"}
+* **Molecular phylogeny of Didemnidae (Ascidiacea: Tunicata)** <br>
+   da Silva Oliveira F. A., Michonneau F., da Cruz Lotufo T. <br>
+   *Zoological Journal of the Linnean Society*<br>
+  [<i class="fa fa-book" aria-hidden="true"></i> Journal]({{ page.doi }}/10.1093/zoolinnean/zlw002){: .btn .btn--small .btn--danger}
+  [<i class="fa fa-file-pdf-o" aria-hidden="true"></i> PDF file]({{ site.baseurl}}/articles/daSilva+2017.pdf){: .btn .btn--small .btn--warning}
+  [<i class="fa fa-unlock-alt" aria-hidden="true"></i> sci-hub]({{ page.scihub }}/10.1093/zoolinnean/zlw002){: .btn .btn--small .btn--success}
 
-28- **Daru, B.H.**, Holt, B.G., Lessard, J.P., Yessoufou, K. & Davies, T.J. (2017) Phylogenetic regionalization of marine plants reveals close evolutionary affinities among disjunct temperate assemblages. **_Biological Conservation_** 213: 351-356. [[DOI]](https://doi.org/10.7554/eLife.67422){:target="_blank"} [[download PDF]](/docs/28_Daru2017_BIOC.pdf){:target="_blank"}
+## 2016
 
-27- **Daru, B.H.**, van der Bank, M., Bello, A. & Yessoufou, K. (2017) Testing the reliability of the standard and complementary DNA barcodes for the monocot subfamily Alooideae from South Africa. **_Genome_** 60: 337-347. [[DOI]](https://doi.org/10.7554/eLife.67422){:target="_blank"} [[download PDF]](/docs/27_Daru2017_GEN.pdf){:target="_blank"}
+* **Ten Simple Rules for Digital Data Storage** <i class="fa fa-unlock" aria-hidden="true" style="color: #f89406"></i> <br>
+  Hart T., Barmby P., LeBauer D.,  Michonneau F.,  Mount S., Mulrooney P., Poisot T., Woo K.H., Zimmerman N. B., Hollister J.<br>
+  *PLOS Computational Biology*<br>
+  [<i class="fa fa-book" aria-hidden="true"></i> Journal](https://doi.org/10.1371/journal.pcbi.1005097){: .btn .btn--small .btn--danger}
+  [<i class="fa fa-file-text-o" aria-hidden="true"></i> Preprint](https://doi.org/10.7287/peerj.preprints.1448v2){: .btn .btn--small}
+  [<i class="fa fa-github" aria-hidden="true"></i> GitHub Repository](https://github.com/emhart/10-simple-rules-data-storage){: .btn .btn--small .btn--info}
+    [<i class="fa fa-file-pdf-o" aria-hidden="true"></i> PDF file]({{ site.baseurl}}/articles/Hart+2016.pdf){: .btn .btn--small .btn--warning}
 
-26- Bezeng, B.S., Davies, T.J., **Daru, B.H.**, Kabongo, R.M., Maurin, O., Orton, R.D., Yessoufou, K., van der Bank, H. & van der Bank, M. (2017) Ten years of barcoding at the African Centre for DNA barcoding. **_Genome_** 60: 629-638. [[DOI]](https://doi.org/10.7554/eLife.67422){:target="_blank"} [[download PDF]](/docs/26_Bezeng2017_GEN.pdf){:target="_blank"}
+* **Invertébrés benthiques des Marquises, les Echinodermes** <i class="fa fa-unlock-alt" aria-hidden="true" style="color:#62c462"></i><br>
+  Paulay G., Michonneau F., Starmer J., Evans N. (Salvat B., ed) *in* Biodiversité terrestre et marine des îles Marquises, Polynésie française. Galzin R., Duron S.-D., Meyer J.-Y. (eds). Paris: Société française d'Ichtyologie. 526 pages.<br>
+   [<i class="fa fa-file-pdf-o" aria-hidden="true"></i> PDF file]({{ site.baseurl}}/articles/Salvat+2016.pdf){: .btn .btn--small .btn--warning}
 
-25- Yessoufou, K., **Daru, B.H.**, Tafirei, R., Elansary, H.O. & Rampedi, I. (2017) Integrating biogeography, threat and evolutionary data to explore extinction crisis in the taxonomic group of cycads. **_Ecology and Evolution_** 7: 2735-2746. [[DOI]](https://doi.org/10.7554/eLife.67422){:target="_blank"} [[download PDF]](/docs/25_Yessoufou2017_ECE.pdf){:target="_blank"}
 
-24- Bezeng, B.S., Morales-Castilla, I., van der Bank, M., Yessoufou, K., **Daru, B.H.** & Davies, T.J. (2017) Climate change may reduce the spread of non-native species. **_Ecosphere_** 8: e01694. [[DOI]](https://doi.org/10.7554/eLife.67422){:target="_blank"} [[download PDF]](/docs/24_Bezeng2017_ECO.pdf){:target="_blank"}
+* **rotl an R package to interact with the Open Tree of Life data** <i class="fa fa-unlock-alt" aria-hidden="true" style="color: #62c462"></i><br>
+  Michonneau F., Brown J.W., Winter D.<br>
+  *Methods in Ecology and Evolution*<br>
+  [<i class="fa fa-book" aria-hidden="true"></i> Journal](https://doi.org/10.1111/2041-210X.12593){: .btn .btn--small .btn--danger}
+  [<i class="fa fa-file-text-o" araia-hidden="true"></i> Pre-print](https://doi.org/10.7287/peerj.preprints.1471v3){: .btn .btn--small}
+  [<i class="fa fa-github" aria-hidden="true"></i> GitHub Repository](https://github.com/fmichonneau/rotl-ms/){: .btn .btn--small .btn--info}
+  [<i class="fa fa-file-pdf-o" aria-hidden="true"></i> PDF file]({{ site.baseurl}}/articles/Michonneau+2016-rotl.pdf){: .btn .btn--small .btn--warning}
 
-2016
-------
----
-23- Charles-Dominique, T., Davies, T.J., Hempson, G.P., Bezeng, S.B., **Daru, B.H.**, Kabongo, R.M., Maurin, O., Muasya, A.M., van der Bank, M. & Bond, W.J. (2016) Spiny plants, mammal browsers and the origin of African savannas. **_Proceedings of the National Academy of Sciences USA_** 113: E5572–E5579. [[DOI]](https://doi.org/10.7554/eLife.67422){:target="_blank"} [[download PDF]](/docs/23_CharlesDominique2016_PNAS.pdf){:target="_blank"}
 
-22- **Daru, B.H.** & le Roux, P.C. (2016) Marine protected areas are insufficient to conserve global marine plant diversity. **_Global Ecology and Biogeography_** 25: 324–334. [[DOI]](https://doi.org/10.7554/eLife.67422){:target="_blank"} [[download PDF]](/docs/22_Daru2016_GEB.pdf){:target="_blank"}
+## 2015
 
-21- **Daru, B.H.** & Yessoufou, K. (2016) A search for a single DNA barcode for seagrasses of the world. _DNA Barcoding in Marine Perspectives: Assessment and Conservation of Biodiversity_ (ed. by S. Trivedi, A.A. Ansari, K.S. Ghosh, H. Rehman), pp. 313-330. Springer International Publishing Switzerland. [[DOI]](https://doi.org/10.7554/eLife.67422){:target="_blank"} [[download PDF]](/docs/21_Daru2016.pdf){:target="_blank"}
+* **Using iNaturalist to learn more about Echinoderms** <i class="fa fa-unlock" aria-hidden="true" style="color: #f89406"></i><br>
+  Michonneau F., Paulay G. <br>
+  *Reef Encounter* <br>
+  [<i class="fa fa-file-text-o" aria-hidden="true"></i> Preprint]({{ page.doi }}/10.6084/m9.figshare.1309937){: .btn .btn--small}
+  [<i class="fa fa-github" aria-hidden="true"></i> GitHub Repository]({{ page.github }}/fmichonneau/inat-paper){: .btn .btn--small .btn--info}
+  [<i class="fa fa-file-pdf-o" aria-hidden="true"></i> PDF file]({{ site.baseurl}}/articles/Michonneau+Paulay2015-iNaturalist.pdf){: .btn .btn--small .btn--warning}
 
-20- **Daru, B.H.**, Berger, D.K. & van Wyk, A.E. (2016) Opportunities for unlocking the potential of genomics for African trees. **_New Phytologist_** 210: 772–778. [[DOI]](https://doi.org/10.7554/eLife.67422){:target="_blank"} [[download PDF]](/docs/20_Daru2016_NPH.pdf){:target="_blank"}
 
-19- Davies, T.J., **Daru, B.H.**, Van der Bank, M., Maurin, O. & Bond, W.J. (2016) Multiple routes underground? Frost alone cannot explain the evolution of underground trees. **_New Phytologist_** 209: 910-912. [[DOI]](https://doi.org/10.7554/eLife.67422){:target="_blank"} [[download PDF]](/docs/19_Davies2016_NPH.pdf){:target="_blank"}
+## 2014
 
-18- **Daru, B.H.**, Van der Bank, M., Maurin, O., Yessoufou, K., Schaefer, H., Slingsby, J.A. & Davies, T.J. (2016) A novel phylogenetic regionalization of the phytogeographic zones of southern Africa reveals their hidden evolutionary affinities. **_Journal of Biogeography_** 43: 155-166. [[DOI]](https://doi.org/10.7554/eLife.67422){:target="_blank"} [[download PDF]](/docs/18_Daru2016_JBI.pdf){:target="_blank"}
+* **Phylogenetics and morphological evolution of coral-dwelling barnacles (Balanomorpha: Pyrgomatidae)** <br>
+  Malay M.C.D., Michonneau F.<br>
+  <em>Biological Journal of the Linnean Society</em> <br>
+  [<i class="fa fa-book" aria-hidden="true"></i> Journal]({{ page.doi }}/10.1111/bij.12315){: .btn .btn--small .btn--danger}
+  [<i class="fa fa-file-pdf-o" aria-hidden="true"></i> PDF file]({{ site.baseurl}}/articles/Malay+Michonneau2014.pdf){: .btn .btn--small .btn--warning}
+  [<i class="fa fa-unlock-alt" aria-hidden="true"></i> sci-hub]({{ page.scihub }}/10.1111/bij.12315){: .btn .btn--small .btn--success}
 
-2015
-------
----
-17- **Daru, B.H.**, Van der Bank, M. & Davies, T.J. (2015) Spatial incongruence among hotspots and complementary areas of tree diversity in southern Africa. **_Diversity and Distributions_** 21: 769-780. [[DOI]](https://doi.org/10.7554/eLife.67422){:target="_blank"} [[download PDF]](/docs/17_Daru2015_DDI.pdf){:target="_blank"}
+* **Revision of the genus <em>Phyrella</em> (Holothuroidea: Dendrochirotida) with the description of a new species from Guam** <i class="fa fa-unlock" aria-hidden="true" style="color: #f89406"></i> <br>
+  Michonneau F., Paulay G.  <br>
+  <em>Zootaxa</em><br>
+  [<i class="fa fa-book" aria-hidden="true"></i> Journal]({{ page.doi }}/10.11646/zootaxa.3760.2.1){: .btn .btn--small .btn--danger}
+  [<i class="fa fa-file-pdf-o" aria-hidden="true"></i> PDF file]({{ site.baseurl}}/articles/Michonneau+Paulay2014.pdf){: .btn .btn--small .btn--warning}
 
-16- Bello, A., **Daru, B.H.**, Stirton, C.H., Chimphango, S.B.M., Van der Bank, M., Maurin, O. & Muasya, A.M. (2015) DNA barcodes reveal microevolutionary signals in fire response trait in two legume genera. **_AoB PLANTS_** 7: plv124. [[DOI]](https://doi.org/10.7554/eLife.67422){:target="_blank"} [[download PDF]](/docs/16_Bello2015_AoB.pdf){:target="_blank"}
+* **Experimentally induced metamorphosis in paedomorphic axolotls reduces regenerative ability** <i class="fa fa-unlock" aria-hidden="true" style="color: #f89406"></i><br>
+  Monaghan J.R., Stier A.C., Michonneau F., Pasch B., Smith M.D., Maden M., Seifert A.W. (all authors but Maden contributed equally) <br>
+  <em>Regeneration</em><br>
+  [<i class="fa fa-book" aria-hidden="true"></i> Journal]({{ page.doi }}/10.1002/reg2.8){: .btn .btn--small .btn--danger}
+  [<i class="fa fa-file-pdf-o" aria-hidden="true"></i> PDF file]({{ site.baseurl }}/articles/Monaghan+2014.pdf){: .btn .btn--small .btn--warning}
 
-15- Yessoufou, K., **Daru, B.H.** & Muasya, A.M. (2015) Phylogenetic exploration of commonly used medicinal plants in South Africa. **_Molecular Ecology Resources_** 15: 405-413. [[DOI]](https://doi.org/10.7554/eLife.67422){:target="_blank"} [[download PDF]](/docs/15_Yessoufou2015_MER.pdf){:target="_blank"}
+* **Global Invertebrate Genomics Alliance (GIGA): Developing Community Resources to Study Diverse Invertebrate Genomes** <i class="fa fa-unlock" aria-hidden="true" style="color: #f89406"></i><br>
+  GIGA Community of Scientists (46 authors) <br>
+  *Journal of Heredity* <br>
+  [<i class="fa fa-book" aria-hidden="true"></i> Journal]({{ page.doi }}/10.1093/jhered/est084){: .btn .btn--small .btn--danger}
+  [<i class="fa fa-file-pdf-o" aria-hidden="true"></i> PDF file]({{ site.baseurl}}/articles/GIGA2014.pdf){: .btn .btn--small .btn--warning}
 
-14- **Daru, B.H.**, Yessoufou, K., Nuttman, C. & Abalaka, J. (2015) A preliminary study of bird use of fig Ficus species in Amurum Forest Reserve, Nigeria. **_Malimbus_** 37: 1-15. [[DOI]](https://doi.org/10.7554/eLife.67422){:target="_blank"} [[download PDF]](/docs/14_Daru2015_M856.pdf){:target="_blank"}
 
-2014
-------
----
-13- Maurin, O., Davies, T.J., Burrows, J.E., **Daru, B.H.**, Yessoufou, K., Muasya, A.M., Van der Bank, M. & Bond, W.J. (2014) Savanna fire and the origins of the "underground forests" of Africa. **_New Phytologist_** 204: 201-214. [[DOI]](https://doi.org/10.7554/eLife.67422){:target="_blank"} [[download PDF]](/docs/13_Maurin2014_NPH.pdf){:target="_blank"}
+## 2013
 
-12- Yessoufou, K., Bamigboye, S.O., **Daru, B.H.** & Van der Bank, M. (2014) Evidence of constant diversification punctuated by a mass extinction in the African cycad. _**Ecology and Evolution**_ 4: 50-58. [[DOI]](https://doi.org/10.7554/eLife.67422){:target="_blank"} [[download PDF]](/docs/12_Yessoufou2014_ECE.pdf){:target="_blank"}
+* **The littoral sea cucumbers (Echinodermata : Holothuroidea) of Guam re-assessed – a diversity curve that still does not asymptote** <br>
+  Michonneau F., Borrero-Perez G.H., Honey M., Kamarudin K.R., Kerr A., Kim S., Meñez M.A., Miller A., Ochoa J.A., Olavides R.D., Paulay G., Samyn Y., Setyastuti A., Solis-Marin F. <br>
+  <em>Cahiers de Biologie Marine</em><br>
+  [<i class="fa fa-file-pdf-o" aria-hidden="true"></i> PDF file]({{ site.baseurl}}/articles/Michonneau+2013-Guam.pdf){: .btn .btn--small .btn--warning}
 
-11- Manning, J.C., Boatwright, J.S., **Daru, B.H.**, Maurin, O. & Van der Bank, M. (2014) A molecular phylogeny and generic classification of Asphodelaceae subfamily Alooideae: A final resolution of the prickly issue of polyphyly in the Alooids? **_Systematic Botany_** 39: 55-74. [[DOI]](https://doi.org/10.7554/eLife.67422){:target="_blank"} [[download PDF]](/docs/11_Manning2014_SYS.pdf){:target="_blank"}
+* **Geographic and Taxonomic Disparities in Species Diversity: Dispersal and Diversification Rates Across Wallace's Line** <br>
+  Bacon C., Michonneau F., Henderson A.J., McKenna M.J., Milroy A.M., Simmons M.P.<br>
+  <em>Evolution</em><br>
+  [<i class="fa fa-book" aria-hidden="true"></i> Journal]({{ page.doi }}/10.1111/evo.12084){: .btn .btn--small .btn--danger}
+  [<i class="fa fa-file-pdf-o" aria-hidden="true"></i> PDF file]({{ site.baseurl}}/articles/Bacon+2013.pdf){: .btn .btn--small .btn--warning}
+  [<i class="fa fa-unlock-alt" aria-hidden="true"></i> sci-hub]({{ page.scihub }}/10.1111/evo.12084){: .btn .btn--small .btn--success}
 
-10- Yessoufou, K., Gere, J., **Daru, B.H.** & Van der Bank, M. (2014) Differences in evolutionary history translate into differences in invasion success of alien mammals in South Africa. **_Ecology and Evolution_** 44: 2115-2123. [[DOI]](https://doi.org/10.7554/eLife.67422){:target="_blank"} [[download PDF]](/docs/10_Yessoufou2014_ECE.pdf){:target="_blank"}
 
-09- Iheanacho, H.E., Njobeh, P.B., Dutton, F.M., Steenkamp, P.A., Steenkamp, L., Mthombeni, J.Q., **Daru, B.H.** & Makun, A.H. (2014) Morphological and molecular identification of filamentous Aspergillus flavus and A. parasiticus isolated from compound feeds in South Africa. **_Food Microbiology_** 44: 180-184. [[DOI]](https://doi.org/10.7554/eLife.67422){:target="_blank"} [[download PDF]](/docs/09_Iheanacho2014.pdf){:target="_blank"}
+## 2012
 
-2013
-------
----
-08- **Daru, B.H.**, Yessoufou, K., Mankga, L.T. & Davies, T.J. (2013) A global trend towards the loss of evolutionarily unique species in mangrove ecosystems. **_PLoS ONE_** 8: e66686. [[DOI]](https://doi.org/10.7554/eLife.67422){:target="_blank"} [[download PDF]](/docs/08_Daru2013_PNE.pdf){:target="_blank"}
+* **Predator Crown-of-Thorns Starfish (<em>Acanthaster planci</em>) Outbreak, Mass Mortality of Corals, and Cascading Effects on Reef Fish and Benthic Communities** <i class="fa fa-unlock" aria-hidden="true" style="color: #f89406"></i><br>
+  Kayal M., Vercelloni J., Lison de Loma T., Bosserelle P., Chancerelle Y., Geoffroy S., Stievenart C., Michonneau F., Penin L., Planes S., Adjeroud M.<br>
+  *PLOS ONE*<br>
+  [<i class="fa fa-book" aria-hidden="true"></i> Journal]({{ page.doi }}/10.1371/journal.pone.0047363){: .btn .btn--small .btn--danger}
 
-07- **Daru, B.H.**, Manning, J.C., Boatwright, J.S., Maurin, O., Maclean, N., Schaefer, H., Kuzmina, M. & Van der Bank, M. (2013) Molecular and morphological analysis of subfamily Alooideae (Asphodelaceae) and the inclusion of Chortolirion in Aloe. **_Taxon_** 62: 62-76. [[DOI]](https://doi.org/10.7554/eLife.67422){:target="_blank"} [[download PDF]](/docs/07_Daru2013_TAX.pdf){:target="_blank"}
 
-06- Kyalangalilwa, B., Boatwright, J.S., **Daru, B.H.**, Maurin, O. & Van der Bank, M. (2013) Phylogenetic position and revised classification of Acacia s.l. (Fabaceae: Mimosoideae) in Africa, including new combinations Vachellia and Senegalia. **_Botanical Journal of the Linnean Society_** 172: 500-523. [[DOI]](https://doi.org/10.7554/eLife.67422){:target="_blank"} [[download PDF]](/docs/06_Kyalangalilwa2013_BJLS.pdf){:target="_blank"}
+## 2011
 
-05- Gere, J., Yessoufou, K., **Daru, B.H.**, Maurin, O., Mankga, L.T. & Van der Bank, M. (2013) Incorporating trnH-psbA to core DNA barcodes improves discrimination of species within southern African Combretaceae. **_ZooKeys_** 365: 127-147. [[DOI]](https://doi.org/10.7554/eLife.67422){:target="_blank"} [[download PDF]](/docs/05_Gere2013.pdf){:target="_blank"}
+* **The influence of fundamental traits on mechanisms controlling appendage regeneration**<br>
+  Seifert A.W., Monaghan J.R., Smith M.D., Pasch B., Stier A.C., Michonneau F., Maden M.<br>
+  <em>Biological Reviews</em><br>
+  [<i class="fa fa-book" aria-hidden="true"></i> Journal]({{ page.doi }}/10.1111/j.1469-185X.2011.00199.x){: .btn .btn--small .btn--danger}
+  [<i class="fa fa-file-pdf-o" aria-hidden="true"></i> PDF file]({{ site.baseurl}}/articles/Seifert+2011.pdf){: .btn .btn--small .btn--warning}
 
-04- Mankga, L.T., Yessoufou, K., Moteetee, A.M., **Daru, B.H.** & Van der Bank, M. (2013) Efficacy of the core DNA barcodes in identifying processed and poorly conserved plant materials commonly used in South African traditional medicine. **_ZooKeys_** 365: 215-233. [[DOI]](https://doi.org/10.7554/eLife.67422){:target="_blank"} [[download PDF]](/docs/04_Mankga2013.pdf){:target="_blank"}
+* **New record of the sea cucumber <em>Holothuria (Halodeima) nigralutea</em> Aspidochirotida: Holothuriidae from Okinawa Island, Ryukyu Islands, Japan**<br>
+  Uyeno D., Michonneau F., Paulay G., Naruse T.<br>
+  <em>Biological Magazine of Okinawa</em><br>
+  [<i class="fa fa-file-pdf-o" aria-hidden="true"></i> PDF file]({{ site.baseurl}}/articles/Uyeno+2011.pdf){: .btn .btn--small .btn--warning}
 
-2012
-------
----
-03- Yessoufou, K., **Daru, B.H.** & Davies, T.J. (2012) Phylogenetic patterns of extinction risk in the Eastern Arc ecosystems, an African biodiversity hotspot. **_PLoS ONE_** 7: e47082. [[DOI]](https://doi.org/10.7554/eLife.67422){:target="_blank"} [[download PDF]](/docs/03_Yessoufou2012_PONE.pdf){:target="_blank"}
+* **Effects of predators and grazers exclusion on early post-settlement coral mortality**<br>
+  Penin L., Michonneau F., Carroll A., Adjeroud M.<br>
+  <em>Hydrobiology</em><br>
+  [<i class="fa fa-book" aria-hidden="true"></i> Journal]({{ page.doi }}/10.1007/s10750-010-0569-0){: .btn .btn--small .btn--danger}
+  [<i class="fa fa-file-pdf-o" aria-hidden="true"></i> PDF file]({{ site.baseurl}}/articles/Penin+2011.pdf){: .btn .btn--small .btn--warning}
+  [<i class="fa fa-unlock-alt" aria-hidden="true"></i> sci-hub]({{ page.scihub }}/10.1007/s10750-010-0569-0){: .btn .btn--small .btn--success}
 
-02- Yessoufou, K., Abalaka, J., Van der Bank, M. & **Daru, B.H.** (2012) Fig-frugivore interactions follow a constrained Brownian motion model of evolution in an Important Bird Area, West Africa. **_Israel Journal of Ecology and Evolution_** 58: 39-51. [[DOI]](https://doi.org/10.7554/eLife.67422){:target="_blank"} [[download PDF]](/docs/02_Yessoufou2012_IJEE.pdf){:target="_blank"}
 
-01- Van der Bank, H.F., Greenfield, R., **Daru, B.H.** & Yessoufou, K. (2012) DNA barcoding reveals micro-evolutionary changes and river system-level phylogeographic resolution of seven populations of African silver catfish, Schilbe intermedius (Siluriformes, Schilbeidae). **_Acta Ichthyologica et Piscatoria_** 42: 307-320. [[DOI]](https://doi.org/10.7554/eLife.67422){:target="_blank"} [[download PDF]](/docs/01_VanderBank2012.pdf){:target="_blank"}
+## 2010
+
+* **Diversity of the Holothuroid Fauna (Echinodermata) at La Réunion (Western Indian Ocean)**<br>
+  Conand C., Michonneau F., Paulay G., Bruggemann H.<br>
+  <em>Western Indian Ocean Journal of Marine Sciences</em><br>
+  [<i class="fa fa-file-pdf-o" aria-hidden="true"></i> PDF file]({{ site.baseurl}}/articles/Conand+2010.pdf){: .btn .btn--small .btn--warning}
+
+* **The Antarctic region as a marine biodiversity hotspot for echinoderms: Diversity and diversification of sea cucumbers**<br>
+  O'Loughlin P.M., Paulay G., Davey N., Michonneau F.<br>
+  <em>Deep Sea Research Part II: Topical Studies in Oceanography</em><br>
+  [<i class="fa fa-book" aria-hidden="true"></i> Journal]({{ page.doi }}/10.1016/j.dsr2.2010.10.011){: .btn .btn--small .btn--danger}
+  [<i class="fa fa-file-pdf-o" aria-hidden="true"></i> PDF file]({{ site.baseurl}}/articles/O'Loughlin+2010.pdf){: .btn .btn--small .btn--warning}
+  [<i class="fa fa-unlock-alt" aria-hidden="true"></i> sci-hub]({{ page.scihub }}/10.1016/j.dsr2.2010.10.011){: .btn .btn--small .btn--success}
+
+* **Early post-settlement mortality and the structure of coral assemblages**<br>
+  Penin L., Michonneau F., Baird A.H., Connolly S.R., Pratchett M.S., Kayal M., Adjeroud M.<br>
+  <em>Marine Ecology Progress Series</em><br>
+  [<i class="fa fa-book" aria-hidden="true"></i> Journal]({{ page.doi }}/10.3354/meps08554){: .btn .btn--small .btn--danger}
+  [<i class="fa fa-file-pdf-o" aria-hidden="true"></i> PDF file]({{ site.baseurl}}/articles/Penin+2010.pdf){: .btn .btn--small .btn--warning}
+  [<i class="fa fa-unlock-alt" aria-hidden="true"></i> sci-hub]({{ page.scihub }}/10.3354/meps08554){: .btn .btn--small .btn--success}
+
+## 2009
+
+* **Recurrent disturbances, recovery trajectories, and resilience of coral assemblages on a South Central Pacific reef**<br>
+  Adjeroud M., Michonneau F., Edmunds P.J., Chancerelle Y., Lison de Loma T., Penin L., Thibaut L., Vidal-Dupiol J., Salvat B., Galzin R.<br>
+  <em>Coral Reefs</em><br>
+  [<i class="fa fa-book" aria-hidden="true"></i> Journal]({{ page.doi }}/10.1007/s00338-009-0515-7){: .btn .btn--small .btn--danger}
+  [<i class="fa fa-file-pdf-o" aria-hidden="true"></i> PDF file]({{ site.baseurl}}/articles/Adjeroud+2009.pdf){: .btn .btn--small .btn--warning}
+  [<i class="fa fa-unlock-alt" aria-hidden="true"></i> sci-hub]({{ page.scihub }}/10.1007/s00338-009-0515-7){: .btn .btn--small .btn--success}
+
+## 2007
+
+* **Fish community comparisons along environmental gradients in lakes of France and north-east USA**<br>
+  Irz P., Michonneau F., Oberdorff T., Whittier T.R., Lamouroux N., Mouillot D., Argillier C.<br>
+  <em>Global Ecology and Biogeography</em><br>
+  [<i class="fa fa-book" aria-hidden="true"></i> Journal]({{ page.doi }}/10.1111/j.1466-8238.2006.00290.x){: .btn .btn--small .btn--danger}
+  [<i class="fa fa-file-pdf-o" aria-hidden="true"></i> PDF file]({{ site.baseurl}}/articles/Irz+2007.pdf){: .btn .btn--small .btn--warning}
+  [<i class="fa fa-unlock-alt" aria-hidden="true"></i> sci-hub]({{ page.scihub }}/10.1111/j.1466-8238.2006.00290.x){: .btn .btn--small .btn--success}
+
+* **Controlling for natural variability in assessing the response of fish metrics to human pressures for lakes in north-east USA**<br>
+  Irz P., De Bortoli J., Michonneau F., Whittier T.R., Oberdorff T., Argillier C.<br>
+  <em>Aquatic Conservation</em><br>
+  [<i class="fa fa-book" aria-hidden="true"></i> Journal]({{ page.doi }}/10.1002/aqc.859){: .btn .btn--small .btn--danger}
+  [<i class="fa fa-file-pdf-o" aria-hidden="true"></i> PDF file]({{ site.baseurl}}/articles/Irz+2007b.pdf){: .btn .btn--small .btn--warning}
+  [<i class="fa fa-unlock-alt" aria-hidden="true"></i> sci-hub]({{ page.scihub }}/10.1002/aqc.859){: .btn .btn--small .btn--success}
