@@ -10,12 +10,8 @@ date:
 type: page
 published: true
 permalink: /publications/
-status: publish
 categories: []
 tags: []
-scihub: http://sci-hub.cc
-doi: https://doi.org
-github: https://github.com
 ---
 
 <!---
@@ -28,6 +24,8 @@ sci-hub [<i class="fa fa-unlock-alt" aria-hidden="true"></i> sci-hub]({{ page.sc
 free-access: <i class="fa fa-unlock-alt" aria-hidden="true" style="color: #62c462"></i>
 open-access: <i class="fa fa-unlock" aria-hidden="true" style="color: #f89406"></i>
 --->
+
+I strive
 
 ## 2021
 
