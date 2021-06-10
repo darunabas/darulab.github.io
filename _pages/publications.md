@@ -29,51 +29,13 @@ free-access: <i class="fa fa-unlock-alt" aria-hidden="true" style="color: #62c46
 open-access: <i class="fa fa-unlock" aria-hidden="true" style="color: #f89406"></i>
 --->
 
-I strive to make all the outputs from my research accessible. Below, in addition to links to the journals in which the article was published, I also provide links to local copies of the PDF files, and links to [sci-hub](https://en.wikipedia.org/wiki/Sci-Hub) in case you don't have access to these publications through a journal subscription. Open-access publications (released under a Creative Commons license) have <i class="fa fa-unlock" aria-hidden="true" style="color: #f89406"></i> near their title, while free-access (no journal subscription required to read the article) publications have <i class="fa fa-unlock-alt" aria-hidden="true" style="color: #62c462"></i>.
+## 2021
 
-## Pre-prints
+42- Daru, B.H. (2021) Migratory birds distribute seeds to new climates. Nature [doi: 10.1038/d41586-021-01547-1](https://doi.org/10.1038/d41586-021-01547-1){:target="_blank"}
 
+41- Rock, B.M. & **Daru, B.H.** (2021) Impediments to understanding seagrasses' response to global change. **_Frontiers in Marine Science_** 8: 608867. [[DOI]](https://doi.org/10.3389/fmars.2021.608867){:target="_blank"} [[download PDF]](/docs/41_RockDaru2021fmars.pdf){:target="_blank"}
 
-* **Cryptic and not-so-cryptic species in the complex <em>Holothuria (Thymiosycia) impatiens</em> (Forsskal, 1775) (Echinodermata: Holothuroidea)** <i class="fa fa-unlock" aria-hidden="true" style="color: #f89406"></i><br>
-   Michonneau F.<br>
-   [<i class="fa fa-file-text-o" aria-hidden="true"></i> Preprint](https://doi.org/10.1101/014225){: .btn .btn--small}
-
-* **More than meets the eye: diversity and geographic patterns in sea cucumbers** <i class="fa fa-unlock" aria-hidden="true" style="color: #f89406"></i><br>
-  Michonneau F., McPherson S., O'Loughlin P.M., Paulay G. <br>
-  [<i class="fa fa-file-text-o" aria-hidden="true"></i> Preprint](https://doi.org/10.1101/014282){: .btn .btn--small}
-
-
-## 2017
-
-* **Molecular phylogeny of Didemnidae (Ascidiacea: Tunicata)** <br>
-   da Silva Oliveira F. A., Michonneau F., da Cruz Lotufo T. <br>
-   *Zoological Journal of the Linnean Society*<br>
-  [<i class="fa fa-book" aria-hidden="true"></i> Journal]({{ page.doi }}/10.1093/zoolinnean/zlw002){: .btn .btn--small .btn--danger}
-  [<i class="fa fa-file-pdf-o" aria-hidden="true"></i> PDF file]({{ site.baseurl}}/articles/daSilva+2017.pdf){: .btn .btn--small .btn--warning}
-  [<i class="fa fa-unlock-alt" aria-hidden="true"></i> sci-hub]({{ page.scihub }}/10.1093/zoolinnean/zlw002){: .btn .btn--small .btn--success}
-
-## 2016
-
-* **Ten Simple Rules for Digital Data Storage** <i class="fa fa-unlock" aria-hidden="true" style="color: #f89406"></i> <br>
-  Hart T., Barmby P., LeBauer D.,  Michonneau F.,  Mount S., Mulrooney P., Poisot T., Woo K.H., Zimmerman N. B., Hollister J.<br>
-  *PLOS Computational Biology*<br>
-  [<i class="fa fa-book" aria-hidden="true"></i> Journal](https://doi.org/10.1371/journal.pcbi.1005097){: .btn .btn--small .btn--danger}
-  [<i class="fa fa-file-text-o" aria-hidden="true"></i> Preprint](https://doi.org/10.7287/peerj.preprints.1448v2){: .btn .btn--small}
-  [<i class="fa fa-github" aria-hidden="true"></i> GitHub Repository](https://github.com/emhart/10-simple-rules-data-storage){: .btn .btn--small .btn--info}
-    [<i class="fa fa-file-pdf-o" aria-hidden="true"></i> PDF file]({{ site.baseurl}}/articles/Hart+2016.pdf){: .btn .btn--small .btn--warning}
-
-* **Invertébrés benthiques des Marquises, les Echinodermes** <i class="fa fa-unlock-alt" aria-hidden="true" style="color:#62c462"></i><br>
-  Paulay G., Michonneau F., Starmer J., Evans N. (Salvat B., ed) *in* Biodiversité terrestre et marine des îles Marquises, Polynésie française. Galzin R., Duron S.-D., Meyer J.-Y. (eds). Paris: Société française d'Ichtyologie. 526 pages.<br>
-   [<i class="fa fa-file-pdf-o" aria-hidden="true"></i> PDF file]({{ site.baseurl}}/articles/Salvat+2016.pdf){: .btn .btn--small .btn--warning}
-
-
-* **rotl an R package to interact with the Open Tree of Life data** <i class="fa fa-unlock-alt" aria-hidden="true" style="color: #62c462"></i><br>
-  Michonneau F., Brown J.W., Winter D.<br>
-  *Methods in Ecology and Evolution*<br>
-  [<i class="fa fa-book" aria-hidden="true"></i> Journal](https://doi.org/10.1111/2041-210X.12593){: .btn .btn--small .btn--danger}
-  [<i class="fa fa-file-text-o" araia-hidden="true"></i> Pre-print](https://doi.org/10.7287/peerj.preprints.1471v3){: .btn .btn--small}
-  [<i class="fa fa-github" aria-hidden="true"></i> GitHub Repository](https://github.com/fmichonneau/rotl-ms/){: .btn .btn--small .btn--info}
-  [<i class="fa fa-file-pdf-o" aria-hidden="true"></i> PDF file]({{ site.baseurl}}/articles/Michonneau+2016-rotl.pdf){: .btn .btn--small .btn--warning}
+40- **Daru, B.H.** (2021) Exploring a new way to think about climate regions. **_eLife_** 10: e67422. [[DOI]](https://doi.org/10.7554/eLife.67422){:target="_blank"} [[download PDF]](/docs/40_Daru2021_eLife.pdf){:target="_blank"}
 
 
 ## 2015
