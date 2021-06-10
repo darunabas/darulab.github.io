@@ -12,7 +12,7 @@ published: true
 41- **Daru, B.H.** (2021) Exploring a new way to think about climate regions. **_eLife_** 10: e67422. [[DOI]](https://doi.org/10.7554/eLife.67422){:target="_blank"} [[download PDF]](/docs/40_Daru2021_eLife.pdf){:target="_blank"}
 
 2020
-------
+
 ---
 39- **Daru, B.H.**, Farooq, H., Antonelli, A. & Faurby, S. (2020) Endemism patterns are scale dependent. **_Nature Communications_** 11: 2115. [[DOI]](https://doi.org/10.1038/s41467-020-15921-6){:target="_blank"} [[download PDF]](/docs/39_Daru2020_NCOMMS.pdf){:target="_blank"}
 
