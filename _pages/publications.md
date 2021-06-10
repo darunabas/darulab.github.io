@@ -1,6 +1,17 @@
 ---
 layout: single
 title: Publications
+date: null
+type: page
+published: true
+status: publish
+permalink: /publications/
+categories: []
+tags: []
+---
+---
+layout: single
+title: Publications
 date:
 type: page
 published: true
