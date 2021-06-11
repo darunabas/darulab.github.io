@@ -19,6 +19,13 @@ tags: []
 
 39- **Daru, B.H.**, Farooq, H., Antonelli, A. & Faurby, S. (2020) Endemism patterns are scale dependent. **_Nature Communications_** 11: 2115. [[DOI]](https://doi.org/10.1038/s41467-020-15921-6){:target="_blank"} [[download PDF]](/docs/39_Daru2020_NCOMMS.pdf){:target="_blank"}
 
+* **Molecular phylogeny of Didemnidae (Ascidiacea: Tunicata)** <br>
+   da Silva Oliveira F. A., Michonneau F., da Cruz Lotufo T. <br>
+   *Zoological Journal of the Linnean Society*<br>
+  [<i class="fa fa-book" aria-hidden="true"></i> Journal]({{ page.doi }}/10.1093/zoolinnean/zlw002){: .btn .btn--small .btn--danger}
+  [<i class="fa fa-file-pdf-o" aria-hidden="true"></i> PDF file]({{ site.baseurl}}/articles/daSilva+2017.pdf){: .btn .btn--small .btn--warning}
+  [<i class="fa fa-unlock-alt" aria-hidden="true"></i> sci-hub]({{ page.scihub }}/10.1093/zoolinnean/zlw002){: .btn .btn--small .btn--success}
+
 38- Davies, T.J., **Daru, B.H.**, Bezeng, B.S., Charles-Dominique, T., Hempson, G.P., Kabongo, R.M., Maurin, O., Muasya, A.M., van der Bank, M. & Bond, W.J. (2020) Savanna tree evolutionary ages inform the reconstruction of the paleoenvironment of our hominin ancestors. **_Scientific Reports_** 10: 12430. [[DOI]](https://doi.org/10.7554/eLife.67422){:target="_blank"} [[download PDF]](/docs/38_Davies2020_SREP.pdf){:target="_blank"}
 
 37- **Daru, B.H.**, Karunarathne P. & Schliep K. (2020) phyloregion: R package for biogeographic regionalization and macroecology. Methods in Ecology and Evolution 11: 1483-1491. [[DOI]](https://doi.org/10.7554/eLife.67422){:target="_blank"} [[download PDF]](/docs/37_Daru2020_MEE.pdf){:target="_blank"}
@@ -110,4 +117,3 @@ tags: []
 02- Yessoufou, K., Abalaka, J., Van der Bank, M. & **Daru, B.H.** (2012) Fig-frugivore interactions follow a constrained Brownian motion model of evolution in an Important Bird Area, West Africa. **_Israel Journal of Ecology and Evolution_** 58: 39-51. [[DOI]](https://doi.org/10.7554/eLife.67422){:target="_blank"} [[download PDF]](/docs/02_Yessoufou2012_IJEE.pdf){:target="_blank"}
 
 01- Van der Bank, H.F., Greenfield, R., **Daru, B.H.** & Yessoufou, K. (2012) DNA barcoding reveals micro-evolutionary changes and river system-level phylogeographic resolution of seven populations of African silver catfish, Schilbe intermedius (Siluriformes, Schilbeidae). **_Acta Ichthyologica et Piscatoria_** 42: 307-320. [[DOI]](https://doi.org/10.7554/eLife.67422){:target="_blank"} [[download PDF]](/docs/01_VanderBank2012.pdf){:target="_blank"}
-
