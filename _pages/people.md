@@ -62,6 +62,13 @@ Research: Mismatches in plant sampling biases between vouchered specimens and ob
 
 <br clear="left"/>
 
+![image-title-here](/images/you.jpg){:class="img-responsive"}{:width="200px"}{: style="float: left; padding-right:10px"}
+
+**THIS COULD BE YOU!**   
+Please contact me about opportunities for undergraduate research experience, graduate study, or postdoctoral research in my lab<br>
+
+<br clear="left"/>
+
 ---
 ### LAB ALUMNI
 
