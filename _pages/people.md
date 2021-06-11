@@ -22,12 +22,15 @@ PhD – University of Johannesburg<br>
 BSc – University of Jos<br>
 Editorial Member at [**_eLife_**](https://elifesciences.org/about/people/ecology)<br>
 Guest Editor for [**_Phil Trans Roy Soc B_**](http://rstb.royalsocietypublishing.org/content/374/1763)<br>
+[<i class="fa fa-book" aria-hidden="true"></i> DOI](https://doi.org/10.3389/fmars.2021.608867){: .btn .btn--small .btn--success}{:target="_blank"}
+  [<i class="fa fa-file-pdf-o" aria-hidden="true"></i> PDF file]({{ site.baseurl}}/docs/41_RockDaru2021fmars.pdf){: .btn .btn--small .btn--primary}{:target="_blank"}
+  
 Curriculum Vitae (pdf)
 
 <br clear="left"/>
 
 
-<img src="{{site.baseurl}}/images/barnabas.jpg">
+<img src="{{site.baseurl}}/images/barnabas.jpg" width="300px">
 
 
 ---
