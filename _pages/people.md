@@ -17,16 +17,15 @@ tags: []
 <img src="{{site.baseurl}}/images/barnabas.png" width="300px" style="float:left; padding-right:10px"/>
 
 **Barnabas Daru**   
-Postdoc – Harvard University   
-PhD – University of Johannesburg   
-BSc – University of Jos   
-Editorial Member at [**_eLife_**](https://elifesciences.org/about/people/ecology)   
-Guest Editor for [**_Phil Trans Roy Soc B_**](http://rstb.royalsocietypublishing.org/content/374/1763)   
+Postdoc – Harvard University<br>
+PhD – University of Johannesburg<br>
+BSc – University of Jos<br>
+Editorial Member at [**_eLife_**](https://elifesciences.org/about/people/ecology)<br>
+Guest Editor for [**_Phil Trans Roy Soc B_**](http://rstb.royalsocietypublishing.org/content/374/1763)<br>
 Curriculum Vitae (pdf)
 
 <br clear="left"/>
 
-![My image Name](/images/barnabas.jpg)
 
 <img src="{{site.baseurl}}/images/barnabas.jpg">
 
