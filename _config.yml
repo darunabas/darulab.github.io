@@ -69,7 +69,9 @@ author:
   orcid            : "0000-0002-2115-0257"
   
 include:
+  - .htaccess
   - _pages
+
 
 # Exclude from processing.
 # The following items will not be processed, by default. Create a custom list
