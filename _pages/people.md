@@ -1,7 +1,7 @@
 ---
 layout: single
 title: People
-date:
+date: null
 type: page
 published: true
 status: publish
@@ -14,7 +14,7 @@ tags: []
 ## PEOPLE IN THE DARU LAB
 ### PRINCIPAL INVESTIGATOR
 
-<img src="images/barna.png" width="300px" style="float:left; padding-right:10px"/>
+<img src="images/barnabas.png" width="300px" style="float:left; padding-right:10px"/>
 
 **Barnabas Daru**   
 Postdoc – Harvard University   
@@ -25,6 +25,11 @@ Guest Editor for [**_Phil Trans Roy Soc B_**](http://rstb.royalsocietypublishing
 Curriculum Vitae (pdf)
 
 <br clear="left"/>
+
+<p align="center">
+<img width="280" src="images/barnabas.jpg">
+</p>
+
 
 ---
 
@@ -82,4 +87,3 @@ Research: Next generation systematics and biogeography of the aquatic plant clad
 download PDF of CV
 
 <br clear="left"/>
-
