@@ -12,31 +12,31 @@ tags: []
 ## 2021
 
 41- Rock, B.M. & **Daru, B.H.** (2021) Impediments to understanding seagrasses' response to global change. **_Frontiers in Marine Science_** 8: 608867.<br>
-  [<i class="fa fa-book" aria-hidden="true"></i> DOI](https://doi.org/10.3389/fmars.2021.608867){: .btn .btn--small .btn--danger}
+  [<i class="fa fa-book" aria-hidden="true"></i> DOI](https://doi.org/10.3389/fmars.2021.608867){: .btn .btn--small .btn--success}
   [<i class="fa fa-file-pdf-o" aria-hidden="true"></i> PDF file]({{ site.baseurl}}/docs/41_RockDaru2021fmars.pdf){: .btn .btn--small .btn--primary}{:target="_blank"}
 
 40- **Daru, B.H.** (2021) Exploring a new way to think about climate regions. **_eLife_** 10: e67422.<br>
-  [<i class="fa fa-book" aria-hidden="true"></i> DOI](https://doi.org/10.7554/eLife.67422){: .btn .btn--small .btn--danger}
+  [<i class="fa fa-book" aria-hidden="true"></i> DOI](https://doi.org/10.7554/eLife.67422){: .btn .btn--small .btn--success}
   [<i class="fa fa-file-pdf-o" aria-hidden="true"></i> PDF file]({{ site.baseurl}}/docs/40_Daru2021_eLife.pdf){: .btn .btn--small .btn--primary}{:target="_blank"}
 
 ## 2020
 
 39- **Daru, B.H.**, Farooq, H., Antonelli, A. & Faurby, S. (2020) Endemism patterns are scale dependent. **_Nature Communications_** 11: 2115.<br>
-  [<i class="fa fa-book" aria-hidden="true"></i> DOI](https://doi.org/10.1038/s41467-020-15921-6){: .btn .btn--small .btn--danger}
+  [<i class="fa fa-book" aria-hidden="true"></i> DOI](https://doi.org/10.1038/s41467-020-15921-6){: .btn .btn--small .btn--success}
   [<i class="fa fa-file-pdf-o" aria-hidden="true"></i> PDF file]({{ site.baseurl}}/docs/39_Daru2020_NCOMMS.pdf){: .btn .btn--small .btn--primary}{:target="_blank"}
   
 38- Davies, T.J., **Daru, B.H.**, Bezeng, B.S., Charles-Dominique, T., Hempson, G.P., Kabongo, R.M., Maurin, O., Muasya, A.M., van der Bank, M. & Bond, W.J. (2020) Savanna tree evolutionary ages inform the reconstruction of the paleoenvironment of our hominin ancestors. **_Scientific Reports_** 10: 12430.<br>
-  [<i class="fa fa-book" aria-hidden="true"></i> DOI](https://doi.org/10.1038/s41598-020-69378-0){: .btn .btn--small .btn--danger}
+  [<i class="fa fa-book" aria-hidden="true"></i> DOI](https://doi.org/10.1038/s41598-020-69378-0){: .btn .btn--small .btn--success}
   [<i class="fa fa-file-pdf-o" aria-hidden="true"></i> PDF file]({{ site.baseurl}}/docs/38_Davies2020_SREP.pdf){: .btn .btn--small .btn--primary}{:target="_blank"}
 
 37- **Daru, B.H.**, Karunarathne P. & Schliep K. (2020) phyloregion: R package for biogeographic regionalization and macroecology. Methods in Ecology and Evolution 11: 1483-1491.<br>
-  [DOI](https://doi.org/10.1111/2041-210X.13478){: .btn .btn--small .btn--success}{:target="_blank"}
+  [<i class="fa fa-book" aria-hidden="true"></i> DOI](https://doi.org/10.1111/2041-210X.13478){: .btn .btn--small .btn--success}{:target="_blank"}
   [<i class="fa fa-file-pdf-o" aria-hidden="true"></i> PDF file]({{ site.baseurl}}/docs/37_Daru2020_MEE.pdf){: .btn .btn--small .btn--primary}{:target="_blank"}
 
 ## 2019
 
 36- **Daru, B.H.**, le Roux, P.C., Gopalraj, J., Park, D.S., Holt, B.G. & Greve, M. (2019) Spatial overlaps between the global protected areas network and terrestrial hotspots of evolutionary diversity. **_Global Ecology and Biogeography_** 28: 757-766.<br>
-  [DOI](https://doi.org/10.1111/geb.12888){: .btn .btn--small .btn--success}{:target="_blank"}
+  [<i class="fa fa-book" aria-hidden="true"></i> DOI](https://doi.org/10.1111/geb.12888){: .btn .btn--small .btn--success}{:target="_blank"}
   [<i class="fa fa-file-pdf-o" aria-hidden="true"></i> PDF file]({{ site.baseurl}}/docs/36_Daru2019_GEB.pdf){: .btn .btn--small .btn--primary}{:target="_blank"}
 
 35- Mathakutha, R., Steyn, C., le Roux, P.C., Blom, I.J., Chown, S.L., **Daru, B.H.**, Ripley, B.S., Louw, A. & Greve, M. (2019) Invasive species differ in key functional traits from native and non-invasive alien plant species. **_Journal of Vegetation Science_** 30: 994-1006. [[DOI]](https://doi.org/10.7554/eLife.67422){:target="_blank"} [[download PDF]](/docs/35_Mathakutha2019_JVS.pdf){:target="_blank"}
