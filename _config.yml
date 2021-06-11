@@ -33,6 +33,41 @@ paginate: 5 # amount of posts to show
 paginate_path: /page:num/
 timezone: # https://en.wikipedia.org/wiki/List_of_tz_database_time_zones
 
+
+# Site Author
+author:
+  name             : "Barnabas Daru"
+  avatar           : "images/barnabas.jpg"
+  bio              : "Assistant Professor of Biology"
+  location         : #"The Carpentries"
+  email            : "darunabas@gmail.com"
+  uri              :
+  bitbucket        :
+  codepen          :
+  dribbble         :
+  flickr           :
+  facebook         :
+  foursquare       :
+  github           : "darunabas"
+  google_plus      :
+  keybase          : # "fmic"
+  instagram        :
+  lastfm           :
+  linkedin         : # "françois-michonneau-329bb6151"
+  pinterest        :
+  soundcloud       :
+  stackoverflow    : # "1113276/sinqueso" # http://stackoverflow.com/users/123456/username
+  steam            :
+  tumblr           :
+  twitter          : "Barnabas_Daru"
+  vine             :
+  weibo            :
+  xing             :
+  youtube          :
+  impactstory      : "0000-0002-9092-966X"
+  googlescholar    : "I8fP-c4AAAAJ"
+  orcid            : "0000-0002-2115-0257"
+  
 include:
   - _pages
 
