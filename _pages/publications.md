@@ -45,150 +45,150 @@ tags: []
 
 34- **Daru, B.H.**, Kling, M.M., Meineke, E.K. & van Wyk, A.E. (2019) Temperature controls phenology in continuously flowering Protea species of subtropical Africa. _**Applications in Plant Sciences**_ 7: e1232.<br>
   [<i class="fa fa-book" aria-hidden="true"></i> DOI](https://doi.org/10.1111/geb.12888){: .btn .btn--small .btn--success}{:target="_blank"}
-  [<i class="fa fa-file-pdf-o" aria-hidden="true"></i> PDF file]({{ site.baseurl}}/docs/35_Mathakutha2019_JVS.pdf){: .btn .btn--small .btn--primary}{:target="_blank"}
+  [<i class="fa fa-file-pdf-o" aria-hidden="true"></i> PDF file]({{ site.baseurl}}/docs/34_Daru2019_APPS.pdf){: .btn .btn--small .btn--primary}{:target="_blank"}
 
 ## 2018
 
 33- **Daru, B.H.**, Park, D.S., Primack, R.B., Willis, C.G., Barrington, D.S., Whitfeld, T.J.S., Seidler, T.G., Sweeney, P.W., Foster, D.R., Ellison, A.M. & Davis, C.C. (2018) Widespread sampling biases in herbaria revealed from large-scale digitization. **_New Phytologist_** 217: 939-955.<br>
   [<i class="fa fa-book" aria-hidden="true"></i> DOI](https://doi.org/10.1111/geb.12888){: .btn .btn--small .btn--success}{:target="_blank"}
-  [<i class="fa fa-file-pdf-o" aria-hidden="true"></i> PDF file]({{ site.baseurl}}/docs/35_Mathakutha2019_JVS.pdf){: .btn .btn--small .btn--primary}{:target="_blank"}
+  [<i class="fa fa-file-pdf-o" aria-hidden="true"></i> PDF file]({{ site.baseurl}}/docs/33_Daru2018_NPH.pdf){: .btn .btn--small .btn--primary}{:target="_blank"}
 
 32- **Daru, B.H.**, Bowman, E.A., Pfister, D.H. & Arnold, A.E. (2018) A novel proof-of-concept for capturing the diversity of endophytic fungi preserved in herbarium specimens. **_Philosophical Transactions of the Royal Society B_** 374: 20170395.<br>
   [<i class="fa fa-book" aria-hidden="true"></i> DOI](https://doi.org/10.1111/geb.12888){: .btn .btn--small .btn--success}{:target="_blank"}
-  [<i class="fa fa-file-pdf-o" aria-hidden="true"></i> PDF file]({{ site.baseurl}}/docs/35_Mathakutha2019_JVS.pdf){: .btn .btn--small .btn--primary}{:target="_blank"}
+  [<i class="fa fa-file-pdf-o" aria-hidden="true"></i> PDF file]({{ site.baseurl}}/docs/32_Daru2018_PTRSB.pdf){: .btn .btn--small .btn--primary}{:target="_blank"}
 
 31- Meineke, E.K., Davies, T.J., **Daru, B.H.** & Davis, C.C. (2018) Biological collections for understanding biodiversity in the Anthropocene. **_Philosophical Transactions of the Royal Society B_** 374: 20170386.<br>
   [<i class="fa fa-book" aria-hidden="true"></i> DOI](https://doi.org/10.1111/geb.12888){: .btn .btn--small .btn--success}{:target="_blank"}
-  [<i class="fa fa-file-pdf-o" aria-hidden="true"></i> PDF file]({{ site.baseurl}}/docs/35_Mathakutha2019_JVS.pdf){: .btn .btn--small .btn--primary}{:target="_blank"}
+  [<i class="fa fa-file-pdf-o" aria-hidden="true"></i> PDF file]({{ site.baseurl}}/docs/31_Meineke2018_PTRSB.pdf){: .btn .btn--small .btn--primary}{:target="_blank"}
 
 30- **Daru, B.H.**, van der Bank, M. & Davies, T.J. (2018) Unravelling the evolutionary origins of biogeographic assemblages. Diversity and Distributions 24: 313–324.<br>
   [<i class="fa fa-book" aria-hidden="true"></i> DOI](https://doi.org/10.1111/geb.12888){: .btn .btn--small .btn--success}{:target="_blank"}
-  [<i class="fa fa-file-pdf-o" aria-hidden="true"></i> PDF file]({{ site.baseurl}}/docs/35_Mathakutha2019_JVS.pdf){: .btn .btn--small .btn--primary}{:target="_blank"}
+  [<i class="fa fa-file-pdf-o" aria-hidden="true"></i> PDF file]({{ site.baseurl}}/docs/30_Daru2018_DDI.pdf){: .btn .btn--small .btn--primary}{:target="_blank"}
 
 ## 2017
 
 29- **Daru, B.H.**, Elliott, T.L., Park, D.S. & Davies, T.J. (2017) Understanding the processes underpinning patterns of phylogenetic regionalization. **_Trends in Ecology and Evolution_** 32: 845-860.<br>
   [<i class="fa fa-book" aria-hidden="true"></i> DOI](https://doi.org/10.1111/geb.12888){: .btn .btn--small .btn--success}{:target="_blank"}
-  [<i class="fa fa-file-pdf-o" aria-hidden="true"></i> PDF file]({{ site.baseurl}}/docs/35_Mathakutha2019_JVS.pdf){: .btn .btn--small .btn--primary}{:target="_blank"}
+  [<i class="fa fa-file-pdf-o" aria-hidden="true"></i> PDF file]({{ site.baseurl}}/docs/29_Daru2017_TREE.pdf){: .btn .btn--small .btn--primary}{:target="_blank"}
 
 28- **Daru, B.H.**, Holt, B.G., Lessard, J.P., Yessoufou, K. & Davies, T.J. (2017) Phylogenetic regionalization of marine plants reveals close evolutionary affinities among disjunct temperate assemblages. **_Biological Conservation_** 213: 351-356.<br>
   [<i class="fa fa-book" aria-hidden="true"></i> DOI](https://doi.org/10.1111/geb.12888){: .btn .btn--small .btn--success}{:target="_blank"}
-  [<i class="fa fa-file-pdf-o" aria-hidden="true"></i> PDF file]({{ site.baseurl}}/docs/35_Mathakutha2019_JVS.pdf){: .btn .btn--small .btn--primary}{:target="_blank"}
+  [<i class="fa fa-file-pdf-o" aria-hidden="true"></i> PDF file]({{ site.baseurl}}/docs/28_Daru2017_BIOC.pdf){: .btn .btn--small .btn--primary}{:target="_blank"}
 
 27- **Daru, B.H.**, van der Bank, M., Bello, A. & Yessoufou, K. (2017) Testing the reliability of the standard and complementary DNA barcodes for the monocot subfamily Alooideae from South Africa. **_Genome_** 60: 337-347.<br>
   [<i class="fa fa-book" aria-hidden="true"></i> DOI](https://doi.org/10.1111/geb.12888){: .btn .btn--small .btn--success}{:target="_blank"}
-  [<i class="fa fa-file-pdf-o" aria-hidden="true"></i> PDF file]({{ site.baseurl}}/docs/35_Mathakutha2019_JVS.pdf){: .btn .btn--small .btn--primary}{:target="_blank"}
+  [<i class="fa fa-file-pdf-o" aria-hidden="true"></i> PDF file]({{ site.baseurl}}/docs/27_Daru2017_GEN.pdf){: .btn .btn--small .btn--primary}{:target="_blank"}
 
 26- Bezeng, B.S., Davies, T.J., **Daru, B.H.**, Kabongo, R.M., Maurin, O., Orton, R.D., Yessoufou, K., van der Bank, H. & van der Bank, M. (2017) Ten years of barcoding at the African Centre for DNA barcoding. **_Genome_** 60: 629-638.<br>
   [<i class="fa fa-book" aria-hidden="true"></i> DOI](https://doi.org/10.1111/geb.12888){: .btn .btn--small .btn--success}{:target="_blank"}
-  [<i class="fa fa-file-pdf-o" aria-hidden="true"></i> PDF file]({{ site.baseurl}}/docs/35_Mathakutha2019_JVS.pdf){: .btn .btn--small .btn--primary}{:target="_blank"}
+  [<i class="fa fa-file-pdf-o" aria-hidden="true"></i> PDF file]({{ site.baseurl}}/docs/26_Bezeng2017_GEN.pdf){: .btn .btn--small .btn--primary}{:target="_blank"}
 
 25- Yessoufou, K., **Daru, B.H.**, Tafirei, R., Elansary, H.O. & Rampedi, I. (2017) Integrating biogeography, threat and evolutionary data to explore extinction crisis in the taxonomic group of cycads. **_Ecology and Evolution_** 7: 2735-2746.<br>
   [<i class="fa fa-book" aria-hidden="true"></i> DOI](https://doi.org/10.1111/geb.12888){: .btn .btn--small .btn--success}{:target="_blank"}
-  [<i class="fa fa-file-pdf-o" aria-hidden="true"></i> PDF file]({{ site.baseurl}}/docs/35_Mathakutha2019_JVS.pdf){: .btn .btn--small .btn--primary}{:target="_blank"}
+  [<i class="fa fa-file-pdf-o" aria-hidden="true"></i> PDF file]({{ site.baseurl}}/docs/25_Yessoufou2017_ECE.pdf){: .btn .btn--small .btn--primary}{:target="_blank"}
 
 24- Bezeng, B.S., Morales-Castilla, I., van der Bank, M., Yessoufou, K., **Daru, B.H.** & Davies, T.J. (2017) Climate change may reduce the spread of non-native species. **_Ecosphere_** 8: e01694.<br>
   [<i class="fa fa-book" aria-hidden="true"></i> DOI](https://doi.org/10.1111/geb.12888){: .btn .btn--small .btn--success}{:target="_blank"}
-  [<i class="fa fa-file-pdf-o" aria-hidden="true"></i> PDF file]({{ site.baseurl}}/docs/35_Mathakutha2019_JVS.pdf){: .btn .btn--small .btn--primary}{:target="_blank"}
+  [<i class="fa fa-file-pdf-o" aria-hidden="true"></i> PDF file]({{ site.baseurl}}/docs/24_Bezeng2017_ECO.pdf){: .btn .btn--small .btn--primary}{:target="_blank"}
 
 ## 2016
 
 23- Charles-Dominique, T., Davies, T.J., Hempson, G.P., Bezeng, S.B., **Daru, B.H.**, Kabongo, R.M., Maurin, O., Muasya, A.M., van der Bank, M. & Bond, W.J. (2016) Spiny plants, mammal browsers and the origin of African savannas. **_Proceedings of the National Academy of Sciences USA_** 113: E5572–E5579.<br>
   [<i class="fa fa-book" aria-hidden="true"></i> DOI](https://doi.org/10.1111/geb.12888){: .btn .btn--small .btn--success}{:target="_blank"}
-  [<i class="fa fa-file-pdf-o" aria-hidden="true"></i> PDF file]({{ site.baseurl}}/docs/35_Mathakutha2019_JVS.pdf){: .btn .btn--small .btn--primary}{:target="_blank"}
+  [<i class="fa fa-file-pdf-o" aria-hidden="true"></i> PDF file]({{ site.baseurl}}/docs/23_CharlesDominique2016_PNAS.pdf){: .btn .btn--small .btn--primary}{:target="_blank"}
 
 22- **Daru, B.H.** & le Roux, P.C. (2016) Marine protected areas are insufficient to conserve global marine plant diversity. **_Global Ecology and Biogeography_** 25: 324–334.<br>
   [<i class="fa fa-book" aria-hidden="true"></i> DOI](https://doi.org/10.1111/geb.12888){: .btn .btn--small .btn--success}{:target="_blank"}
-  [<i class="fa fa-file-pdf-o" aria-hidden="true"></i> PDF file]({{ site.baseurl}}/docs/35_Mathakutha2019_JVS.pdf){: .btn .btn--small .btn--primary}{:target="_blank"}
+  [<i class="fa fa-file-pdf-o" aria-hidden="true"></i> PDF file]({{ site.baseurl}}/docs/22_Daru2016_GEB.pdf){: .btn .btn--small .btn--primary}{:target="_blank"}
 
 21- **Daru, B.H.** & Yessoufou, K. (2016) A search for a single DNA barcode for seagrasses of the world. _DNA Barcoding in Marine Perspectives: Assessment and Conservation of Biodiversity_ (ed. by S. Trivedi, A.A. Ansari, K.S. Ghosh, H. Rehman), pp. 313-330. Springer International Publishing Switzerland.<br>
   [<i class="fa fa-book" aria-hidden="true"></i> DOI](https://doi.org/10.1111/geb.12888){: .btn .btn--small .btn--success}{:target="_blank"}
-  [<i class="fa fa-file-pdf-o" aria-hidden="true"></i> PDF file]({{ site.baseurl}}/docs/35_Mathakutha2019_JVS.pdf){: .btn .btn--small .btn--primary}{:target="_blank"}
+  [<i class="fa fa-file-pdf-o" aria-hidden="true"></i> PDF file]({{ site.baseurl}}/docs/21_Daru2016.pdf){: .btn .btn--small .btn--primary}{:target="_blank"}
 
 20- **Daru, B.H.**, Berger, D.K. & van Wyk, A.E. (2016) Opportunities for unlocking the potential of genomics for African trees. **_New Phytologist_** 210: 772–778.<br>
   [<i class="fa fa-book" aria-hidden="true"></i> DOI](https://doi.org/10.1111/geb.12888){: .btn .btn--small .btn--success}{:target="_blank"}
-  [<i class="fa fa-file-pdf-o" aria-hidden="true"></i> PDF file]({{ site.baseurl}}/docs/35_Mathakutha2019_JVS.pdf){: .btn .btn--small .btn--primary}{:target="_blank"}
+  [<i class="fa fa-file-pdf-o" aria-hidden="true"></i> PDF file]({{ site.baseurl}}/docs/20_Daru2016_NPH.pdf){: .btn .btn--small .btn--primary}{:target="_blank"}
 
 19- Davies, T.J., **Daru, B.H.**, Van der Bank, M., Maurin, O. & Bond, W.J. (2016) Multiple routes underground? Frost alone cannot explain the evolution of underground trees. **_New Phytologist_** 209: 910-912.<br>
   [<i class="fa fa-book" aria-hidden="true"></i> DOI](https://doi.org/10.1111/geb.12888){: .btn .btn--small .btn--success}{:target="_blank"}
-  [<i class="fa fa-file-pdf-o" aria-hidden="true"></i> PDF file]({{ site.baseurl}}/docs/35_Mathakutha2019_JVS.pdf){: .btn .btn--small .btn--primary}{:target="_blank"}
+  [<i class="fa fa-file-pdf-o" aria-hidden="true"></i> PDF file]({{ site.baseurl}}/docs/19_Davies2016_NPH.pdf){: .btn .btn--small .btn--primary}{:target="_blank"}
 
 18- **Daru, B.H.**, Van der Bank, M., Maurin, O., Yessoufou, K., Schaefer, H., Slingsby, J.A. & Davies, T.J. (2016) A novel phylogenetic regionalization of the phytogeographic zones of southern Africa reveals their hidden evolutionary affinities. **_Journal of Biogeography_** 43: 155-166.<br>
   [<i class="fa fa-book" aria-hidden="true"></i> DOI](https://doi.org/10.1111/geb.12888){: .btn .btn--small .btn--success}{:target="_blank"}
-  [<i class="fa fa-file-pdf-o" aria-hidden="true"></i> PDF file]({{ site.baseurl}}/docs/35_Mathakutha2019_JVS.pdf){: .btn .btn--small .btn--primary}{:target="_blank"}
+  [<i class="fa fa-file-pdf-o" aria-hidden="true"></i> PDF file]({{ site.baseurl}}/docs/18_Daru2016_JBI.pdf){: .btn .btn--small .btn--primary}{:target="_blank"}
 
 ## 2015
 
 17- **Daru, B.H.**, Van der Bank, M. & Davies, T.J. (2015) Spatial incongruence among hotspots and complementary areas of tree diversity in southern Africa. **_Diversity and Distributions_** 21: 769-780.<br>
   [<i class="fa fa-book" aria-hidden="true"></i> DOI](https://doi.org/10.1111/geb.12888){: .btn .btn--small .btn--success}{:target="_blank"}
-  [<i class="fa fa-file-pdf-o" aria-hidden="true"></i> PDF file]({{ site.baseurl}}/docs/35_Mathakutha2019_JVS.pdf){: .btn .btn--small .btn--primary}{:target="_blank"}
+  [<i class="fa fa-file-pdf-o" aria-hidden="true"></i> PDF file]({{ site.baseurl}}/docs/17_Daru2015_DDI.pdf){: .btn .btn--small .btn--primary}{:target="_blank"}
 
 16- Bello, A., **Daru, B.H.**, Stirton, C.H., Chimphango, S.B.M., Van der Bank, M., Maurin, O. & Muasya, A.M. (2015) DNA barcodes reveal microevolutionary signals in fire response trait in two legume genera. **_AoB PLANTS_** 7: plv124.<br>
   [<i class="fa fa-book" aria-hidden="true"></i> DOI](https://doi.org/10.1111/geb.12888){: .btn .btn--small .btn--success}{:target="_blank"}
-  [<i class="fa fa-file-pdf-o" aria-hidden="true"></i> PDF file]({{ site.baseurl}}/docs/35_Mathakutha2019_JVS.pdf){: .btn .btn--small .btn--primary}{:target="_blank"}
+  [<i class="fa fa-file-pdf-o" aria-hidden="true"></i> PDF file]({{ site.baseurl}}/docs/16_Bello2015_AoB.pdf){: .btn .btn--small .btn--primary}{:target="_blank"}
 
 15- Yessoufou, K., **Daru, B.H.** & Muasya, A.M. (2015) Phylogenetic exploration of commonly used medicinal plants in South Africa. **_Molecular Ecology Resources_** 15: 405-413.<br>
   [<i class="fa fa-book" aria-hidden="true"></i> DOI](https://doi.org/10.1111/geb.12888){: .btn .btn--small .btn--success}{:target="_blank"}
-  [<i class="fa fa-file-pdf-o" aria-hidden="true"></i> PDF file]({{ site.baseurl}}/docs/35_Mathakutha2019_JVS.pdf){: .btn .btn--small .btn--primary}{:target="_blank"}
+  [<i class="fa fa-file-pdf-o" aria-hidden="true"></i> PDF file]({{ site.baseurl}}/docs/15_Yessoufou2015_MER.pdf){: .btn .btn--small .btn--primary}{:target="_blank"}
 
 14- **Daru, B.H.**, Yessoufou, K., Nuttman, C. & Abalaka, J. (2015) A preliminary study of bird use of fig Ficus species in Amurum Forest Reserve, Nigeria. **_Malimbus_** 37: 1-15.<br>
   [<i class="fa fa-book" aria-hidden="true"></i> DOI](https://doi.org/10.1111/geb.12888){: .btn .btn--small .btn--success}{:target="_blank"}
-  [<i class="fa fa-file-pdf-o" aria-hidden="true"></i> PDF file]({{ site.baseurl}}/docs/35_Mathakutha2019_JVS.pdf){: .btn .btn--small .btn--primary}{:target="_blank"}
+  [<i class="fa fa-file-pdf-o" aria-hidden="true"></i> PDF file]({{ site.baseurl}}/docs/14_Daru2015_M856.pdf){: .btn .btn--small .btn--primary}{:target="_blank"}
 
 ## 2014
 
 13- Maurin, O., Davies, T.J., Burrows, J.E., **Daru, B.H.**, Yessoufou, K., Muasya, A.M., Van der Bank, M. & Bond, W.J. (2014) Savanna fire and the origins of the "underground forests" of Africa. **_New Phytologist_** 204: 201-214.<br>
   [<i class="fa fa-book" aria-hidden="true"></i> DOI](https://doi.org/10.1111/geb.12888){: .btn .btn--small .btn--success}{:target="_blank"}
-  [<i class="fa fa-file-pdf-o" aria-hidden="true"></i> PDF file]({{ site.baseurl}}/docs/35_Mathakutha2019_JVS.pdf){: .btn .btn--small .btn--primary}{:target="_blank"}
+  [<i class="fa fa-file-pdf-o" aria-hidden="true"></i> PDF file]({{ site.baseurl}}/docs/13_Maurin2014_NPH.pdf){: .btn .btn--small .btn--primary}{:target="_blank"}
 
 12- Yessoufou, K., Bamigboye, S.O., **Daru, B.H.** & Van der Bank, M. (2014) Evidence of constant diversification punctuated by a mass extinction in the African cycad. _**Ecology and Evolution**_ 4: 50-58.<br>
   [<i class="fa fa-book" aria-hidden="true"></i> DOI](https://doi.org/10.1111/geb.12888){: .btn .btn--small .btn--success}{:target="_blank"}
-  [<i class="fa fa-file-pdf-o" aria-hidden="true"></i> PDF file]({{ site.baseurl}}/docs/35_Mathakutha2019_JVS.pdf){: .btn .btn--small .btn--primary}{:target="_blank"}
+  [<i class="fa fa-file-pdf-o" aria-hidden="true"></i> PDF file]({{ site.baseurl}}/docs/12_Yessoufou2014_ECE.pdf){: .btn .btn--small .btn--primary}{:target="_blank"}
 
 11- Manning, J.C., Boatwright, J.S., **Daru, B.H.**, Maurin, O. & Van der Bank, M. (2014) A molecular phylogeny and generic classification of Asphodelaceae subfamily Alooideae: A final resolution of the prickly issue of polyphyly in the Alooids? **_Systematic Botany_** 39: 55-74.<br>
   [<i class="fa fa-book" aria-hidden="true"></i> DOI](https://doi.org/10.1111/geb.12888){: .btn .btn--small .btn--success}{:target="_blank"}
-  [<i class="fa fa-file-pdf-o" aria-hidden="true"></i> PDF file]({{ site.baseurl}}/docs/35_Mathakutha2019_JVS.pdf){: .btn .btn--small .btn--primary}{:target="_blank"}
+  [<i class="fa fa-file-pdf-o" aria-hidden="true"></i> PDF file]({{ site.baseurl}}/docs/11_Manning2014_SYS.pdf){: .btn .btn--small .btn--primary}{:target="_blank"}
 
 10- Yessoufou, K., Gere, J., **Daru, B.H.** & Van der Bank, M. (2014) Differences in evolutionary history translate into differences in invasion success of alien mammals in South Africa. **_Ecology and Evolution_** 44: 2115-2123.<br>
   [<i class="fa fa-book" aria-hidden="true"></i> DOI](https://doi.org/10.1111/geb.12888){: .btn .btn--small .btn--success}{:target="_blank"}
-  [<i class="fa fa-file-pdf-o" aria-hidden="true"></i> PDF file]({{ site.baseurl}}/docs/35_Mathakutha2019_JVS.pdf){: .btn .btn--small .btn--primary}{:target="_blank"}
+  [<i class="fa fa-file-pdf-o" aria-hidden="true"></i> PDF file]({{ site.baseurl}}/docs/10_Yessoufou2014_ECE.pdf){: .btn .btn--small .btn--primary}{:target="_blank"}
 
 09- Iheanacho, H.E., Njobeh, P.B., Dutton, F.M., Steenkamp, P.A., Steenkamp, L., Mthombeni, J.Q., **Daru, B.H.** & Makun, A.H. (2014) Morphological and molecular identification of filamentous Aspergillus flavus and A. parasiticus isolated from compound feeds in South Africa. **_Food Microbiology_** 44: 180-184.<br>
   [<i class="fa fa-book" aria-hidden="true"></i> DOI](https://doi.org/10.1111/geb.12888){: .btn .btn--small .btn--success}{:target="_blank"}
-  [<i class="fa fa-file-pdf-o" aria-hidden="true"></i> PDF file]({{ site.baseurl}}/docs/35_Mathakutha2019_JVS.pdf){: .btn .btn--small .btn--primary}{:target="_blank"}
+  [<i class="fa fa-file-pdf-o" aria-hidden="true"></i> PDF file]({{ site.baseurl}}/docs/09_Iheanacho2014.pdf){: .btn .btn--small .btn--primary}{:target="_blank"}
 
 ## 2013
 
 08- **Daru, B.H.**, Yessoufou, K., Mankga, L.T. & Davies, T.J. (2013) A global trend towards the loss of evolutionarily unique species in mangrove ecosystems. **_PLoS ONE_** 8: e66686.<br>
   [<i class="fa fa-book" aria-hidden="true"></i> DOI](https://doi.org/10.1111/geb.12888){: .btn .btn--small .btn--success}{:target="_blank"}
-  [<i class="fa fa-file-pdf-o" aria-hidden="true"></i> PDF file]({{ site.baseurl}}/docs/35_Mathakutha2019_JVS.pdf){: .btn .btn--small .btn--primary}{:target="_blank"}
+  [<i class="fa fa-file-pdf-o" aria-hidden="true"></i> PDF file]({{ site.baseurl}}/docs/08_Daru2013_PNE.pdf){: .btn .btn--small .btn--primary}{:target="_blank"}
 
 07- **Daru, B.H.**, Manning, J.C., Boatwright, J.S., Maurin, O., Maclean, N., Schaefer, H., Kuzmina, M. & Van der Bank, M. (2013) Molecular and morphological analysis of subfamily Alooideae (Asphodelaceae) and the inclusion of Chortolirion in Aloe. **_Taxon_** 62: 62-76.<br>
   [<i class="fa fa-book" aria-hidden="true"></i> DOI](https://doi.org/10.1111/geb.12888){: .btn .btn--small .btn--success}{:target="_blank"}
-  [<i class="fa fa-file-pdf-o" aria-hidden="true"></i> PDF file]({{ site.baseurl}}/docs/35_Mathakutha2019_JVS.pdf){: .btn .btn--small .btn--primary}{:target="_blank"}
+  [<i class="fa fa-file-pdf-o" aria-hidden="true"></i> PDF file]({{ site.baseurl}}/docs/07_Daru2013_TAX.pdf){: .btn .btn--small .btn--primary}{:target="_blank"}
 
 06- Kyalangalilwa, B., Boatwright, J.S., **Daru, B.H.**, Maurin, O. & Van der Bank, M. (2013) Phylogenetic position and revised classification of Acacia s.l. (Fabaceae: Mimosoideae) in Africa, including new combinations Vachellia and Senegalia. **_Botanical Journal of the Linnean Society_** 172: 500-523.<br>
   [<i class="fa fa-book" aria-hidden="true"></i> DOI](https://doi.org/10.1111/geb.12888){: .btn .btn--small .btn--success}{:target="_blank"}
-  [<i class="fa fa-file-pdf-o" aria-hidden="true"></i> PDF file]({{ site.baseurl}}/docs/35_Mathakutha2019_JVS.pdf){: .btn .btn--small .btn--primary}{:target="_blank"}
+  [<i class="fa fa-file-pdf-o" aria-hidden="true"></i> PDF file]({{ site.baseurl}}/docs/06_Kyalangalilwa2013_BJLS.pdf){: .btn .btn--small .btn--primary}{:target="_blank"}
 
 05- Gere, J., Yessoufou, K., **Daru, B.H.**, Maurin, O., Mankga, L.T. & Van der Bank, M. (2013) Incorporating trnH-psbA to core DNA barcodes improves discrimination of species within southern African Combretaceae. **_ZooKeys_** 365: 127-147.<br>
   [<i class="fa fa-book" aria-hidden="true"></i> DOI](https://doi.org/10.1111/geb.12888){: .btn .btn--small .btn--success}{:target="_blank"}
-  [<i class="fa fa-file-pdf-o" aria-hidden="true"></i> PDF file]({{ site.baseurl}}/docs/35_Mathakutha2019_JVS.pdf){: .btn .btn--small .btn--primary}{:target="_blank"}
+  [<i class="fa fa-file-pdf-o" aria-hidden="true"></i> PDF file]({{ site.baseurl}}/docs/05_Gere2013.pdf){: .btn .btn--small .btn--primary}{:target="_blank"}
 
 04- Mankga, L.T., Yessoufou, K., Moteetee, A.M., **Daru, B.H.** & Van der Bank, M. (2013) Efficacy of the core DNA barcodes in identifying processed and poorly conserved plant materials commonly used in South African traditional medicine. **_ZooKeys_** 365: 215-233.<br>
   [<i class="fa fa-book" aria-hidden="true"></i> DOI](https://doi.org/10.1111/geb.12888){: .btn .btn--small .btn--success}{:target="_blank"}
-  [<i class="fa fa-file-pdf-o" aria-hidden="true"></i> PDF file]({{ site.baseurl}}/docs/35_Mathakutha2019_JVS.pdf){: .btn .btn--small .btn--primary}{:target="_blank"}
+  [<i class="fa fa-file-pdf-o" aria-hidden="true"></i> PDF file]({{ site.baseurl}}/docs/04_Mankga2013.pdf){: .btn .btn--small .btn--primary}{:target="_blank"}
 
 ## 2012
 
 03- Yessoufou, K., **Daru, B.H.** & Davies, T.J. (2012) Phylogenetic patterns of extinction risk in the Eastern Arc ecosystems, an African biodiversity hotspot. **_PLoS ONE_** 7: e47082.<br>
   [<i class="fa fa-book" aria-hidden="true"></i> DOI](https://doi.org/10.1111/geb.12888){: .btn .btn--small .btn--success}{:target="_blank"}
-  [<i class="fa fa-file-pdf-o" aria-hidden="true"></i> PDF file]({{ site.baseurl}}/docs/35_Mathakutha2019_JVS.pdf){: .btn .btn--small .btn--primary}{:target="_blank"}
+  [<i class="fa fa-file-pdf-o" aria-hidden="true"></i> PDF file]({{ site.baseurl}}/docs/303_Yessoufou2012_PONE.pdf){: .btn .btn--small .btn--primary}{:target="_blank"}
 
 02- Yessoufou, K., Abalaka, J., Van der Bank, M. & **Daru, B.H.** (2012) Fig-frugivore interactions follow a constrained Brownian motion model of evolution in an Important Bird Area, West Africa. **_Israel Journal of Ecology and Evolution_** 58: 39-51.<br>
   [<i class="fa fa-book" aria-hidden="true"></i> DOI](https://doi.org/10.1111/geb.12888){: .btn .btn--small .btn--success}{:target="_blank"}
-  [<i class="fa fa-file-pdf-o" aria-hidden="true"></i> PDF file]({{ site.baseurl}}/docs/35_Mathakutha2019_JVS.pdf){: .btn .btn--small .btn--primary}{:target="_blank"}
+  [<i class="fa fa-file-pdf-o" aria-hidden="true"></i> PDF file]({{ site.baseurl}}/docs/02_Yessoufou2012_IJEE.pdf){: .btn .btn--small .btn--primary}{:target="_blank"}
 
 01- Van der Bank, H.F., Greenfield, R., **Daru, B.H.** & Yessoufou, K. (2012) DNA barcoding reveals micro-evolutionary changes and river system-level phylogeographic resolution of seven populations of African silver catfish, Schilbe intermedius (Siluriformes, Schilbeidae). **_Acta Ichthyologica et Piscatoria_** 42: 307-320.<br>
   [<i class="fa fa-book" aria-hidden="true"></i> DOI](https://doi.org/10.1111/geb.12888){: .btn .btn--small .btn--success}{:target="_blank"}
-  [<i class="fa fa-file-pdf-o" aria-hidden="true"></i> PDF file]({{ site.baseurl}}/docs/35_Mathakutha2019_JVS.pdf){: .btn .btn--small .btn--primary}{:target="_blank"}
+  [<i class="fa fa-file-pdf-o" aria-hidden="true"></i> PDF file]({{ site.baseurl}}/docs/01_VanderBank2012.pdf){: .btn .btn--small .btn--primary}{:target="_blank"}
