@@ -54,15 +54,15 @@ tags: []
   [<i class="fa fa-file-pdf-o" aria-hidden="true"></i> PDF file]({{ site.baseurl}}/docs/33_Daru2018_NPH.pdf){: .btn .btn--small .btn--primary}{:target="_blank"}
 
 32- **Daru, B.H.**, Bowman, E.A., Pfister, D.H. & Arnold, A.E. (2018) A novel proof-of-concept for capturing the diversity of endophytic fungi preserved in herbarium specimens. **_Philosophical Transactions of the Royal Society B_** 374: 20170395.<br>
-  [<i class="fa fa-book" aria-hidden="true"></i> DOI](https://doi.org/10.1111/geb.12888){: .btn .btn--small .btn--success}{:target="_blank"}
+  [<i class="fa fa-book" aria-hidden="true"></i> DOI](https://doi.org/10.1098/rstb.2017.0395){: .btn .btn--small .btn--success}{:target="_blank"}
   [<i class="fa fa-file-pdf-o" aria-hidden="true"></i> PDF file]({{ site.baseurl}}/docs/32_Daru2018_PTRSB.pdf){: .btn .btn--small .btn--primary}{:target="_blank"}
 
 31- Meineke, E.K., Davies, T.J., **Daru, B.H.** & Davis, C.C. (2018) Biological collections for understanding biodiversity in the Anthropocene. **_Philosophical Transactions of the Royal Society B_** 374: 20170386.<br>
-  [<i class="fa fa-book" aria-hidden="true"></i> DOI](https://doi.org/10.1111/geb.12888){: .btn .btn--small .btn--success}{:target="_blank"}
+  [<i class="fa fa-book" aria-hidden="true"></i> DOI](https://doi.org/10.1098/rstb.2017.0386){: .btn .btn--small .btn--success}{:target="_blank"}
   [<i class="fa fa-file-pdf-o" aria-hidden="true"></i> PDF file]({{ site.baseurl}}/docs/31_Meineke2018_PTRSB.pdf){: .btn .btn--small .btn--primary}{:target="_blank"}
 
 30- **Daru, B.H.**, van der Bank, M. & Davies, T.J. (2018) Unravelling the evolutionary origins of biogeographic assemblages. Diversity and Distributions 24: 313–324.<br>
-  [<i class="fa fa-book" aria-hidden="true"></i> DOI](https://doi.org/10.1111/geb.12888){: .btn .btn--small .btn--success}{:target="_blank"}
+  [<i class="fa fa-book" aria-hidden="true"></i> DOI](https://doi.org/10.1111/ddi.12679){: .btn .btn--small .btn--success}{:target="_blank"}
   [<i class="fa fa-file-pdf-o" aria-hidden="true"></i> PDF file]({{ site.baseurl}}/docs/30_Daru2018_DDI.pdf){: .btn .btn--small .btn--primary}{:target="_blank"}
 
 ## 2017
