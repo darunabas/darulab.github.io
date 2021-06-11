@@ -163,14 +163,6 @@ plugins:
   - jemoji
   - jekyll-include-cache
 
-author:
-  name   : "Barnabas Daru"
-  avatar : "/assets/images/bio-photo.jpg"
-  bio    : "Assistant Professor of Biology"
-  links: # An array of links to social media profiles
-   - "https://github.com/darunabas"
-   - "https://twitter.com/Barnabas_Daru"
-
 footer:
   links:
     - label: "Twitter"
