@@ -13,7 +13,7 @@
 # you will see them accessed via {{ site.title }}, {{ site.email }}, and so on.
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
-title: "Ecology and Evolution"
+title: "Barnabas Daru"
 email:
 description: >- # this means to ignore newlines until "baseurl:"
   Write an awesome description for your new site here. You can edit this
@@ -60,7 +60,7 @@ plugins:
 author:
   name   : "Barnabas Daru"
   avatar : "/assets/images/bio-photo.jpg"
-  bio    : "Hello world and My awesome biography constrained to a sentence or two goes here."
+  bio    : "Assistant Professor of Biology"
   links: # An array of links to social media profiles
    - "https://github.com/darunabas"
    - "https://twitter.com/Barnabas_Daru"
