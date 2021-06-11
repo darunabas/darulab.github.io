@@ -14,7 +14,7 @@ tags: []
 ## PEOPLE IN THE DARU LAB
 ### PRINCIPAL INVESTIGATOR
 
-![image-title-here](/images/barnabas.jpg){:class="img-responsive"}{:width="25%"}
+![image-title-here](/images/barnabas.jpg){:class="img-responsive"}{:width="30%"}{: style="float: left"}
 
 **Barnabas Daru**   
 Postdoc – Harvard University<br>
