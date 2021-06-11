@@ -1,6 +1,7 @@
 ---
 layout: single
 title: People
+classes: wide
 date: null
 type: page
 published: true
