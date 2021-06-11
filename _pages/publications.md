@@ -33,7 +33,7 @@ tags: []
   [<i class="fa fa-book" aria-hidden="true"></i> DOI](https://doi.org/10.1038/s41598-020-69378-0){: .btn .btn--small .btn--success}{:target="_blank"}
   [<i class="fa fa-paperclip" aria-hidden="true"></i> PDF file]({{ site.baseurl}}/docs/38_Davies2020_SREP.pdf){: .btn .btn--small .btn--primary}{:target="_blank"}
 
-37- **Daru, B.H.**, Karunarathne P. & Schliep K. (2020) phyloregion: R package for biogeographic regionalization and macroecology. Methods in Ecology and Evolution 11: 1483-1491.<br>
+37- **Daru, B.H.**, Karunarathne P. & Schliep K. (2020) phyloregion: R package for biogeographic regionalization and macroecology. **_Methods in Ecology and Evolution_** 11: 1483-1491.<br>
   [<i class="fa fa-book" aria-hidden="true"></i> DOI](https://doi.org/10.1111/2041-210X.13478){: .btn .btn--small .btn--success}{:target="_blank"}
   [<i class="fa fa-paperclip" aria-hidden="true"></i> PDF file]({{ site.baseurl}}/docs/37_Daru2020_MEE.pdf){: .btn .btn--small .btn--primary}{:target="_blank"}
 
