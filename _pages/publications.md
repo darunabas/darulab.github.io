@@ -16,9 +16,8 @@ tags: []
   [<i class="fa fa-file-pdf-o" aria-hidden="true"></i> PDF file]({{ site.baseurl}}/docs/41_RockDaru2021fmars.pdf){: .btn .btn--small .btn--primary}
 
 40- **Daru, B.H.** (2021) Exploring a new way to think about climate regions. **_eLife_** 10: e67422.<br>
-  [<i class="fa fa-book" aria-hidden="true"></i> Journal]({{ page.doi }}/https://doi.org/10.3389/fmars.2021.608867){: .btn .btn--small .btn--success}
-  [<i class="fa fa-file-pdf-o" aria-hidden="true"></i> PDF file]({{ site.baseurl}}/docs/41_RockDaru2021fmars.pdf){: .btn .btn--small .btn--primary}
-  [[DOI]](https://doi.org/10.7554/eLife.67422){:target="_blank"} [[download PDF]](/docs/40_Daru2021_eLife.pdf){:target="_blank"}
+  [<i class="fa fa-book" aria-hidden="true"></i> Journal]({{ page.doi }}/https://doi.org/10.3389/fmars.2021.608867){: .btn .btn--small .btn--success}{:target="_blank"}
+  [<i class="fa fa-file-pdf-o" aria-hidden="true"></i> PDF file]({{ site.baseurl}}/docs/41_RockDaru2021fmars.pdf){: .btn .btn--small .btn--primary}{:target="_blank"}
 
 ## 2020
 
