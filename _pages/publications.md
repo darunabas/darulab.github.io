@@ -11,7 +11,9 @@ tags: []
 ---
 ## 2021
 
-41- Rock, B.M. & **Daru, B.H.** (2021) Impediments to understanding seagrasses' response to global change. **_Frontiers in Marine Science_** 8: 608867. [[DOI]](https://doi.org/10.3389/fmars.2021.608867){:target="_blank"} [[download PDF]](/docs/41_RockDaru2021fmars.pdf){:target="_blank"}
+41- Rock, B.M. & **Daru, B.H.** (2021) Impediments to understanding seagrasses' response to global change. **_Frontiers in Marine Science_** 8: 608867.<br>
+  [<i class="fa fa-book" aria-hidden="true"></i> DOI]({{ page.doi }}/10.3389/fmars.2021.608867){: .btn .btn--small .btn--danger}
+  [<i class="fa fa-file-pdf-o" aria-hidden="true"></i> PDF file]({{ site.baseurl}}/docs/41_RockDaru2021fmars.pdf){: .btn .btn--small .btn--warning}
 
 40- **Daru, B.H.** (2021) Exploring a new way to think about climate regions. **_eLife_** 10: e67422. [[DOI]](https://doi.org/10.7554/eLife.67422){:target="_blank"} [[download PDF]](/docs/40_Daru2021_eLife.pdf){:target="_blank"}
 
@@ -24,7 +26,6 @@ tags: []
    *Zoological Journal of the Linnean Society*<br>
   [<i class="fa fa-book" aria-hidden="true"></i> Journal]({{ page.doi }}/10.1093/zoolinnean/zlw002){: .btn .btn--small .btn--danger}
   [<i class="fa fa-file-pdf-o" aria-hidden="true"></i> PDF file]({{ site.baseurl}}/articles/daSilva+2017.pdf){: .btn .btn--small .btn--warning}
-  [<i class="fa fa-unlock-alt" aria-hidden="true"></i> sci-hub]({{ page.scihub }}/10.1093/zoolinnean/zlw002){: .btn .btn--small .btn--success}
 
 38- Davies, T.J., **Daru, B.H.**, Bezeng, B.S., Charles-Dominique, T., Hempson, G.P., Kabongo, R.M., Maurin, O., Muasya, A.M., van der Bank, M. & Bond, W.J. (2020) Savanna tree evolutionary ages inform the reconstruction of the paleoenvironment of our hominin ancestors. **_Scientific Reports_** 10: 12430. [[DOI]](https://doi.org/10.7554/eLife.67422){:target="_blank"} [[download PDF]](/docs/38_Davies2020_SREP.pdf){:target="_blank"}
 
