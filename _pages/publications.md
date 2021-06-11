@@ -16,7 +16,7 @@ tags: []
   [<i class="fa fa-file-pdf-o" aria-hidden="true"></i> PDF file]({{ site.baseurl}}/docs/41_RockDaru2021fmars.pdf){: .btn .btn--small .btn--primary}{:target="_blank"}
 
 40- **Daru, B.H.** (2021) Exploring a new way to think about climate regions. **_eLife_** 10: e67422.<br>
-  [<i class="fa fa-book" aria-hidden="true"></i> Journal]({{ page.doi }}/https://doi.org/10.3389/fmars.2021.608867){: .btn .btn--small .btn--success}{:target="_blank"}
+  [DOI](https://doi.org/10.7554/eLife.67422){: .btn .btn--small .btn--success}{:target="_blank"}
   [<i class="fa fa-file-pdf-o" aria-hidden="true"></i> PDF file]({{ site.baseurl}}/docs/41_RockDaru2021fmars.pdf){: .btn .btn--small .btn--primary}{:target="_blank"}
 
 ## 2020
@@ -29,11 +29,15 @@ tags: []
   [DOI](https://doi.org/10.7554/eLife.67422){: .btn .btn--small .btn--success}{:target="_blank"}
   [<i class="fa fa-file-pdf-o" aria-hidden="true"></i> PDF file]({{ site.baseurl}}/docs/38_Davies2020_SREP.pdf){: .btn .btn--small .btn--primary}{:target="_blank"}
 
-37- **Daru, B.H.**, Karunarathne P. & Schliep K. (2020) phyloregion: R package for biogeographic regionalization and macroecology. Methods in Ecology and Evolution 11: 1483-1491. [[DOI]](https://doi.org/10.7554/eLife.67422){:target="_blank"} [[download PDF]](/docs/37_Daru2020_MEE.pdf){:target="_blank"}
+37- **Daru, B.H.**, Karunarathne P. & Schliep K. (2020) phyloregion: R package for biogeographic regionalization and macroecology. Methods in Ecology and Evolution 11: 1483-1491.<br>
+  [DOI](https://doi.org/10.7554/eLife.67422){: .btn .btn--small .btn--success}{:target="_blank"}
+  [<i class="fa fa-file-pdf-o" aria-hidden="true"></i> PDF file]({{ site.baseurl}}/docs/37_Daru2020_MEE.pdf){: .btn .btn--small .btn--primary}{:target="_blank"}
 
 ## 2019
 
-36- **Daru, B.H.**, le Roux, P.C., Gopalraj, J., Park, D.S., Holt, B.G. & Greve, M. (2019) Spatial overlaps between the global protected areas network and terrestrial hotspots of evolutionary diversity. **_Global Ecology and Biogeography_** 28: 757-766. [[DOI]](https://doi.org/10.7554/eLife.67422){:target="_blank"} [[download PDF]](/docs/36_Daru2019_GEB.pdf){:target="_blank"}
+36- **Daru, B.H.**, le Roux, P.C., Gopalraj, J., Park, D.S., Holt, B.G. & Greve, M. (2019) Spatial overlaps between the global protected areas network and terrestrial hotspots of evolutionary diversity. **_Global Ecology and Biogeography_** 28: 757-766.<br>
+  [DOI](https://doi.org/10.7554/eLife.67422){: .btn .btn--small .btn--success}{:target="_blank"}
+  [<i class="fa fa-file-pdf-o" aria-hidden="true"></i> PDF file]({{ site.baseurl}}/docs/36_Daru2019_GEB.pdf){: .btn .btn--small .btn--primary}{:target="_blank"}
 
 35- Mathakutha, R., Steyn, C., le Roux, P.C., Blom, I.J., Chown, S.L., **Daru, B.H.**, Ripley, B.S., Louw, A. & Greve, M. (2019) Invasive species differ in key functional traits from native and non-invasive alien plant species. **_Journal of Vegetation Science_** 30: 994-1006. [[DOI]](https://doi.org/10.7554/eLife.67422){:target="_blank"} [[download PDF]](/docs/35_Mathakutha2019_JVS.pdf){:target="_blank"}
 
