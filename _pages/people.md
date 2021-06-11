@@ -28,6 +28,8 @@ Curriculum Vitae (pdf)
 
 ![My image Name](/images/barnabas.jpg)
 
+<img src="{{site.baseurl}}/images/barnabas.jpg">
+
 
 ---
 
