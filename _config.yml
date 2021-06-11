@@ -65,7 +65,7 @@ google_ad_slot           :
 # Site Author
 author:
   name             : "Barnabas Daru"
-  avatar           : "images/barnabas.jpg"
+  avatar           : "images/logo.png"
   bio              : "Assistant Professor of Biology"
   location         : #"The Carpentries"
   email            : "darunabas@gmail.com"
