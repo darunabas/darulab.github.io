@@ -40,17 +40,17 @@ tags: []
   [<i class="fa fa-file-pdf-o" aria-hidden="true"></i> PDF file]({{ site.baseurl}}/docs/36_Daru2019_GEB.pdf){: .btn .btn--small .btn--primary}{:target="_blank"}
 
 35- Mathakutha, R., Steyn, C., le Roux, P.C., Blom, I.J., Chown, S.L., **Daru, B.H.**, Ripley, B.S., Louw, A. & Greve, M. (2019) Invasive species differ in key functional traits from native and non-invasive alien plant species. **_Journal of Vegetation Science_** 30: 994-1006.<br>
-  [<i class="fa fa-book" aria-hidden="true"></i> DOI](https://doi.org/10.1111/geb.12888){: .btn .btn--small .btn--success}{:target="_blank"}
+  [<i class="fa fa-book" aria-hidden="true"></i> DOI](https://doi.org/10.1111/jvs.12772){: .btn .btn--small .btn--success}{:target="_blank"}
   [<i class="fa fa-file-pdf-o" aria-hidden="true"></i> PDF file]({{ site.baseurl}}/docs/35_Mathakutha2019_JVS.pdf){: .btn .btn--small .btn--primary}{:target="_blank"}
 
 34- **Daru, B.H.**, Kling, M.M., Meineke, E.K. & van Wyk, A.E. (2019) Temperature controls phenology in continuously flowering Protea species of subtropical Africa. _**Applications in Plant Sciences**_ 7: e1232.<br>
-  [<i class="fa fa-book" aria-hidden="true"></i> DOI](https://doi.org/10.1111/geb.12888){: .btn .btn--small .btn--success}{:target="_blank"}
+  [<i class="fa fa-book" aria-hidden="true"></i> DOI](https://doi.org/10.1002/aps3.1232){: .btn .btn--small .btn--success}{:target="_blank"}
   [<i class="fa fa-file-pdf-o" aria-hidden="true"></i> PDF file]({{ site.baseurl}}/docs/34_Daru2019_APPS.pdf){: .btn .btn--small .btn--primary}{:target="_blank"}
 
 ## 2018
 
 33- **Daru, B.H.**, Park, D.S., Primack, R.B., Willis, C.G., Barrington, D.S., Whitfeld, T.J.S., Seidler, T.G., Sweeney, P.W., Foster, D.R., Ellison, A.M. & Davis, C.C. (2018) Widespread sampling biases in herbaria revealed from large-scale digitization. **_New Phytologist_** 217: 939-955.<br>
-  [<i class="fa fa-book" aria-hidden="true"></i> DOI](https://doi.org/10.1111/geb.12888){: .btn .btn--small .btn--success}{:target="_blank"}
+  [<i class="fa fa-book" aria-hidden="true"></i> DOI](https://doi.org/10.1111/nph.14855){: .btn .btn--small .btn--success}{:target="_blank"}
   [<i class="fa fa-file-pdf-o" aria-hidden="true"></i> PDF file]({{ site.baseurl}}/docs/33_Daru2018_NPH.pdf){: .btn .btn--small .btn--primary}{:target="_blank"}
 
 32- **Daru, B.H.**, Bowman, E.A., Pfister, D.H. & Arnold, A.E. (2018) A novel proof-of-concept for capturing the diversity of endophytic fungi preserved in herbarium specimens. **_Philosophical Transactions of the Royal Society B_** 374: 20170395.<br>
