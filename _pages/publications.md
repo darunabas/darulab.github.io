@@ -21,8 +21,19 @@ tags: []
 
 ## 2020
 
-39- **Daru, B.H.**, Farooq, H., Antonelli, A. & Faurby, S. (2020) Endemism patterns are scale dependent. **_Nature Communications_** 11: 2115. [[DOI]](https://doi.org/10.1038/s41467-020-15921-6){:target="_blank"} [[download PDF]](/docs/39_Daru2020_NCOMMS.pdf){:target="_blank"}
-
+39- **Daru, B.H.**, Farooq, H., Antonelli, A. & Faurby, S. (2020) Endemism patterns are scale dependent. **_Nature Communications_** 11: 2115.<br>
+  [<i class="fa fa-book" aria-hidden="true"></i> Journal]({{ page.doi }}/https://doi.org/10.3389/fmars.2021.608867){: .btn .btn--small .btn--success}{:target="_blank"}
+  [<i class="fa fa-file-pdf-o" aria-hidden="true"></i> PDF file]({{ site.baseurl}}/docs/41_RockDaru2021fmars.pdf){: .btn .btn--small .btn--primary}{:target="_blank"}
+  
+* **Ten Simple Rules for Digital Data Storage** <i class="fa fa-unlock" aria-hidden="true" style="color: #f89406"></i> <br>
+  Hart T., Barmby P., LeBauer D.,  Michonneau F.,  Mount S., Mulrooney P., Poisot T., Woo K.H., Zimmerman N. B., Hollister J.<br>
+  *PLOS Computational Biology*<br>
+  [<i class="fa fa-book" aria-hidden="true"></i> Journal](https://doi.org/10.1371/journal.pcbi.1005097){: .btn .btn--small .btn--danger}
+  [<i class="fa fa-file-text-o" aria-hidden="true"></i> Preprint](https://doi.org/10.7287/peerj.preprints.1448v2){: .btn .btn--small}
+  [<i class="fa fa-github" aria-hidden="true"></i> GitHub Repository](https://github.com/emhart/10-simple-rules-data-storage){: .btn .btn--small .btn--info}
+    [<i class="fa fa-file-pdf-o" aria-hidden="true"></i> PDF file]({{ site.baseurl}}/articles/Hart+2016.pdf){: .btn .btn--small .btn--warning}
+    
+    
 * **Molecular phylogeny of Didemnidae (Ascidiacea: Tunicata)** <br>
    da Silva Oliveira F. A., Michonneau F., da Cruz Lotufo T. <br>
    *Zoological Journal of the Linnean Society*<br>
