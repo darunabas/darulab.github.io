@@ -16,7 +16,7 @@
 
 {% if author.googlescholar %}
 <li>
-  <a href="https://scholar.google.com/citations?user={{ author.googlescholar }}">
+  <a target="_blank" rel="noopener noreferrer" href="https://scholar.google.com/citations?user={{ author.googlescholar }}">
     <i class="ai ai-google-scholar fa-fw" aria-hidden="true"></i> Google Scholar
   </a>
 </li>
@@ -24,7 +24,7 @@
 
 {% if author.orcid %}
 <li>
-  <a href="https://orcid.org/{{ author.orcid }}">
+  <a target="_blank" rel="noopener noreferrer" href="https://orcid.org/{{ author.orcid }}">
     <i class="ai ai-orcid fa-fw" aria-hidden="true"></i> ORCiD
   </a>
 </li>
