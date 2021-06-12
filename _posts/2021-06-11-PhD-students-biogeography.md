@@ -3,7 +3,7 @@ title: 'PhD Student Position in Biogeography'
 last_modified_at: {}
 categories:
   - Blog
-image: /images/barnabas.jpg
+image: /assets/images/barnabas.jpg
 tags:
   - Post Formats
   - readability
@@ -18,7 +18,7 @@ The Daru lab (https://barnabasdaru.com/) within the Department of Life Sciences 
 
 The position includes a stipend ($24,000/yr), health insurance, and tuition. These will be provided through a research assistantship. The Daru Lab is supportive of opportunities for professional development (e.g., workshops and conferences). For instance, the student will also have funding to participate in a biogeography-method users workshop in Laguna Madre Field Station in the Gulf of Mexico in south Texas in Years 1 and 3 of the project and Turtle Cove Field Station, Louisiana in Year 2. We strive to provide a flexible, comfortable, inclusive environment for research and professional growth. The successful student will obtain Ph.D. degree through the Marine Biology Program, an interdisciplinary degree program.
 
-![alternative text](assets/images/jordanhttp://pza.sanbi.org/sites/default/files/images/plants/9898/celafrican.jpg)
+![alternative text](https://github.com/darunabas/darulab.github.io/blob/gh-pages/assets/images/jordan.jpg)
 
 Essential qualifications: 
 Applicants should have: 1) A B.S. or M.S. in biology, ecology, evolution, biogeography, statistics or a related field; 2) An undergraduate GPA of 3.0 or higher.
@@ -26,7 +26,7 @@ Applicants should have: 1) A B.S. or M.S. in biology, ecology, evolution, biogeo
 Desired qualifications: 
 1) Experience in spatial analysis and programming in the `R` computing environment; 2) Prior experience with GIS/geospatial analysis, `R` package development, Git, and/or reproducible research would be an asset. Prospective students from traditionally under-represented groups are especially encouraged to apply. 
 
-![alternative text](assets/images/jordan.jpg)
+![alternative text](/assets/images/jordan.jpg)
 
 Application:  
 Applicants should electronically submit a single PDF file containing the following:
