@@ -10,7 +10,6 @@
 -->
 <html lang="{{ site.locale | slice: 0,2 | default: "en" }}" class="no-js">
   <head>
-    <img src="{{- page.image | relative_url -}}" alt="" class="img.featured-image-post">
     {% include head.html %}
     {% include head/custom.html %}
   </head>
@@ -22,7 +21,6 @@
 
     <div class="initial-content">
       {{ content }}
-      hello bhd
     </div>
 
     {% if site.search == true %}
