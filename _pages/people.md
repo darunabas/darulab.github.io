@@ -92,5 +92,3 @@ Research: Next generation systematics and biogeography of the aquatic plant clad
 
 <br clear="left"/>
 
-<p><img src="{{ site.baseurl }}/images/logo.png" width="280"
-     height="200" class="align-center"/></p>
