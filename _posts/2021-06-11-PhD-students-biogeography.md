@@ -1,18 +1,15 @@
 ---
-title: "Post: Modified Date"
-last_modified_at: 2021-06-11T16:20:02-05:00
+title: 'Post: Modified Date'
+last_modified_at: {}
 categories:
   - Blog
 tags:
   - Post Formats
   - readability
   - standard
+published: true
 ---
-
-This post has been updated and should show a modified date if used in a layout.
-
-All children, except one, grow up. They soon know that they will grow up, and the way Wendy knew was this. One day when she was two years old she was playing in a garden, and she plucked another flower and ran with it to her mother. I suppose she must have looked rather delightful, for Mrs. Darling put her hand to her heart and cried, "Oh, why can't you remain like this for ever!" This was all that passed between them on the subject, but henceforth Wendy knew that she must grow up. You always know after you are two. Two is the beginning of the
-PhD Position in Biogeography
+## PhD Position in Biogeography
 
 The Daru lab (https://barnabasdaru.com/) within the Department of Life Sciences at Texas A&M University-Corpus Christi is seeking a PhD student to begin in Spring 2022.  The student's research will focus on a 3-year NSF funded project to develop informatics tools and methods for biogeography (http://doi.org/10.5281/zenodo.4792835). 
 
@@ -32,4 +29,3 @@ Applicants should electronically submit a single PDF file containing the followi
 Please submit applications by email to Dr. Barnabas Daru at barnabas.daru@tamucc.edu 
 
 Applications will be considered until candidate is selected.
-
