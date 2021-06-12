@@ -81,6 +81,8 @@ Piyal was a postdoc in the lab from June 2019 to August 2020. Piyal focused on d
 
 <br clear="left"/>
 
+<img src="/assets/images/barnabas.jpg">
+
 <p><img src="images/keilana.jpg" alt="Keilana Borja" width="200" style="vertical-align:middle;margin:0px 50px">
 
 **Keilana Borja**
