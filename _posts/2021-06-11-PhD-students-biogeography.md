@@ -1,5 +1,4 @@
 ---
-layout: post
 title: 'PhD Student Position in Biogeography'
 last_modified_at: {}
 categories:
