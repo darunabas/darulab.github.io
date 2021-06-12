@@ -91,3 +91,6 @@ Research: Next generation systematics and biogeography of the aquatic plant clad
 [<i class="fa fa-paperclip" aria-hidden="true"></i> Curriculum Vitae]({{ site.baseurl}}/docs/e_KeilanaCV.pdf){: .btn .btn--small .btn--primary}{:target="_blank"}
 
 <br clear="left"/>
+
+<p><img src="{{ site.baseurl }}/images/logo.png" width="280"
+     height="200" class="align-center"/></p>
