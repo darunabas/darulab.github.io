@@ -22,7 +22,7 @@ Essential qualifications:
 Applicants should have: 1) A B.S. or M.S. in biology, ecology, evolution, biogeography, statistics or a related field; 2) An undergraduate GPA of 3.0 or higher.
 
 Desired qualifications: 
-1) Experience in spatial analysis and programming in the R computing environment; 2) Prior experience with GIS/geospatial analysis, R package development, Git, and/or reproducible research would be an asset. Prospective students from traditionally under-represented groups are especially encouraged to apply. 
+1) Experience in spatial analysis and programming in the `R` computing environment; 2) Prior experience with GIS/geospatial analysis, `R` package development, Git, and/or reproducible research would be an asset. Prospective students from traditionally under-represented groups are especially encouraged to apply. 
 
 Application:  
 Applicants should electronically submit a single PDF file containing the following:
