@@ -128,7 +128,7 @@ exclude:
   - "*cache/"
   - "*_edit*"
   - _posts/advent-data
-  - /docs # ignore Minimal Mistakes /docs
+  # - /docs # ignore Minimal Mistakes /docs
   - /test # ignore Minimal Mistakes /test
 # Exclude from processing.
 # The following items will not be processed, by default. Create a custom list
