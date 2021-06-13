@@ -77,13 +77,7 @@ Please <a target="_blank" rel="noopener noreferrer" href = "mailto: barnabas.dar
 **Piyal Karunarathne (Postdoc)**
 
 Piyal was a postdoc in the lab from June 2019 to August 2020. Piyal focused on developing a modeling framework to determine the evolutionary origin of plant assemblages (biomes) in a global scale. After finishing in the Daru lab, Piyal accepted a postdoctoral fellowship in Sweden.<br>
-[<i class="fa fa-paperclip" aria-hidden="true"></i> Curriculum Vitae]({{ site.baseurl}}/docs/d_PiyalCV.pdf){: .btn .btn--small .btn--primary}{:target="_blank"}
-
-<br clear="left"/>
-
-<img src="/assets/images/barnabas.jpg">
-
-<p><img src="images/keilana.jpg" alt="Keilana Borja" width="200" style="vertical-align:middle;margin:0px 50px">
+[<i class="fa fa-paperclip" aria-hidden="true"></i> Curriculum Vitae]({{ site.baseurl}}/docs/d_PiyalCV.pdf){: .btn .btn--small .btn--primary}{:target="_blank"}<p>
 
 **Keilana Borja**
 
