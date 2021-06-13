@@ -78,10 +78,10 @@ author:
   foursquare       :
   github           : "darunabas"
   google_plus      :
-  keybase          : # "fmic"
+  keybase          : 
   instagram        :
   lastfm           :
-  linkedin         : # "françois-michonneau-329bb6151"
+  linkedin         : 
   pinterest        :
   soundcloud       :
   stackoverflow    : # "1113276/sinqueso" # http://stackoverflow.com/users/123456/username
@@ -127,7 +127,7 @@ exclude:
   - "*packrat*"
   - "*cache/"
   - "*_edit*"
-  - _posts/advent-data
+  # - _posts/advent-data
   # - /docs # ignore Minimal Mistakes /docs
   - /test # ignore Minimal Mistakes /test
 # Exclude from processing.
