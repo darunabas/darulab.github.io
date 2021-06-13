@@ -3,6 +3,7 @@ title: 'PhD Student Position in Biogeography'
 last_modified_at: {}
 categories:
   - Blog
+image: /images/images/barnabas.jpg
 tags:
   - Post Formats
   - readability
