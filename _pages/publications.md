@@ -1,7 +1,6 @@
 ---
 layout: single
 title: Publications
-classes: wide
 date: null
 type: page
 published: true
