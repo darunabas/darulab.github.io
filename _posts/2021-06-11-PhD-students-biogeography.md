@@ -8,7 +8,6 @@ status: publish
 categories:
 - Updates
 image: /assets/images/phd-student.png
-classes: wide
 tags: []
 ---
 
