@@ -31,11 +31,11 @@ Guest Editor for [**_Phil Trans Roy Soc B_**](http://rstb.royalsocietypublishing
 ![image-title-here](/images/paul.jpg){:class="img-responsive"}{:width="200px"}{: style="float: left; padding-right:10px"}
 
 **Paul Markley**   
-PhD student in Marine Biology   
+PhD student   
 BSc – University of California-Riverside   
 Research: The changing nature of Arctic plant diversity<br>
 [<i class="fa fa-paperclip" aria-hidden="true"></i> Curriculum Vitae]({{ site.baseurl}}/docs/b_MarkleyCV.pdf){: .btn .btn--small .btn--primary}{:target="_blank"}
-
+GT
 <br clear="left"/>
 
 ![image-title-here](/images/brianna.jpg){:class="img-responsive"}{:width="200px"}{: style="float: left; padding-right:10px"}
@@ -73,7 +73,7 @@ Please <a target="_blank" rel="noopener noreferrer" href = "mailto: barnabas.dar
 
 **Piyal Karunarathne (Postdoc)**
 
-Piyal was a postdoc in the lab from June 2019 to August 2020. Piyal focused on developing a modeling framework to determine the evolutionary origin of plant assemblages (biomes) in a global scale. After finishing in the Daru lab, Piyal accepted a postdoctoral fellowship in Sweden.<br>
+Piyal was a postdoc in the lab from June 2019 to August 2020. Piyal focused on developing a modeling framework to determine the evolutionary origin biomes at a global scale. After finishing in the Daru lab, Piyal accepted a postdoctoral fellowship in Sweden.<br>
 [<i class="fa fa-paperclip" aria-hidden="true"></i> Curriculum Vitae]({{ site.baseurl}}/docs/d_PiyalCV.pdf){: .btn .btn--small .btn--primary}{:target="_blank"}
 
 <br clear="left"/>
