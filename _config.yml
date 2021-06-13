@@ -97,7 +97,7 @@ author:
   orcid            : "0000-0002-2115-0257"
   
 include:
-  - .htaccess
+  # - .htaccess
   - _pages
 exclude:
   - "*.sublime-project"
