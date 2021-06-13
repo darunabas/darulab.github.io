@@ -3,7 +3,6 @@ title: 'PhD Student Position in Biogeography'
 last_modified_at: {}
 categories:
   - Blog
-image: /images/images/barnabas.jpg
 tags:
   - Post Formats
   - readability
@@ -11,8 +10,6 @@ tags:
 published: true
 ---
 ## PhD Position in Biogeography
-
-![alternative text]({{ page.image | relative_url }})
 
 The Daru lab (https://barnabasdaru.com/) within the Department of Life Sciences at Texas A&M University-Corpus Christi is seeking a PhD student to begin in Spring 2022.  The student's research will focus on a 3-year NSF funded project to develop informatics tools and methods for biogeography (http://doi.org/10.5281/zenodo.4792835). 
 
