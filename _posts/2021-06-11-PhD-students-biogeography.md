@@ -1,12 +1,13 @@
 ---
 layout: single
 title: PhD Student Position in Biogeography
-last_modified_at: {}
+date: 2021-06-11 19:53:57.000000000 -04:00
 type: post
 published: true
 status: publish
 categories:
 - Updates
+classes: wide
 tags: []
 ---
 
