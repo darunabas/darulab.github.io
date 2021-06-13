@@ -62,7 +62,7 @@ Research: Mismatches in plant sampling biases between vouchered specimens and ob
 
 <br clear="left"/>
 
-![future_lab-mate](/images/you.jpg){:class="img-responsive"}{:width="250px"}{: style="float: left; padding-right:10px"}
+![future_lab-mate](/images/you.jpg){:class="img-responsive"}{:width="200px"}{: style="float: left; padding-right:10px"}
 
 **THIS COULD BE YOU!**   
 Please <a target="_blank" rel="noopener noreferrer" href = "mailto: barnabas.daru@tamucc.edu">contact me</a> about opportunities for undergraduate research experience, graduate study, or postdoctoral research in my lab<br> 
