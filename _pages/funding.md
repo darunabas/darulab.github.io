@@ -35,7 +35,7 @@ Digitization TCN: Collaborative: American Crossroads: Digitizing the vascular fl
 **2016-18 Harvard University Herbaria Postdoctoral Fellowship, $135,000**\
 Analysis of extinction risk, biotic interactions and spatial trends of phenological diversity using herbarium records
 
-**2015-16 South African NRF, R142,000 ~ $10,000USD (NRF THUTHUKA 99258)**\
+**2015-16 South African NRF, R142,000 (~ $10,000) (NRF THUTHUKA 99258)**\
 Lead PI: Dr. Barnabas Daru\
 Mangrove transcriptomics
 
