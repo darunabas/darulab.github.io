@@ -22,19 +22,26 @@ Co-PI: Dr. Barnabas Daru (co-PI)\
 A multi-taxa assessment of the Ingleside Sandsheet Pond habitat to inform and support conservation\
 
 **2020-23 NSF DEB, $986,000 (NSF DEB 2031928)**\
-Lead PIs: Drs. Betsy Arnold and Jana U’Ren (University of Arizona), $388,000\   
+Lead PIs: Drs. Betsy Arnold and Jana U’Ren (University of Arizona), $388,000\
 co-PI: Dr. Barnabas Daru, $143,676\
 co-PI: Dr. Ignazio Carbone (North Carolina State University), $133,000\
 co-PIs: Drs. Francois Lutzoni and Jolanta Miadlikowska (Duke University), $321,000\
-Collaborative Research: Leveraging historical collections and new surveys to characterize foundational shifts in vital symbioses in the threatened Arctic\
+Collaborative Research: Leveraging historical collections and new surveys to characterize foundational shifts in vital symbioses in the threatened Arctic
 
-2019-23 NSF DBI (subaward), Digitization TCN: Collaborative: American Crossroads: Digitizing the vascular flora of the south-central US ($42,245)
+**2019-23 NSF DEB, $42,245 (subaward)**\
+Subaward: Dr. Barnabas Daru, $42,245\
+Digitization TCN: Collaborative: American Crossroads: Digitizing the vascular flora of the south-central US
 
-2016-18 Harvard University Herbaria Postdoctoral Fellowship, Analysis of extinction risk, biotic interactions and spatial trends of phenological diversity using herbarium records ($135,000)
+**2016-18 Harvard University Herbaria Postdoctoral Fellowship, $135,000**\
+Analysis of extinction risk, biotic interactions and spatial trends of phenological diversity using herbarium records
 
-2015-16 South African National Research Foundation (Lead PI), Mangrove transcriptomics ($9300)
+**2015-16 South African NRF, R142,000 ~ $10,000USD (NRF THUTHUKA 99258)**\
+Lead PI: Dr. Barnabas Daru\
+Mangrove transcriptomics
 
-2015-16 Genome Research Institute, University of Pretoria, South Africa ($4500)
+**2015-16 Genome Research Institute, University of Pretoria, $4500**\
+Lead PI: Dr. Barnabas Daru\
+Mangrove transcriptomes
 
 2014 South African National Research Foundation Doctoral Fellowship ($8200)
 
