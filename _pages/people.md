@@ -35,7 +35,7 @@ PhD student
 BSc – University of California-Riverside   
 Research: The changing nature of Arctic plant diversity<br>
 [<i class="fa fa-paperclip" aria-hidden="true"></i> Curriculum Vitae]({{ site.baseurl}}/docs/b_MarkleyCV.pdf){: .btn .btn--small .btn--primary}{:target="_blank"}
-GT
+
 <br clear="left"/>
 
 ![image-title-here](/images/brianna.jpg){:class="img-responsive"}{:width="200px"}{: style="float: left; padding-right:10px"}
