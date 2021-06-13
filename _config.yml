@@ -113,7 +113,7 @@ exclude:
   - Capfile
   - CHANGELOG
   - config
-  - Gemfile
+  # - Gemfile
   - Gruntfile.js
   - gulpfile.js
   - LICENSE
@@ -128,7 +128,7 @@ exclude:
   - "*cache/"
   - "*_edit*"
   - _posts/advent-data
-  - /docs # ignore Minimal Mistakes /docs
+  #- /docs # ignore Minimal Mistakes /docs
   - /test # ignore Minimal Mistakes /test
 # Exclude from processing.
 # The following items will not be processed, by default. Create a custom list
@@ -176,10 +176,10 @@ sass:
 
 
 # Outputting
-permalink: /:year/:month/:title/
-paginate: 5 # amount of posts to show
-paginate_path: /page:num/
-timezone: # https://en.wikipedia.org/wiki/List_of_tz_database_time_zones
+# permalink: /:year/:month/:title/
+# paginate: 5 # amount of posts to show
+# paginate_path: /page:num/
+# timezone: # https://en.wikipedia.org/wiki/List_of_tz_database_time_zones
 
 
 
