@@ -188,7 +188,7 @@ tags: []
 
 03- Yessoufou, K., **Daru, B.H.** & Davies, T.J. (2012) Phylogenetic patterns of extinction risk in the Eastern Arc ecosystems, an African biodiversity hotspot. **_PLoS ONE_** 7: e47082.<br>
   [<i class="fa fa-book" aria-hidden="true"></i> DOI](https://doi.org/10.1371/journal.pone.0047082){: .btn .btn--small .btn--success}{:target="_blank"}
-  [<i class="fa fa-paperclip" aria-hidden="true"></i> PDF file]({{ site.baseurl}}/docs/303_Yessoufou2012_PONE.pdf){: .btn .btn--small .btn--primary}{:target="_blank"}
+  [<i class="fa fa-paperclip" aria-hidden="true"></i> PDF file]({{ site.baseurl}}/docs/03_Yessoufou2012_PONE.pdf){: .btn .btn--small .btn--primary}{:target="_blank"}
 
 02- Yessoufou, K., Abalaka, J., Van der Bank, M. & **Daru, B.H.** (2012) Fig-frugivore interactions follow a constrained Brownian motion model of evolution in an Important Bird Area, West Africa. **_Israel Journal of Ecology and Evolution_** 58: 39-51.<br>
   [<i class="fa fa-book" aria-hidden="true"></i> DOI](https://doi.org/10.1560/IJEE.58.1.39){: .btn .btn--small .btn--success}{:target="_blank"}
