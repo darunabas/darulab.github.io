@@ -3,6 +3,7 @@ layout: single
 title: Funding
 date: null
 type: page
+classes: wide
 published: true
 status: publish
 permalink: /funding/
