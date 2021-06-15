@@ -3,8 +3,6 @@ title: "Welcome to Jekyll!"
 date: 2019-04-18T15:34:30-04:00
 categories:
   - blog
-tweets:
-  - https://twitter.com/dhh/status/1162426045405921282
 tags:
   - Jekyll
   - update
