@@ -17,6 +17,8 @@ The Daru lab (https://barnabasdaru.com/) within the Department of Life Sciences 
 
 The position includes a stipend ($24,000/yr), health insurance, and tuition. These will be provided through a research assistantship. The Daru Lab is supportive of opportunities for professional development (e.g., workshops and conferences). For instance, the student will also have funding to participate in a biogeography-method users workshop in Laguna Madre Field Station in the Gulf of Mexico in south Texas in Years 1 and 3 of the project and Turtle Cove Field Station, Louisiana in Year 2. We strive to provide a flexible, comfortable, inclusive environment for research and professional growth. The successful student will obtain Ph.D. degree through the Marine Biology Program, an interdisciplinary degree program.
 
+### TL;DR
+
 https://twitter.com/Barnabas_Daru/status/1401336683509989378
 
 Essential qualifications: 
