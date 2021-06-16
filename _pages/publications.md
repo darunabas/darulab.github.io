@@ -197,9 +197,6 @@ tags: []
   [<i class="fa fa-book" aria-hidden="true"></i> DOI](http://dx.doi.org/10.3750/AIP2012.42.4.04){: .btn .btn--small .btn--success}{:target="_blank"}
   [<i class="fa fa-paperclip" aria-hidden="true"></i> PDF file]({{ site.baseurl}}/docs/01_VanderBank2012.pdf){: .btn .btn--small .btn--primary}{:target="_blank"}
 
-<br />
-<a href="#top">Back To Top</a>
-
 <script src="/assets/vanilla-back-to-top.min.js"></script>
 <script>addBackToTop({
   backgroundColor: '#fff',
