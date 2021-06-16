@@ -3,7 +3,6 @@ layout: single
 title: Funding
 date: null
 type: page
-classes: wide
 published: true
 status: publish
 permalink: /funding/
@@ -51,7 +50,7 @@ Mangrove transcriptomes
 2003-07 Nigerian Petroleum Corporation Undergraduate Fellowship ($1912)
 
 <nav>
-<a href="index.html">Home</a>
+<a href="/_pages/publications.md">Home</a>
 </nav>
 
 [Some Doc](../publications.md)
