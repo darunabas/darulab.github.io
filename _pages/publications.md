@@ -200,7 +200,7 @@ tags: []
 <script src="/assets/vanilla-back-to-top.min.js"></script>
 <script>addBackToTop({
   backgroundColor: '#fff',
-  innerHTML: 'Back to Top',
+  innerHTML: 'BACK TO TOP',
   textColor: '#333'
 })</script>
 <style>
