@@ -49,11 +49,7 @@ Mangrove transcriptomes
 
 2003-07 Nigerian Petroleum Corporation Undergraduate Fellowship ($1912)
 
-<nav>
-<a href="/_pages/publications.md">Home</a>
-</nav>
-
-{% post_url /_posts/2021-06-11-PhD-students-biogeography %}
+[Icons](index.html)
 
 Blah blah surrounding text
 @@html:<a href="{% post_url publications %}"></a>@@ more surrounding text
