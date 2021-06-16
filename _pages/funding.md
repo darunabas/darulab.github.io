@@ -49,3 +49,6 @@ Mangrove transcriptomes
 2014 South African National Research Foundation Travel Grant ($3000)
 
 2003-07 Nigerian Petroleum Corporation Undergraduate Fellowship ($1912)
+
+{{ site.baseurl }}{% link _pages/publications.md %}
+
