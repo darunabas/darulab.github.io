@@ -51,7 +51,4 @@ Mangrove transcriptomes
 
 [Icons](index.html)
 
-Blah blah surrounding text
-@@html:<a href="{% post_url publications %}"></a>@@ more surrounding text
-
 [Link Text]({% post_url publications %})
