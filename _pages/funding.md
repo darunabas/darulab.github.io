@@ -56,4 +56,4 @@ Mangrove transcriptomes
 {% post_url /_posts/2021-06-11-PhD-students-biogeography %}
 
 Blah blah surrounding text
-@@html:<a href="{% post_url 2021-06-11-PhD-students-biogeography %}">@@Text describing link to my other post@@html:</a>@@ more surrounding text
+@@html:<a href="{% post_url publications %}">@@Text describing link to my other post@@html:</a>@@ more surrounding text
