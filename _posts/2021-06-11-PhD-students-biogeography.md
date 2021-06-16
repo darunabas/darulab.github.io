@@ -33,10 +33,3 @@ Applicants should electronically submit a single PDF file containing the followi
 Please submit applications by email to Dr. Barnabas Daru at barnabas.daru@tamucc.edu 
 
 Applications will be considered until candidate is selected.
-
-This theme supports **link posts**, made famous by John Gruber. To use, just add `link: http://url-you-want-linked` to the post's YAML front matter and you're done.
-
-> And this is how a quote looks.
-
-Some [link](#) can also be shown.
-[Link Text]({% publications %})
