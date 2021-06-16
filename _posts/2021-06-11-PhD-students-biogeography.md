@@ -19,10 +19,6 @@ The Daru lab (https://barnabasdaru.com/) within the Department of Life Sciences 
 
 The position includes a stipend ($24,000/yr), health insurance, and tuition. These will be provided through a research assistantship. The Daru Lab is supportive of opportunities for professional development (e.g., workshops and conferences). For instance, the student will also have funding to participate in a biogeography-method users workshop in Laguna Madre Field Station in the Gulf of Mexico in south Texas in Years 1 and 3 of the project and Turtle Cove Field Station, Louisiana in Year 2. We strive to provide a flexible, comfortable, inclusive environment for research and professional growth. The successful student will obtain Ph.D. degree through the Marine Biology Program, an interdisciplinary degree program.
 
-<b><blockquote class="twitter-tweet"><p lang="en" dir="ltr">PhD Position in Biogeography <a href="https://t.co/4LXQjjpWbO">https://t.co/4LXQjjpWbO</a> via <a href="https://twitter.com/Barnabas_Daru?ref_src=twsrc%5Etfw">@Barnabas_Daru</a> <a href="https://twitter.com/JBiogeography?ref_src=twsrc%5Etfw">@JBiogeography</a> <a href="https://twitter.com/rstatstweet?ref_src=twsrc%5Etfw">@rstatstweet</a> <a href="https://twitter.com/ScottVEdwards1?ref_src=twsrc%5Etfw">@ScottVEdwards1</a> <a href="https://twitter.com/Klaus_Schlp?ref_src=twsrc%5Etfw">@Klaus_Schlp</a> <a href="https://twitter.com/WrightingApril?ref_src=twsrc%5Etfw">@WrightingApril</a> <a href="https://twitter.com/EmilyMeineke?ref_src=twsrc%5Etfw">@EmilyMeineke</a> <a href="https://twitter.com/betsyarizona?ref_src=twsrc%5Etfw">@betsyarizona</a> <a href="https://twitter.com/ggiribet?ref_src=twsrc%5Etfw">@ggiribet</a> <a href="https://twitter.com/DaraStanley?ref_src=twsrc%5Etfw">@DaraStanley</a> <a href="https://twitter.com/antonelli_lab?ref_src=twsrc%5Etfw">@antonelli_lab</a> <a href="https://twitter.com/NandiChetden?ref_src=twsrc%5Etfw">@NandiChetden</a> <a href="https://twitter.com/HarvardOEB?ref_src=twsrc%5Etfw">@HarvardOEB</a> <a href="https://twitter.com/bugEcology?ref_src=twsrc%5Etfw">@bugEcology</a> <a href="https://twitter.com/_danspark_?ref_src=twsrc%5Etfw">@_danspark_</a> <a href="https://twitter.com/IUCN_TreeOfLife?ref_src=twsrc%5Etfw">@IUCN_TreeOfLife</a></p>&mdash; Barnabas Daru (@Barnabas_Daru) <a href="https://twitter.com/Barnabas_Daru/status/1401336683509989378?ref_src=twsrc%5Etfw">June 6, 2021</a></blockquote>
-
-
-
 Essential qualifications: 
 Applicants should have: 1) A B.S. or M.S. in biology, ecology, evolution, biogeography, statistics or a related field; 2) An undergraduate GPA of 3.0 or higher.
 
@@ -37,3 +33,9 @@ Applicants should electronically submit a single PDF file containing the followi
 Please submit applications by email to Dr. Barnabas Daru at barnabas.daru@tamucc.edu 
 
 Applications will be considered until candidate is selected.
+
+This theme supports **link posts**, made famous by John Gruber. To use, just add `link: http://url-you-want-linked` to the post's YAML front matter and you're done.
+
+> And this is how a quote looks.
+
+Some [link](#) can also be shown.
