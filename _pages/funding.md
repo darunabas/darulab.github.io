@@ -53,4 +53,4 @@ Mangrove transcriptomes
 <a href="/_pages/publications.md">Home</a>
 </nav>
 
-{% post_url 2021-06-11-PhD-students-biogeography %}
+{% post_url /_posts/2021-06-11-PhD-students-biogeography %}
