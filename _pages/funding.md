@@ -50,5 +50,5 @@ Mangrove transcriptomes
 2003-07 Nigerian Petroleum Corporation Undergraduate Fellowship ($1912)
 
 <nav>
-<a href="_pages/publications.md">Home</a>
+<a href="/_pages/publications.md">Home</a>
 </nav>
