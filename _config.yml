@@ -203,6 +203,7 @@ whitelist:
   - jemoji
   - jekyll-include-cache
   - jekyll-seo-tag
+  - jekyll-relative-links
 
 # Archives
 #  Type
