@@ -52,5 +52,5 @@ Mangrove transcriptomes
 
 {{ site.baseurl }}{% link _pages/publications.md %}
 
-[Some Doc](_pages/publications.md)
+[Some Doc](../publications.md)
 
