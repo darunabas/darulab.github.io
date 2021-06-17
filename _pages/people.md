@@ -11,13 +11,7 @@ tags: []
 toc: true
 toc_label: "Quick Links"
 toc_icon: "cog"
-sidebar:
-  - title: "COLLABORATORS"
-    text: "[April Wright (Southeastern Louisiana University)](https://paleantology.com/)"
-  - title: ""
-    text: "[Klaus Schliep (Graz University of Technology, Austria)](https://kschliep.netlify.app/)"
 ---
-
 
 ## PEOPLE IN THE DARU LAB
 ### PRINCIPAL INVESTIGATOR
@@ -87,10 +81,23 @@ Piyal was a postdoc in the lab from June 2019 to August 2020. Piyal focused on d
 ![image-title-here](/images/keilana.jpg){:class="img-responsive"}{:width="200px"}{: style="float: left; padding-right:10px"}
 
 **Keilana Borja**
-
-Masters student   
+Masters student\
 BSc – Texas A&M University at Galveston   
 Research: Next generation systematics and biogeography of the aquatic plant clade Alismatales<br>
 [<i class="fa fa-download" aria-hidden="true"></i> Curriculum Vitae]({{ site.baseurl}}/docs/e_KeilanaCV.pdf){: .btn .btn--small .btn--primary}{:target="_blank"}
 
 <br clear="left"/>
+
+---
+### LINKS TO COLLABORATORS
+
+[April Wright Lab (S**_eLife_**](https://paleantology.com/){:target="_blank" target="_blank" rel="noopener noreferrer"}<br>
+(_Southeastern Louisiana University_)
+
+<br>
+[Emily Meineke Lab](https://emilykmeineke.com/){:target="_blank" target="_blank" rel="noopener noreferrer"}<br>
+(_University of California, Davis_)<br>
+
+<br>
+[Klaus Schliep](https://kschliep.netlify.app/){:target="_blank" target="_blank" rel="noopener noreferrer"}<br>
+(_Graz University of Technology, Austria_)<br>
