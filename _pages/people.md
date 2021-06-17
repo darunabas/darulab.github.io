@@ -11,6 +11,11 @@ tags: []
 toc: true
 toc_label: "Quick Links"
 toc_icon: "cog"
+sidebar:
+  - title: "LINKS TO COLLABORATORS"
+    text: "[Klaus Schliep](https://kschliep.netlify.app/)"
+  - title: "Another Title"
+    text: "More text here."
 ---
 
 
