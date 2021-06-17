@@ -22,7 +22,7 @@ PhD – University of Johannesburg<br>
 BSc – University of Jos<br>
 Editorial Member at [**_eLife_**](https://elifesciences.org/about/people/ecology)<br>
 Guest Editor for [**_Phil Trans Roy Soc B_**](http://rstb.royalsocietypublishing.org/content/374/1763)<br>
-[<i class="fa fa-paperclip" aria-hidden="true"></i> Curriculum Vitae]({{ site.baseurl}}/docs/a_DaruCVJune2021.pdf){: .btn .btn--small .btn--primary}{:target="_blank"}
+[<i class="fa fa-download" aria-hidden="true"></i> Curriculum Vitae]({{ site.baseurl}}/docs/a_DaruCVJune2021.pdf){: .btn .btn--small .btn--primary}{:target="_blank"}
 
 ---
 
@@ -34,7 +34,7 @@ Guest Editor for [**_Phil Trans Roy Soc B_**](http://rstb.royalsocietypublishing
 PhD student   
 BSc – University of California-Riverside   
 Research: The changing nature of Arctic plant diversity<br>
-[<i class="fa fa-paperclip" aria-hidden="true"></i> Curriculum Vitae]({{ site.baseurl}}/docs/b_MarkleyCV.pdf){: .btn .btn--small .btn--primary}{:target="_blank"}
+[<i class="fa fa-download" aria-hidden="true"></i> Curriculum Vitae]({{ site.baseurl}}/docs/b_MarkleyCV.pdf){: .btn .btn--small .btn--primary}{:target="_blank"}
 
 <br clear="left"/>
 
@@ -44,18 +44,18 @@ Research: The changing nature of Arctic plant diversity<br>
 Masters student   
 BSc – University of Charleston-Charleston, West Virginia   
 Research: An assessment of seagrass evolutionary diversity in the Anthropocene<br>
-[<i class="fa fa-paperclip" aria-hidden="true"></i> Curriculum Vitae]({{ site.baseurl}}/docs/c_BriannaCV.pdf){: .btn .btn--small .btn--primary}{:target="_blank"} 
+[<i class="fa fa-download" aria-hidden="true"></i> Curriculum Vitae]({{ site.baseurl}}/docs/c_BriannaCV.pdf){: .btn .btn--small .btn--primary}{:target="_blank"} 
 
 <br clear="left"/>
 
 ![image-title-here](/images/jordan.jpg){:class="img-responsive"}{:width="200px"}{: style="float: left; padding-right:10px"}
 
 **Jordan Rodriguez**   
-Undergraduate student & Herbarium intern   
+Undergraduate student & Herbarium intern<br>
 Undergrad – Texas A&M University-Corpus Christi   
 Islander Green Team Vice President   
 Research: Mismatches in plant sampling biases between vouchered specimens and observations<br>
-[<i class="fa fa-paperclip" aria-hidden="true"></i> Curriculum Vitae]({{ site.baseurl}}/docs/41_RockDaru2021fmars.pdf){: .btn .btn--small .btn--primary}{:target="_blank"}
+[<i class="fa fa-download" aria-hidden="true"></i> Curriculum Vitae]({{ site.baseurl}}/docs/41_RockDaru2021fmars.pdf){: .btn .btn--small .btn--primary}{:target="_blank"}
 
 <br clear="left"/>
 
@@ -72,9 +72,8 @@ Please <a target="_blank" rel="noopener noreferrer" href = "mailto: barnabas.dar
 ![image-title-here](/images/piyal.jpg){:class="img-responsive"}{:width="200px"}{: style="float: left; padding-right:10px"}
 
 **Piyal Karunarathne (Postdoc)**
-
 Piyal was a postdoc in the lab from June 2019 to August 2020. Piyal focused on developing a modeling framework to determine the evolutionary origin biomes at a global scale. After finishing in the Daru lab, Piyal accepted a postdoctoral fellowship in Sweden.<br>
-[<i class="fa fa-paperclip" aria-hidden="true"></i> Curriculum Vitae]({{ site.baseurl}}/docs/d_PiyalCV.pdf){: .btn .btn--small .btn--primary}{:target="_blank"}
+[<i class="fa fa-download" aria-hidden="true"></i> Curriculum Vitae]({{ site.baseurl}}/docs/d_PiyalCV.pdf){: .btn .btn--small .btn--primary}{:target="_blank"}
 
 <br clear="left"/>
 
@@ -85,6 +84,6 @@ Piyal was a postdoc in the lab from June 2019 to August 2020. Piyal focused on d
 Masters student   
 BSc – Texas A&M University at Galveston   
 Research: Next generation systematics and biogeography of the aquatic plant clade Alismatales<br>
-[<i class="fa fa-paperclip" aria-hidden="true"></i> Curriculum Vitae]({{ site.baseurl}}/docs/e_KeilanaCV.pdf){: .btn .btn--small .btn--primary}{:target="_blank"}
+[<i class="fa fa-download" aria-hidden="true"></i> Curriculum Vitae]({{ site.baseurl}}/docs/e_KeilanaCV.pdf){: .btn .btn--small .btn--primary}{:target="_blank"}
 
 <br clear="left"/>
