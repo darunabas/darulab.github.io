@@ -4,6 +4,8 @@ date: 2019-04-18T15:34:30-04:00
 categories:
   - blog
 layout: splash
+header:
+  image: /assets/images/barnabas.jpg
 tags:
   - Jekyll
   - update
