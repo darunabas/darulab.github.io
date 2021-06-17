@@ -13,11 +13,11 @@ tags: []
 ![Barnabas-Daru](/assets/images/tamucc.jpeg){:class="img-responsive"}{:width="400px"}{: style="float: right; padding-left:10px"}
 
 Department of Life Sciences
-Texas A&M University-Corpus Christi
-6300 Ocean Dr, Unit 5800
-Tidal Hall 141
-Corpus Christi, Texas 78412
-United States
+<p>Texas A&M University-Corpus Christi
+<p>6300 Ocean Dr, Unit 5800
+<p>Tidal Hall 141
+<p>Corpus Christi, Texas 78412
+<p>United States
 
 ---
 
