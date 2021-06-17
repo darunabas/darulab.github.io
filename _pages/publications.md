@@ -8,7 +8,6 @@ status: publish
 permalink: /publications/
 categories: []
 tags: []
-toc: true
 ---
 ## 2021
 
