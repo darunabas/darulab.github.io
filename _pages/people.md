@@ -8,6 +8,9 @@ status: publish
 permalink: /people/
 categories: []
 tags: []
+toc: true
+toc_label: "Quick Links"
+toc_icon: "cog"
 ---
 
 
