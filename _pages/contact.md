@@ -18,4 +18,11 @@ tags: []
   <label for="msg">Message:</label>
   <textarea id="msg" name="user_message"></textarea>
   <button type="submit">Send your message</button>
+  <input type="hidden" name="_next" value="/thank-you" />
+  <input
+    type="hidden"
+    name="_subject"
+    value="New submission from contact form"
+  />
+  <input type="hidden" name="_cc" value="darunabas@gmail.com" />
 </form>
