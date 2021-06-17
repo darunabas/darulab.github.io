@@ -10,7 +10,7 @@ categories: []
 tags: []
 ---
 
-![Barnabas-Daru](/assets/images/tamucc_islanders.gif){:class="img-responsive"}{:width="200px"}{: style="float: right; padding-left:10px"}
+![Barnabas-Daru](/assets/images/tamucc.jpg){:class="img-responsive"}{:width="200px"}{: style="float: right; padding-left:10px"}
 
 Department of Life Sciences\
 Texas A&M University-Corpus Christi\
