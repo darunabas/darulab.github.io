@@ -13,9 +13,9 @@ toc_label: "Quick Links"
 toc_icon: "cog"
 sidebar:
   - title: "COLLABORATORS"
-    text: "[April Wright](https://paleantology.com/)"
+    text: "[April Wright (Southeastern Louisiana University)](https://paleantology.com/)"
   - title: ""
-    text: "[Klaus Schliep](https://kschliep.netlify.app/)"
+    text: "[Klaus Schliep (Graz University of Technology, Austria)](https://kschliep.netlify.app/)"
 ---
 
 
