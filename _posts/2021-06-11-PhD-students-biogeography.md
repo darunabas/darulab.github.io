@@ -5,6 +5,7 @@ date: 2021-06-11 19:53:57.000000000 -04:00
 type: post
 published: true
 status: publish
+share: true
 categories:
 - Updates
 image: /assets/images/phd-student.png
