@@ -13,7 +13,7 @@ tags: []
 
 42- **Daru, B.H.** (2021) Migratory birds distribute seeds to new climates. **_Nature_** doi:10.1038/d41586-021-01547-1<br>
   [<i class="fa fa-book" aria-hidden="true"></i> DOI](https://doi.org/10.1038/d41586-021-01547-1){: .btn .btn--small .btn--success}{:target="_blank"}
-  [<i class="fa fa-paperclip" aria-hidden="true"></i> PDF file]({{ site.baseurl}}/docs/41_RockDaru2021fmars.pdf){: .btn .btn--small .btn--primary}{:target="_blank"}
+  [<i class="fa fa-download" aria-hidden="true"></i> PDF file]({{ site.baseurl}}/docs/41_RockDaru2021fmars.pdf){: .btn .btn--small .btn--primary}{:target="_blank"}
 
 41- Rock, B.M. & **Daru, B.H.** (2021) Impediments to understanding seagrasses' response to global change. **_Frontiers in Marine Science_** 8: 608867.<br>
   [<i class="fa fa-book" aria-hidden="true"></i> DOI](https://doi.org/10.3389/fmars.2021.608867){: .btn .btn--small .btn--success}{:target="_blank"}
