@@ -13,7 +13,7 @@ toc_label: "Quick Links"
 toc_icon: "cog"
 sidebar:
   - title: "LINKS TO COLLABORATORS"
-    text: "[Klaus Schliep](https://kschliep.netlify.app/)"
+    text: "[Klaus Schliep](https://kschliep.netlify.app/){:target="_blank" rel="noopener noreferrer"}"
   - title: "Another Title"
     text: "More text here."
 ---
