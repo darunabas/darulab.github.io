@@ -17,7 +17,7 @@ Texas A&M University-Corpus Christi\
 6300 Ocean Dr, Unit 5800\
 Tidal Hall 141\
 Corpus Christi, Texas 78412\
-United States\
+United States
 
 ---
 
