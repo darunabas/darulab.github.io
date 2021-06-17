@@ -14,6 +14,7 @@ toc_icon: "cog"
 sidebar:
   - title: "COLLABORATORS"
     text: "[April Wright](https://paleantology.com/)"
+  - title: ""
     text: "[Klaus Schliep](https://kschliep.netlify.app/)"
 ---
 
