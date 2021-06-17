@@ -5,7 +5,7 @@ categories:
   - blog
 layout: splash
 header:
-  image: /assets/images/barnabas.jpg
+  overlay_color: "#333"
 tags:
   - Jekyll
   - update
