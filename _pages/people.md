@@ -9,6 +9,7 @@ permalink: /people/
 categories: []
 tags: []
 toc: true
+share: true
 toc_label: "Quick Links"
 toc_icon: "cog"
 sidebar:
