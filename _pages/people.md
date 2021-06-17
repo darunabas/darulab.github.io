@@ -27,6 +27,7 @@ Editorial Member at [**_eLife_**](https://elifesciences.org/about/people/ecology
 Guest Editor for [**_Phil Trans Roy Soc B_**](http://rstb.royalsocietypublishing.org/content/374/1763)<br>
 [<i class="fa fa-download" aria-hidden="true"></i> Curriculum Vitae]({{ site.baseurl}}/docs/a_DaruCVJune2021.pdf){: .btn .btn--small .btn--primary}{:target="_blank"}
 
+---
 ### STUDENTS AND POSTDOCS
 
 ![image-title-here](/images/paul.jpg){:class="img-responsive"}{:width="200px"}{: style="float: left; padding-right:10px"}
