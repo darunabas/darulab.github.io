@@ -10,6 +10,7 @@ categories: []
 tags: []
 toc: true
 toc_label: "Quick Links"
+toc_icon: "cog"
 ---
 
 ## PEOPLE IN THE DARU LAB
