@@ -10,7 +10,7 @@ categories: []
 tags: []
 ---
 
-<form action="https://formspree.io/darunabas@yahoo.com" method="POST">
+<form action="https://formspree.io/f/mnqlvgwq" method="POST">
   <label for="name">Name:</label>
   <input type="text" id="name" name="user_name" />
   <label for="mail">E-mail:</label>
