@@ -193,7 +193,7 @@ tags: []
   [<i class="fa fa-book" aria-hidden="true"></i> DOI](https://doi.org/10.1560/IJEE.58.1.39){: .btn .btn--small .btn--success}{:target="_blank"}
   [<i class="fa fa-download" aria-hidden="true"></i> PDF file]({{ site.baseurl}}/docs/02_Yessoufou2012_IJEE.pdf){: .btn .btn--small .btn--primary}{:target="_blank"}
   
-  [TESTING]({{ site.baseurl}}2021-03-michonneau-cv.html){:target="_blank"}
+  [TESTING]({{ site.baseurl}}/docs/2021-03-michonneau-cv.html){:target="_blank"}
 
 01- Van der Bank, H.F., Greenfield, R., **Daru, B.H.** & Yessoufou, K. (2012) DNA barcoding reveals micro-evolutionary changes and river system-level phylogeographic resolution of seven populations of African silver catfish, Schilbe intermedius (Siluriformes, Schilbeidae). **_Acta Ichthyologica et Piscatoria_** 42: 307-320.<br>
   [<i class="fa fa-book" aria-hidden="true"></i> DOI](http://dx.doi.org/10.3750/AIP2012.42.4.04){: .btn .btn--small .btn--success}{:target="_blank"}
