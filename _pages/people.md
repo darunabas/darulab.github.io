@@ -91,13 +91,11 @@ Research: Next generation systematics and biogeography of the aquatic plant clad
 ---
 ### LINKS TO COLLABORATORS
 
-[April Wright Lab (S**_eLife_**](https://paleantology.com/){:target="_blank" target="_blank" rel="noopener noreferrer"}<br>
-(_Southeastern Louisiana University_)
-
+[**April Wright Lab**](https://paleantology.com/){:target="_blank" target="_blank" rel="noopener noreferrer"}<br>
+(_Southeastern Louisiana University_)<br>
 <br>
 [Emily Meineke Lab](https://emilykmeineke.com/){:target="_blank" target="_blank" rel="noopener noreferrer"}<br>
 (_University of California, Davis_)<br>
-
 <br>
 [Klaus Schliep](https://kschliep.netlify.app/){:target="_blank" target="_blank" rel="noopener noreferrer"}<br>
 (_Graz University of Technology, Austria_)<br>
