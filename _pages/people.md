@@ -11,6 +11,11 @@ tags: []
 toc: true
 toc_label: "Quick Links"
 toc_icon: "cog"
+sidebar:
+  - title: "RECENT COLLABORATORS"
+    text: "[April Wright](https://paleantology.com/)"
+  - title: "Another Title"
+    text: "[Klaus Schliep](https://kschliep.netlify.app/)"
 ---
 
 
