@@ -102,3 +102,6 @@ Research: Next generation systematics and biogeography of the aquatic plant clad
 <br>
 [**Charles Davis Lab**](https://davislab.oeb.harvard.edu/){:target="_blank" target="_blank" rel="noopener noreferrer"}<br>
 (_Harvard University_)<br>
+<br>
+[**Betsy Arnold Lab**](http://www.arnoldlab.net/){:target="_blank" target="_blank" rel="noopener noreferrer"}<br>
+(_University of Arizona_)<br>
