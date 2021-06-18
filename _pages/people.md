@@ -100,5 +100,5 @@ Research: Next generation systematics and biogeography of the aquatic plant clad
 [**Klaus Schliep**](https://kschliep.netlify.app/){:target="_blank" target="_blank" rel="noopener noreferrer"}<br>
 (_Graz University of Technology, Austria_)<br>
 <br>
-[**Charles Davis**](https://davislab.oeb.harvard.edu/){:target="_blank" target="_blank" rel="noopener noreferrer"}<br>
+[**Charles Davis Lab**](https://davislab.oeb.harvard.edu/){:target="_blank" target="_blank" rel="noopener noreferrer"}<br>
 (_Harvard University_)<br>
