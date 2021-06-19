@@ -65,7 +65,7 @@ tags: []
   [<i class="fa fa-book" aria-hidden="true"></i> DOI](https://doi.org/10.1098/rstb.2017.0386){: .btn .btn--small .btn--success}{:target="_blank"}
   [<i class="fa fa-download" aria-hidden="true"></i> PDF file]({{ site.baseurl}}/docs/31_Meineke2018_PTRSB.pdf){: .btn .btn--small .btn--primary}{:target="_blank"}
 
-30- **Daru, B.H.**, van der Bank, M. & Davies, T.J. (2018) Unravelling the evolutionary origins of biogeographic assemblages. Diversity and Distributions 24: 313–324.<br>
+30- **Daru, B.H.**, van der Bank, M. & Davies, T.J. (2018) Unravelling the evolutionary origins of biogeographic assemblages. **_Diversity and Distributions_** 24: 313–324.<br>
   [<i class="fa fa-book" aria-hidden="true"></i> DOI](https://doi.org/10.1111/ddi.12679){: .btn .btn--small .btn--success}{:target="_blank"}
   [<i class="fa fa-download" aria-hidden="true"></i> PDF file]({{ site.baseurl}}/docs/30_Daru2018_DDI.pdf){: .btn .btn--small .btn--primary}{:target="_blank"}
 
