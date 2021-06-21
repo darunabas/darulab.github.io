@@ -22,7 +22,7 @@ toc_icon: "cog"
 Postdoc – Harvard University<br>
 PhD – University of Johannesburg<br>
 BSc – University of Jos<br>
-Editorial Board at [**_American Journal of Botany_**](https://bsapubs.onlinelibrary.wiley.com/hub/journal/15372197/homepage/editorialboard)<br>
+Editorial Board at [**_Am J Bot_**](https://bsapubs.onlinelibrary.wiley.com/hub/journal/15372197/homepage/editorialboard)<br>
 Editorial Member at [**_eLife_**](https://elifesciences.org/about/people/ecology)<br>
 Guest Editor for [**_Phil Trans Roy Soc B_**](http://rstb.royalsocietypublishing.org/content/374/1763)<br>
 [<i class="fa fa-download" aria-hidden="true"></i> Curriculum Vitae]({{ site.baseurl}}/docs/a_DaruCVJune2021.pdf){: .btn .btn--small .btn--primary}{:target="_blank"}
