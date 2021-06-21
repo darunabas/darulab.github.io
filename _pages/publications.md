@@ -6,6 +6,7 @@ type: page
 published: true
 status: publish
 permalink: /publications/
+toc: true
 categories: []
 tags: []
 ---
