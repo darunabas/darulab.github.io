@@ -8,7 +8,10 @@ status: publish
 share: true
 categories:
 - Updates
-image: /assets/images/taita-thrush.jpg
+header:
+  overlay_image: /assets/images/taita-thrush.jpg
+  overlay_filter: 0.2
+excerpt: ""
 tags:
   - link
   - Post Formats
