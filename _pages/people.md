@@ -22,9 +22,9 @@ toc_icon: "cog"
 Postdoc – Harvard University<br>
 PhD – University of Johannesburg<br>
 BSc – University of Jos<br>
-Editorial Board at [**_Am J Bot_**](https://bsapubs.onlinelibrary.wiley.com/hub/journal/15372197/homepage/editorialboard){:target="_blank" target="_blank" rel="noopener noreferrer"}<br>
-Editorial Member at [**_eLife_**](https://elifesciences.org/about/people/ecology){:target="_blank" target="_blank" rel="noopener noreferrer"}<br>
-Guest Editor for [**_Phil Trans Roy Soc B_**](http://rstb.royalsocietypublishing.org/content/374/1763){:target="_blank" target="_blank" rel="noopener noreferrer"}<br>
+Editorial Board [**_Am J Bot_**](https://bsapubs.onlinelibrary.wiley.com/hub/journal/15372197/homepage/editorialboard){:target="_blank" target="_blank" rel="noopener noreferrer"}<br>
+Editorial Member [**_eLife_**](https://elifesciences.org/about/people/ecology){:target="_blank" target="_blank" rel="noopener noreferrer"}<br>
+Guest Editor [**_Phil Trans Roy Soc B_**](http://rstb.royalsocietypublishing.org/content/374/1763){:target="_blank" target="_blank" rel="noopener noreferrer"}<br>
 [<i class="fa fa-download" aria-hidden="true"></i> Curriculum Vitae]({{ site.baseurl}}/docs/a_DaruCVJune2021.pdf){: .btn .btn--small .btn--primary}{:target="_blank"}
 
 ---
