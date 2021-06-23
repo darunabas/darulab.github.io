@@ -11,7 +11,7 @@ categories:
 header:
   overlay_image: /assets/images/taita-thrush.jpg
   overlay_filter: 0.2
-  caption: "Photo credit: [**Niall Perrins**](http://www.niall.co.za/)"
+  caption: "Photo credit: [**Niall Perrins**](http://www.niall.co.za/){:target="_blank"}"
 excerpt: ""
 tags:
   - link
