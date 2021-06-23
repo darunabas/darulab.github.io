@@ -7,6 +7,7 @@ layout: splash
 header:
   overlay_image: /assets/images/figurepd.png
   overlay_filter: 0.1
+excerpt: ""
 tags:
   - Jekyll
   - update
