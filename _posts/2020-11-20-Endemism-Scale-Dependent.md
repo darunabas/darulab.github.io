@@ -24,7 +24,7 @@ Together with researchers Alexandre Antonelli of Royal Botanic Gardens Kew Londo
 
 The first striking result is that hotspots of weighted endemism are sensitive to geographic resolution, decreasing at courser resolutions than finer resolutions and when treated by taxonomic lumping. The extent of the variation is similar for both birds and amphibians. This finding suggests that analysis at courser resolutions can easily miss microendemic species such as the Taita thrush (Fig. 1) confined to tiny forest patch of 300 hectares in Taita Hills of Kenya.
 
-![Taita-thrush](/images/taita-thrush.jpg){:class="img-responsive"}{:width="200px"}{: style="float: center"}
+![Taita-thrush](/assets/images/taita-thrush.jpg){:class="img-responsive"}{:width="200px"}{: style="float: center"}
 {:.image-caption}
 *Figure 1: The Taita Thrush (Turdus helleri) is endemic to the Taita Hills in Kenya. Coarse resolution analysis of endemism can easily miss such a species. Photo credit: Niall Perrins.*
 
