@@ -6,7 +6,7 @@ categories:
 layout: splash
 header:
   overlay_image: /assets/images/figurepd.png
-  overlay_filter: 0.1
+  overlay_filter: 0.9
 excerpt: ""
 tags:
   - Jekyll
