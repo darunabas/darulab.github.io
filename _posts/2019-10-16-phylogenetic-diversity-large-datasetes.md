@@ -5,7 +5,9 @@ categories:
   - blog
 layout: splash
 header:
-  overlay_color: "#333"
+  overlay_image: /assets/images/figurepd.png
+  overlay_filter: 0.1
+excerpt: Phylogenetic Diversity for Large Datasets
 tags:
   - Jekyll
   - update
