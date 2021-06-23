@@ -24,9 +24,9 @@ Together with researchers Alexandre Antonelli of Royal Botanic Gardens Kew Londo
 
 The first striking result is that hotspots of weighted endemism are sensitive to geographic resolution, decreasing at courser resolutions than finer resolutions and when treated by taxonomic lumping. The extent of the variation is similar for both birds and amphibians. This finding suggests that analysis at courser resolutions can easily miss microendemic species such as the Taita thrush (Fig. 1) confined to tiny forest patch of 300 hectares in Taita Hills of Kenya.
 
-![Taita-thrush](/assets/images/taita-thrush.jpg){:class="img-responsive"}{:width="200px"}{: style="float: center"}
+![Taita-thrush](/assets/images/taita-thrush.jpg){:class="img-responsive"}
 {:.image-caption}
-*Figure 1: The Taita Thrush (Turdus helleri) is endemic to the Taita Hills in Kenya. Coarse resolution analysis of endemism can easily miss such a species. Photo credit: Niall Perrins.*
+Figure 1: The Taita Thrush (_Turdus helleri_) is endemic to the Taita Hills in Kenya. Coarse resolution analysis of endemism can easily miss such a species. Photo credit: Niall Perrins.
 
 The second important finding is that patterns of phylogenetic endemism vary with geographic extent and differ at global, continental or local (country level) scales. For instance, at the global extent, popular biodiversity hotspots like the ones in Madagascar, Africa, Mesoamerica, the Andes, Papua New Guinea and South-Central China are evident when measured at finer resolutions. However, these effects disappear at the continental or country extents. Indeed, at the country level, hotspots of phylogenetic endemism became scattered across countries, often clustering around country borders. These suggest that the phylogenetic endemism metric is not influenced by variations in taxonomic opinion but instead reflects the degree to which the phylogeny is restricted to a single area. For example, the Galápagos penguin (Spheniscus mendiculus) is the only penguin that naturally occurs outside the Southern Hemisphere found nowhere else but the Galápagos Islands north of the equator. This species is expected to have a higher phylogenetic endemism at a continental scale north of the equator, but lower in a global setting because it has about 20 close relatives restricted to the Southern Hemisphere.
 
