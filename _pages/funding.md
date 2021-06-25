@@ -7,7 +7,7 @@ published: true
 status: publish
 header:
   overlay_image: /assets/images/nsf.jpg
-  overlay_filter: 0.5
+  overlay_filter: 0.1
 excerpt: ""
 permalink: /funding/
 categories: []
