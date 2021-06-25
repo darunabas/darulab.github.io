@@ -8,7 +8,7 @@ status: publish
 header:
   overlay_image: /assets/images/pubs_header.jpg
   overlay_filter: 0.7
-excerpt: "Last updated June 2021"
+excerpt: ""
 permalink: /publications/
 categories: []
 tags: []
