@@ -1,10 +1,14 @@
 ---
 layout: single
-title: Publications
+title: "Our peer-reviewed publications"
 date: null
 type: page
 published: true
 status: publish
+header:
+  overlay_image: /assets/images/pubs_header.jpg
+  overlay_filter: 0.1
+excerpt: "Last updated June 2021"
 permalink: /publications/
 toc: true
 categories: []
