@@ -26,7 +26,7 @@ Species distributions data are commonly available in three formats: polygons, po
 First, load the packages for the analysis:
 
 
-```r
+```
 library(phyloregion)
 library(BIEN)
 library(ape)
