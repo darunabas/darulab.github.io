@@ -5,6 +5,10 @@ date: null
 type: page
 published: true
 status: publish
+header:
+  overlay_image: /assets/images/nsf.jpg
+  overlay_filter: 0.5
+excerpt: ""
 permalink: /funding/
 categories: []
 tags: []
