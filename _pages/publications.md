@@ -7,7 +7,7 @@ published: true
 status: publish
 header:
   overlay_image: /assets/images/pubs_header.jpg
-  overlay_filter: 0.3
+  overlay_filter: 0.5
 excerpt: "Last updated June 2021"
 permalink: /publications/
 toc: true
