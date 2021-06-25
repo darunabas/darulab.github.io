@@ -82,16 +82,6 @@ Piyal was a postdoc in the lab from June 2019 to August 2020. Piyal focused on d
 
 <br clear="left"/>
 
-![image-title-here](/images/keilana.jpg){:class="img-responsive"}{:width="200px"}{: style="float: left; padding-right:10px"}
-
-**Keilana Borja**
-Masters student\
-BSc – Texas A&M University at Galveston   
-Research: Next generation systematics and biogeography of the aquatic plant clade Alismatales<br>
-[<i class="fa fa-download" aria-hidden="true"></i> Curriculum Vitae]({{ site.baseurl}}/docs/e_KeilanaCV.pdf){: .btn .btn--small .btn--primary}{:target="_blank"}
-
-<br clear="left"/>
-
 ---
 ### LINKS TO COLLABORATORS
 
