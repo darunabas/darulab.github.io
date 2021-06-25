@@ -1,8 +1,12 @@
 ---
 layout: single
-title: Contact
+title: "Contact Us"
 date: null
 type: page
+header:
+  overlay_image: /assets/images/tamucc.jpg
+  overlay_filter: 0.1
+excerpt: ""
 published: true
 status: publish
 permalink: /contact/
