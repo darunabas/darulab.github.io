@@ -8,7 +8,7 @@ status: publish
 header:
   overlay_image: /assets/images/people.png
   overlay_filter: 0.5
-excerpt: "Last updated June 2021"
+excerpt: ""
 permalink: /people/
 categories: []
 tags: []
