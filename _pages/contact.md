@@ -6,6 +6,7 @@ type: page
 header:
   overlay_image: /assets/images/tamucc.jpg
   overlay_filter: 0.1
+  caption: "Photo credit: [**TAMUCC.EDU**](https://photos.tamucc.edu/Campus-Photos/TAMUCC-Nature/)"
 excerpt: ""
 published: true
 status: publish
