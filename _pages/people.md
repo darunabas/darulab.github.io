@@ -6,8 +6,8 @@ type: page
 published: true
 status: publish
 header:
-  overlay_image: 
-  overlay_filter: 0.7
+  overlay_image: /assets/images/people.png
+  overlay_filter: 0.5
 excerpt: "Last updated June 2021"
 permalink: /people/
 categories: []
