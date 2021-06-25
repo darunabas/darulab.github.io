@@ -1,10 +1,14 @@
 ---
 layout: single
-title: People
+title: "People in the Daru Lab"
 date: null
 type: page
 published: true
 status: publish
+header:
+  overlay_image: 
+  overlay_filter: 0.7
+excerpt: "Last updated June 2021"
 permalink: /people/
 categories: []
 tags: []
@@ -13,7 +17,6 @@ toc_label: "Quick Links"
 toc_icon: "cog"
 ---
 
-## PEOPLE IN THE DARU LAB
 ### PRINCIPAL INVESTIGATOR
 
 ![Barnabas-Daru](/assets/images/barnabas.jpg){:class="img-responsive"}{:width="200px"}{: style="float: left; padding-right:10px"}
