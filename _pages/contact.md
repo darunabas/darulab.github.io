@@ -4,9 +4,8 @@ title: "Contact Us"
 date: null
 type: page
 header:
-  overlay_image: /assets/images/tamucc.jpg
+  overlay_image: /assets/images/Fynbos.JPG
   overlay_filter: 0.1
-  caption: "Photo: [**TAMUCC.EDU**](https://photos.tamucc.edu/Campus-Photos/TAMUCC-Nature/)"
 excerpt: ""
 published: true
 status: publish
