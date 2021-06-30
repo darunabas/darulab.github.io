@@ -9,6 +9,7 @@ share: true
 categories:
 - Updates
 image: /assets/images/phd-student.png
+feature-img: "/assets/images/phd-student.png"
 tags:
   - link
   - Post Formats
