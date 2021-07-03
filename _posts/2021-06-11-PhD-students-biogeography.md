@@ -27,7 +27,7 @@ The position includes a stipend ($24,000/yr), health insurance, and tuition. The
 <li>An undergraduate GPA of 3.0 or higher.</li>
 </ol>
 
-**Desired qualifications: ** 
+**Desired qualifications:**
 <ol>
 <li>Experience in spatial analysis and programming in the `R` computing environment;</li>
 <li>Prior experience with GIS/geospatial analysis, `R` package development, Git, and/or reproducible research would be an asset.</li>
