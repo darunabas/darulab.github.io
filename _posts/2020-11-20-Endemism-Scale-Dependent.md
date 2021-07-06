@@ -1,11 +1,11 @@
 ---
-layout: splash
 title: Endemism patterns are scale dependent
 date: 2020-11-20 19:53:57.000000000 -04:00
 type: post
 published: true
 status: publish
 share: true
+excerpt_separator: <!--more-->
 categories:
 - Updates
 header:
@@ -21,6 +21,8 @@ tags:
 ## Endemism patterns are scale dependent
 
 The spatial variation of biodiversity patterns has for long fascinated biologists, yet our knowledge of how this phenomenon varies from local, regional and global scales have been predicated on models fitted to species richness, extinction risk or density dependence. As a consequence, little is known about how patterns of endemism vary with scale. Writing in [**_Nature Communications_**](https://doi.org/10.1038/s41467-020-15921-6){:target="_blank"}, we analysed global datasets of ~10,000 bird species and 6000 species of amphibians including their geographic distributions and phylogenetic relationships, to test the extent to which patterns of endemism depend on scale. We find that patterns of weighted and phylogenetic endemism (the two common methods for measuring endemism) are sensitive to differences in spatial resolution, geographical extent and taxonomic treatment. In addition, no matter the scale, hotspots of endemism are poorly covered by the current network of protected areas. These observations have direct implications for our understanding of how scale can influence interpretation of biodiversity patterns and may offer clues on how to prioritize areas for conservation.
+
+<!--more-->
 
 Endemism is the geographical distribution of a species in a restricted area of the world, and it is an important quantity in conservation biogeography. But we still lack answers to fundamental questions about the sensitivity of endemism to its scale of measurement. Are patterns of endemism of different organisms different across scales? At what scale is endemism sensitive to variation in the climate of an area? And how effective are protected areas in safeguarding endemism across scales?
 
