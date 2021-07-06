@@ -1,10 +1,11 @@
 ---
 layout: single
 title: PhD Student Position in Biogeography
-date: 2021-06-11 19:53:57.000000000 -04:00
+date: 2021-06-11
 type: post
 published: true
 status: publish
+excerpt_separator: <!--more-->
 share: true
 categories:
 - Updates
@@ -18,6 +19,8 @@ tags:
 ## PhD Position in Biogeography
 
 The Daru lab [(https://barnabasdaru.com/)](https://barnabasdaru.com/) within the Department of Life Sciences at Texas A&M University-Corpus Christi is seeking a PhD student to begin in Spring 2022.  The student's research will focus on a 3-year NSF funded project to develop informatics tools and methods for biogeography [(https://doi.org/10.5281/zenodo.4792835)](https://doi.org/10.5281/zenodo.4792835){:target="_blank"}.
+
+<!--more-->
 
 The position includes a stipend ($24,000/yr), health insurance, and tuition. These will be provided through a research assistantship. The Daru Lab is supportive of opportunities for professional development (e.g., workshops and conferences). For instance, the student will also have funding to participate in a biogeography-method users workshop in Laguna Madre Field Station in the Gulf of Mexico in south Texas in Years 1 and 3 of the project and Turtle Cove Field Station, Louisiana in Year 2. We strive to provide a flexible, comfortable, inclusive environment for research and professional growth. The successful student will obtain Ph.D. degree through the [Marine Biology Program](https://marinebiology.tamucc.edu/){:target="_blank"}, an interdisciplinary degree program.
 
