@@ -3,6 +3,7 @@ layout: single
 title: "Our peer-reviewed publications"
 date: null
 type: page
+classes: wide
 published: true
 status: publish
 header:
