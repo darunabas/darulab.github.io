@@ -12,7 +12,6 @@ categories:
 header:
   overlay_image: /assets/images/TAMUCC.png
   overlay_filter: 0.2
-excerpt: ""
 tags:
   - link
   - Post Formats
