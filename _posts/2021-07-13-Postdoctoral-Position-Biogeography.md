@@ -15,7 +15,6 @@ excerpt: ""
 categories:
 - Updates
 image: /assets/images/TAMUCC.png
-feature-img: "/assets/images/TAMUCC.png"
 tags:
   - link
   - Post Formats
@@ -33,19 +32,19 @@ The Daru Lab is supportive of opportunities for professional development (e.g., 
 The postdoc will also have the opportunity to participate in a biogeography-method users workshop in Laguna Madre Field Station in the Gulf of Mexico in south Texas in Years 1 and 3 of the project and Turtle Cove Field Station, Louisiana in Year 2. We strive to provide a flexible, comfortable, inclusive environment for research and professional growth.
 
 **Essential qualifications:**  
-Applicants should have a PhD in ecology, biology, evolution, biogeography, statistics or a related field, and have demonstrated expertise in spatial analysis and programming in the R computing environment. Prior experience with GIS/geospatial analysis, R package development, Git, and/or reproducible research would be an asset. Prospective postdocs from traditionally under-represented groups are especially encouraged to apply. 
+Applicants should have a PhD in ecology, biology, evolution, biogeography, statistics or a related field, and have demonstrated expertise in spatial analysis and programming in the `R` computing environment. Prior experience with GIS/geospatial analysis, `R` package development, Git, and/or reproducible research would be an asset. Prospective postdocs from traditionally under-represented groups are especially encouraged to apply. 
 
 **Application:**  
 Applicants should electronically submit a single PDF containing the following:
-1. a 2-page cover letter detailing your research interests and skills that matches the position;  
+1. a 2-page cover letter detailing your research interests and skills that match the position;  
 2. a CV (with 3-5 references listed at the end)
 
 Please submit applications to xx 
-Direct any questions to Dr. Barnabas Daru at barnabas.daru@tamucc.edu 
+Direct any questions to Dr. Barnabas Daru at [barnabas.daru@tamucc.edu](mailto:barnabas.daru@tamucc.edu)
 
 The start date is September 2021, with flexibility.
 
-**Terms of employment:** 
+**Terms of employment:**  
 Salary of $40,000-$45,000 (depending on experience), health insurance, and other benefits are included.  This position is based at Texas A&M University-Corpus Christi. 
 
 TAMUCC, also known as the Island University is ranked number 1 on ‘The 50 Best Colleges By The Sea’ List.
