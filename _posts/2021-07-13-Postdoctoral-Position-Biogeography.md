@@ -52,5 +52,5 @@ TAMUCC also known as the Island University is ranked number 1 on ‘The 50 Best 
 
 > As if the average of 223 days of sunshine wasn’t awesome enough, high wind speeds in the area make it perfect for wind surfing, sailing, or kite boarding. 
 >
->> <cite>Best Value Schools</cite>
+>> <cite>[Best Colleges Reviews](https://www.bestcollegereviews.org/colleges-by-the-sea/){:target="_blank"}</cite>
 
