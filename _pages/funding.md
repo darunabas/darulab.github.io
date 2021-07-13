@@ -36,7 +36,7 @@ Collaborative Research: Leveraging historical collections and new surveys to cha
 Subaward: Dr. Barnabas Daru, $42,245\
 Digitization TCN: Collaborative: American Crossroads: Digitizing the vascular flora of the south-central US
 
-**2016-18 Harvard University Herbaria Postdoctoral Fellowship, $135,000**\
+**[2016-18 Harvard University Herbaria Postdoctoral Fellowship, $135,000](https://huh.harvard.edu/research-funding-opportunities){:target="_blank"}**\
 Analysis of extinction risk, biotic interactions and spatial trends of phenological diversity using herbarium records
 
 **2015-16 South African NRF, R142,000 (~ $10,000) (NRF THUTHUKA 99258)**\
