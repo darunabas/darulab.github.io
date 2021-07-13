@@ -50,7 +50,7 @@ Salary of $40,000-$45,000 (depending on experience), health insurance, and other
 
 TAMUCC, also known as the Island University is ranked number 1 on ‘The 50 Best Colleges By The Sea’ List.
 
-> Located between Oso Bay and Corpus Christi Bay, Texas A&M Corpus Christi (TAMU-CC) boasts a tropical climate and is the nation’s only university that is found on its own island. Students at TAMU-CC have the benefit of studying in this prime vacation spot, where there are many opportunities for windsurfing, fishing, boating, or exploring more than 130,000 acres of beautiful, sandy beaches. The Port of Corpus Christi is the nation’s sixth largest port by tonnage, and is home to the Beach to Bay relay marathon, the Texas Jazz Festival, and the Festival of the Arts. TAMU-CC is part of the larger Texas A&M University system and offers 41 undergraduate majors, 32 graduate programs, and 7 doctoral programs. 
+> Located between Oso Bay and Corpus Christi Bay, Texas A&M Corpus Christi boasts a tropical climate and is the nation’s only university that is found on its own island. Students at TAMUCC have the benefit of studying in this prime vacation spot, where there are many opportunities for windsurfing, fishing, boating, or exploring more than 130,000 acres of beautiful, sandy beaches. The Port of Corpus Christi is the nation’s sixth largest port by tonnage, and is home to the Beach to Bay relay marathon, the Texas Jazz Festival, and the Festival of the Arts. TAMUCC is part of the larger Texas A&M University system and offers 41 undergraduate majors, 32 graduate programs, and 7 doctoral programs. 
 >
 >> <cite>[Best Colleges Reviews](https://www.bestcollegereviews.org/colleges-by-the-sea/){:target="_blank"}</cite>
 
