@@ -18,8 +18,7 @@ tags:
   - Post Formats
 ---
 
-## PhD Position in Biogeography
-Postdoctoral Position in Biogeographic Inference Tools (3 years)
+## Postdoctoral Position in Biogeographic Inference Tools (3 years)
 
 A 3-year postdoctoral position in developing analytical methods and tools for evolutionary biogeography and macroecology is available in the lab of Barnabas Daru (https://barnabasdaru.com/) in the Department of Life Sciences at Texas A&M University-Corpus Christi.
 
