@@ -46,4 +46,3 @@ Terms of employment:
 Salary of $40,000-$45,000 (depending on experience), health insurance, and other benefits are included.  This position is based at Texas A&M University-Corpus Christi. 
 
 
-![image](https://user-images.githubusercontent.com/13451768/125499211-c1e725a5-ec8a-456c-bead-27009ab72522.png)
