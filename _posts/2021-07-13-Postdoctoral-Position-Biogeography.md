@@ -5,6 +5,7 @@ date: 2021-07-13
 type: post
 published: true
 status: publish
+classes: wide
 excerpt_separator: <!--more-->
 share: true
 header:
