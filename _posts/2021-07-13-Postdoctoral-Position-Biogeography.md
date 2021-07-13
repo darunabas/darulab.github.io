@@ -45,7 +45,7 @@ Direct any questions to Dr. Barnabas Daru at [barnabas.daru@tamucc.edu](mailto:b
 The start date is September 2021, with flexibility.
 
 **Terms of employment:**  
-Salary of $40,000-$45,000 (depending on experience), health insurance, and other benefits are included.  This position is based at Texas A&M University-Corpus Christi. TAMUCC is an equal opportunity employer and provides employment to all regardless of race, color, sex, religion, national origin, age, disability, etc.
+Salary of $40,000-$45,000 (depending on experience), health insurance, and other benefits are included.  This position is based at Texas A&M University-Corpus Christi, and it is an equal opportunity employer which provides employment to all regardless of race, color, sex, religion, national origin, age, disability, etc.
 
 TAMUCC, also known as the Island University is ranked number 1 on ‘The 50 Best Colleges By The Sea’ List.
 
