@@ -23,6 +23,8 @@ Postdoctoral Position in Biogeographic Inference Tools (3 years)
 
 A 3-year postdoctoral position in developing analytical methods and tools for evolutionary biogeography and macroecology is available in the lab of Barnabas Daru (https://barnabasdaru.com/) in the Department of Life Sciences at Texas A&M University-Corpus Christi.
 
+<!--more-->
+
 This position is part of a collaborative, 3-year NSF funded DBI project title *phyloregion, computational infrastructure for biogeographic regionalization and macroecology in the R computing environment*. The position is 100% research. The responsibilities are to: (1) Develop new methods for biome evolution; (2) Develop new tools to visualize patterns of biogeography, macroecology and evolution; and (3) Develop new tools for conservation that reflect the key dimensions of phylogenetic diversity including richness, divergence and regularity. 
 
 The Daru Lab is supportive of opportunities for professional development (e.g., conferences).
