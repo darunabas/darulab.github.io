@@ -1,7 +1,7 @@
 ---
 layout: single
 title: Postdoctoral Position in Biogeographic Inference Tools (3 years)
-date: 2021-07-13
+date: 2021-06-11
 type: post
 published: true
 status: publish
@@ -12,6 +12,7 @@ categories:
 header:
   overlay_image: /assets/images/TAMUCC.png
   overlay_filter: 0.2
+excerpt: ""
 tags:
   - link
   - Post Formats
