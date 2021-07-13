@@ -48,6 +48,8 @@ The start date is September 2021, with flexibility.
 **Terms of employment:** 
 Salary of $40,000-$45,000 (depending on experience), health insurance, and other benefits are included.  This position is based at Texas A&M University-Corpus Christi. 
 
+TAMUCC also known as the Island University is ranked number 1 on ‘The 50 Best Colleges By The Sea’ List (BestCollegeReviews.org, 2020).
+
 > As if the average of 223 days of sunshine wasn’t awesome enough, high wind speeds in the area make it perfect for wind surfing, sailing, or kite boarding. 
 >
 >> <cite>Best Value Schools</cite>
