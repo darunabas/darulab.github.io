@@ -32,7 +32,7 @@ The responsibilities are to: (1) Develop new methods for biome evolution; (2) De
 The Daru Lab is supportive of opportunities for professional development (e.g., conferences).
 The postdoc will also have the opportunity to participate in a biogeography-method users workshop in Laguna Madre Field Station in the Gulf of Mexico in south Texas in Years 1 and 3 of the project and Turtle Cove Field Station, Louisiana in Year 2. We strive to provide a flexible, comfortable, inclusive environment for research and professional growth.
 
-**Essential qualifications:** 
+**Essential qualifications:**  
 Applicants should have a PhD in ecology, biology, evolution, biogeography, statistics or a related field, and have demonstrated expertise in spatial analysis and programming in the R computing environment. Prior experience with GIS/geospatial analysis, R package development, Git, and/or reproducible research would be an asset. Prospective postdocs from traditionally under-represented groups are especially encouraged to apply. 
 
 **Application:**  
