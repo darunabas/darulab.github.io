@@ -10,7 +10,7 @@ share: true
 categories:
 - Updates
 header:
-  overlay_image: /assets/images/tamucc_birds.jpg
+  overlay_image: /assets/images/TAMUCC.png
   overlay_filter: 0.2
 excerpt: ""
 tags:
