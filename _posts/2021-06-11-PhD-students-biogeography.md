@@ -4,6 +4,7 @@ title: PhD Student Position in Biogeography
 date: 2021-06-11
 type: post
 published: true
+classes: wide
 status: publish
 excerpt_separator: <!--more-->
 share: true
