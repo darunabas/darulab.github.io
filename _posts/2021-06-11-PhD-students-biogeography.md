@@ -6,12 +6,14 @@ type: post
 published: true
 classes: wide
 status: publish
+header:
+  overlay_image: /assets/images/phd-student.png
+  overlay_filter: 0.2
+excerpt: ""
 excerpt_separator: <!--more-->
 share: true
 categories:
 - Updates
-image: /assets/images/phd-student.png
-feature-img: "/assets/images/phd-student.png"
 tags:
   - link
   - Post Formats
