@@ -49,7 +49,7 @@ United States
       <input type="text" placeholder="Name*" name="entry.1633920210" required>
   
       <label>Email Address*</label>
-      <input type="email" placeholder="Email address*" name="227649005" required>
+      <input type="email" placeholder="Email address*" name="entry.227649005" required>
      
       <label>Message*</label>
       <textarea rows="5" placeholder="Message*" name="entry.1765651431" required></textarea>
