@@ -42,21 +42,3 @@ United States
   <input type="hidden" name="_cc" value="darunabas@gmail.com" />
 </form>
 
----
-
-<form action="https://docs.google.com/forms/d/e/1FAIpQLScrhBdw3n53ef0QSpXSuzJU70vESF7weAbzpJ7FesUmuDaLVg/formResponse" method="post">
-      <label>Name*</label>
-      <input type="text" placeholder="Name*" name="entry.1633920210" required>
-  
-      <label>Email Address*</label>
-      <input type="email" placeholder="Email address*" name="entry.227649005" required>
-     
-      <label>Message*</label>
-      <textarea rows="5" placeholder="Message*" name="entry.1765651431" required></textarea>
-     
-      <button type="submit">Send</button>
-</form>
-
-
-<iframe src="https://docs.google.com/forms/d/e/1FAIpQLScrhBdw3n53ef0QSpXSuzJU70vESF7weAbzpJ7FesUmuDaLVg/viewform?embedded=true" width="640" height="808" frameborder="0" marginheight="0" marginwidth="0">Loading…</iframe>
-
