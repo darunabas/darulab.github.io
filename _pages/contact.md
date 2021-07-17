@@ -41,3 +41,18 @@ United States
   />
   <input type="hidden" name="_cc" value="darunabas@gmail.com" />
 </form>
+
+
+
+<form action="" method="post">
+      <label>Name*</label>
+      <input type="text" placeholder="Name*" name="1633920210" required>
+  
+      <label>Email Address*</label>
+      <input type="email" placeholder="Email address*" name="227649005" required>
+     
+      <label>Message*</label>
+      <textarea rows="5" placeholder="Message*" name="1765651431" required></textarea>
+     
+      <button type="submit">Send</button>
+</form>
