@@ -52,7 +52,7 @@ United States
       <input type="email" placeholder="Email address*" name="227649005" required>
      
       <label>Message*</label>
-      <textarea rows="5" placeholder="Message*" name="1765651431" required></textarea>
+      <textarea rows="5" placeholder="Message*" name="entry.1765651431" required></textarea>
      
       <button type="submit">Send</button>
 </form>
