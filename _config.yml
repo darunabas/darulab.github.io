@@ -53,7 +53,7 @@ social:
 analytics:
   provider               : "google-universal" # false (default), "google", "google-universal", "custom"
   google:
-    tracking_id          : "UA-11917240-3"
+    tracking_id          : "G-XZ54GQJJXW"
 
 # Google AdSense
 google_ad_client         :
