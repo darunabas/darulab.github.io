@@ -10,6 +10,10 @@ header:
   overlay_filter: 0.5
 excerpt: ""
 permalink: /people/
+images: 
+  - image: /assets/images/acacia.JPG
+  - image: /assets/images/grassland.JPG
+  - image: /assets/images/tamucc_birds.jpg
 categories: []
 tags: []
 toc: true
