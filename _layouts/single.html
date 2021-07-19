@@ -8,6 +8,8 @@ layout: default
   {% include page__hero_video.html %}
 {% endif %}
 
+{% include carousel.html height="50" unit="%" duration="7" %}
+
 {% if page.url != "/" and site.breadcrumbs %}
   {% unless paginator %}
     {% include breadcrumbs.html %}
