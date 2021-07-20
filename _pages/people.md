@@ -106,3 +106,6 @@ Piyal was a postdoc in the lab from June 2019 to August 2020. Piyal focused on d
 
 
 {% include carousel.html height="50" unit="%" duration="7" %}
+
+{% include figure image_path="/assets/images/tamucc_birds.jpg" alt="this is a placeholder image" caption="This is a figure caption." %}
+
