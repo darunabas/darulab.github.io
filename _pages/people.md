@@ -10,10 +10,6 @@ header:
   overlay_filter: 0.5
 excerpt: ""
 permalink: /people/
-images: 
-  - image: /assets/images/acacia.JPG
-  - image: /assets/images/grassland.JPG
-  - image: /assets/images/tamucc_birds.jpg
 categories: []
 tags: []
 toc: true
@@ -24,6 +20,8 @@ toc_icon: "cog"
 ### PRINCIPAL INVESTIGATOR
 
 ![Barnabas-Daru](/assets/images/barnabas.jpg){:class="img-responsive"}{:width="200px"}{: style="float: left; padding-right:10px"}
+
+{% include carousel.html height="50" unit="%" duration="7" %}
 
 **Barnabas Daru**   
 Postdoc – Harvard University<br>
