@@ -9,7 +9,7 @@ header:
   overlay_image: /assets/images/people.png
   overlay_filter: 0.5
 excerpt: ""
-images: 
+carousel: 
   - image: /assets/images/acacia.JPG
   - image: /assets/images/grassland.JPG
   - image: /assets/images/tamucc_birds.jpg
