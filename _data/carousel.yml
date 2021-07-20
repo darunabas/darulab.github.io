@@ -1,5 +1,4 @@
 images: 
-  - image: /uploads/slider/image1.jpg
-  - image: /uploads/slider/image2.jpg
-  - image: /uploads/slider/image3.jpg
-  - image: /uploads/slider/image4.jpg
+  - image: /assets/images/acacia.JPG
+  - image: /assets/images/grassland.JPG
+  - image: /assets/images/tamucc_birds.jpg
