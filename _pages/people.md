@@ -11,7 +11,6 @@ header:
 excerpt: ""
 permalink: /people/
 categories: []
-{% include carousel.html height="50" unit="%" duration="7" %}
 tags: []
 toc: true
 toc_label: "Quick Links"
@@ -100,3 +99,6 @@ Piyal was a postdoc in the lab from June 2019 to August 2020. Piyal focused on d
 <br>
 [**Betsy Arnold Lab**](http://www.arnoldlab.net/){:target="_blank" target="_blank" rel="noopener noreferrer"}<br>
 (_University of Arizona_)<br>
+
+
+{% include carousel.html height="50" unit="%" duration="7" %}
