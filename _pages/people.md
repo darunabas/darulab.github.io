@@ -101,6 +101,4 @@ Piyal was a postdoc in the lab from June 2019 to August 2020. Piyal focused on d
 (_University of Arizona_)<br>
 
 
-{% include carousel.html height="50" unit="%" duration="7" %}
-
 <div class="darkout-section">{% include carousel.html height="50" unit="%" duration="7" %}</div>
