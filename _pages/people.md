@@ -9,10 +9,6 @@ header:
   overlay_image: /assets/images/people.png
   overlay_filter: 0.5
 excerpt: ""
-carousel: 
-  - image: /assets/images/acacia.JPG
-  - image: /assets/images/grassland.JPG
-  - image: /assets/images/tamucc_birds.jpg
 permalink: /people/
 categories: []
 tags: []
@@ -103,9 +99,3 @@ Piyal was a postdoc in the lab from June 2019 to August 2020. Piyal focused on d
 <br>
 [**Betsy Arnold Lab**](http://www.arnoldlab.net/){:target="_blank" target="_blank" rel="noopener noreferrer"}<br>
 (_University of Arizona_)<br>
-
-
-{% include carousel.html height="50" unit="%" duration="7" %}
-
-{% include figure image_path="/assets/images/tamucc_birds.jpg" alt="this is a placeholder image" caption="This is a figure caption." %}
-
