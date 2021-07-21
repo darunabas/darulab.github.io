@@ -1,7 +1,7 @@
 ---
 layout: single
 title: Endemism patterns are scale dependent
-date: 2020-11-20 19:53:57.000000000 -04:00
+date: November 20, 2020
 type: post
 published: true
 classes: wide
