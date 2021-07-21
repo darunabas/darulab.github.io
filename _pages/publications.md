@@ -98,7 +98,7 @@ tags: []
 
 24- Bezeng, B.S., Morales-Castilla, I., van der Bank, M., Yessoufou, K., **Daru, B.H.** & Davies, T.J. (2017) Climate change may reduce the spread of non-native species. **_Ecosphere_** 8: e01694.<br>
   [<i class="fa fa-book" aria-hidden="true"></i> DOI](https://doi.org/10.1002/ecs2.1694){: .btn .btn--small .btn--success}{:target="_blank"}
-  [<i class="fa fa-download" aria-hidden="true"></i> PDF file]({{ site.baseurl}}/docs/24_Bezeng2017_ECO.pdf){: .btn .btn--small .btn--primary}{:target="_blank"}
+  [<i class="fa fa-download" aria-hidden="true"></i> PDF file](https://esajournals.onlinelibrary.wiley.com/doi/pdfdirect/10.1002/ecs2.1694){: .btn .btn--small .btn--primary}{:target="_blank"}
 
 ## 2016
 
