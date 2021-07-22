@@ -271,10 +271,10 @@ defaults:
       path: ""
       type: posts
     values:
-      read_time: false
+      read_time: true
       comments: true
       share: true
-      related: true
+      related: false
       show_date: true
       author_profile: true
   # _pages
