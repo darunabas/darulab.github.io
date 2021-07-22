@@ -5,9 +5,9 @@ categories: blog
 layout: single
 classes: wide
 header:
+  teaser: assets/images/figurepd.png
   overlay_image: /assets/images/figurepd.png
   overlay_filter: 0.2
-  teaser: /assets/images/figurepd.png
 excerpt: ""
 tags:
   - Jekyll
