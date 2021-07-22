@@ -54,17 +54,17 @@ tags: []
 
 34- **Daru, B.H.**, Kling, M.M., Meineke, E.K. & van Wyk, A.E. (2019) Temperature controls phenology in continuously flowering Protea species of subtropical Africa. _**Applications in Plant Sciences**_ 7: e1232.<br>
   [<i class="fa fa-book" aria-hidden="true"></i> DOI](https://doi.org/10.1002/aps3.1232){: .btn .btn--small .btn--success}{:target="_blank"}
-  [<i class="fa fa-download" aria-hidden="true"></i> PDF file]({{ site.baseurl}}/docs/34_Daru2019_APPS.pdf){: .btn .btn--small .btn--primary}{:target="_blank"}
+  [<i class="fa fa-download" aria-hidden="true"></i> PDF file](https://bsapubs.onlinelibrary.wiley.com/doi/pdfdirect/10.1002/aps3.1232){: .btn .btn--small .btn--primary}{:target="_blank"}
 
 ## 2018
 
 33- **Daru, B.H.**, Park, D.S., Primack, R.B., Willis, C.G., Barrington, D.S., Whitfeld, T.J.S., Seidler, T.G., Sweeney, P.W., Foster, D.R., Ellison, A.M. & Davis, C.C. (2018) Widespread sampling biases in herbaria revealed from large-scale digitization. **_New Phytologist_** 217: 939-955.<br>
   [<i class="fa fa-book" aria-hidden="true"></i> DOI](https://doi.org/10.1111/nph.14855){: .btn .btn--small .btn--success}{:target="_blank"}
-  [<i class="fa fa-download" aria-hidden="true"></i> PDF file]({{ site.baseurl}}/docs/33_Daru2018_NPH.pdf){: .btn .btn--small .btn--primary}{:target="_blank"}
+  [<i class="fa fa-download" aria-hidden="true"></i> PDF file](https://nph.onlinelibrary.wiley.com/doi/pdf/10.1111/nph.14855){: .btn .btn--small .btn--primary}{:target="_blank"}
 
 32- **Daru, B.H.**, Bowman, E.A., Pfister, D.H. & Arnold, A.E. (2018) A novel proof-of-concept for capturing the diversity of endophytic fungi preserved in herbarium specimens. **_Philosophical Transactions of the Royal Society B_** 374: 20170395.<br>
   [<i class="fa fa-book" aria-hidden="true"></i> DOI](https://doi.org/10.1098/rstb.2017.0395){: .btn .btn--small .btn--success}{:target="_blank"}
-  [<i class="fa fa-download" aria-hidden="true"></i> PDF file]({{ site.baseurl}}/docs/32_Daru2018_PTRSB.pdf){: .btn .btn--small .btn--primary}{:target="_blank"}
+  [<i class="fa fa-download" aria-hidden="true"></i> PDF file](https://royalsocietypublishing.org/doi/pdf/10.1098/rstb.2017.0395){: .btn .btn--small .btn--primary}{:target="_blank"}
 
 31- Meineke, E.K., Davies, T.J., **Daru, B.H.** & Davis, C.C. (2018) Biological collections for understanding biodiversity in the Anthropocene. **_Philosophical Transactions of the Royal Society B_** 374: 20170386.<br>
   [<i class="fa fa-book" aria-hidden="true"></i> DOI](https://doi.org/10.1098/rstb.2017.0386){: .btn .btn--small .btn--success}{:target="_blank"}
@@ -130,11 +130,11 @@ tags: []
 
 17- **Daru, B.H.**, Van der Bank, M. & Davies, T.J. (2015) Spatial incongruence among hotspots and complementary areas of tree diversity in southern Africa. **_Diversity and Distributions_** 21: 769-780.<br>
   [<i class="fa fa-book" aria-hidden="true"></i> DOI](https://doi.org/10.1111/ddi.12290){: .btn .btn--small .btn--success}{:target="_blank"}
-  [<i class="fa fa-download" aria-hidden="true"></i> PDF file]({{ site.baseurl}}/docs/17_Daru2015_DDI.pdf){: .btn .btn--small .btn--primary}{:target="_blank"}
+  [<i class="fa fa-download" aria-hidden="true"></i> PDF file](https://onlinelibrary.wiley.com/doi/pdf/10.1111/ddi.12290){: .btn .btn--small .btn--primary}{:target="_blank"}
 
 16- Bello, A., **Daru, B.H.**, Stirton, C.H., Chimphango, S.B.M., Van der Bank, M., Maurin, O. & Muasya, A.M. (2015) DNA barcodes reveal microevolutionary signals in fire response trait in two legume genera. **_AoB PLANTS_** 7: plv124.<br>
   [<i class="fa fa-book" aria-hidden="true"></i> DOI](https://doi.org/10.1093/aobpla/plv124){: .btn .btn--small .btn--success}{:target="_blank"}
-  [<i class="fa fa-download" aria-hidden="true"></i> PDF file]({{ site.baseurl}}/docs/16_Bello2015_AoB.pdf){: .btn .btn--small .btn--primary}{:target="_blank"}
+  [<i class="fa fa-download" aria-hidden="true"></i> PDF file](https://academic.oup.com/aobpla/article-pdf/doi/10.1093/aobpla/plv124/10689789/plv124.pdf){: .btn .btn--small .btn--primary}{:target="_blank"}
 
 15- Yessoufou, K., **Daru, B.H.** & Muasya, A.M. (2015) Phylogenetic exploration of commonly used medicinal plants in South Africa. **_Molecular Ecology Resources_** 15: 405-413.<br>
   [<i class="fa fa-book" aria-hidden="true"></i> DOI](https://doi.org/10.1111/1755-0998.12310){: .btn .btn--small .btn--success}{:target="_blank"}
@@ -148,7 +148,7 @@ tags: []
 
 13- Maurin, O., Davies, T.J., Burrows, J.E., **Daru, B.H.**, Yessoufou, K., Muasya, A.M., Van der Bank, M. & Bond, W.J. (2014) Savanna fire and the origins of the "underground forests" of Africa. **_New Phytologist_** 204: 201-214.<br>
   [<i class="fa fa-book" aria-hidden="true"></i> DOI](https://doi.org/10.1111/nph.12936){: .btn .btn--small .btn--success}{:target="_blank"}
-  [<i class="fa fa-download" aria-hidden="true"></i> PDF file]({{ site.baseurl}}/docs/13_Maurin2014_NPH.pdf){: .btn .btn--small .btn--primary}{:target="_blank"}
+  [<i class="fa fa-download" aria-hidden="true"></i> PDF file](https://nph.onlinelibrary.wiley.com/doi/pdfdirect/10.1111/nph.12936){: .btn .btn--small .btn--primary}{:target="_blank"}
 
 12- Yessoufou, K., Bamigboye, S.O., **Daru, B.H.** & Van der Bank, M. (2014) Evidence of constant diversification punctuated by a mass extinction in the African cycad. _**Ecology and Evolution**_ 4: 50-58.<br>
   [<i class="fa fa-book" aria-hidden="true"></i> DOI](https://doi.org/10.1002/ece3.880){: .btn .btn--small .btn--success}{:target="_blank"}
@@ -182,11 +182,11 @@ tags: []
 
 05- Gere, J., Yessoufou, K., **Daru, B.H.**, Maurin, O., Mankga, L.T. & Van der Bank, M. (2013) Incorporating trnH-psbA to core DNA barcodes improves discrimination of species within southern African Combretaceae. **_ZooKeys_** 365: 127-147.<br>
   [<i class="fa fa-book" aria-hidden="true"></i> DOI](https://doi.org/10.3897/zookeys.365.5728){: .btn .btn--small .btn--success}{:target="_blank"}
-  [<i class="fa fa-download" aria-hidden="true"></i> PDF file]({{ site.baseurl}}/docs/05_Gere2013.pdf){: .btn .btn--small .btn--primary}{:target="_blank"}
+  [<i class="fa fa-download" aria-hidden="true"></i> PDF file](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3890675/pdf/ZooKeys-365-129.pdf){: .btn .btn--small .btn--primary}{:target="_blank"}
 
 04- Mankga, L.T., Yessoufou, K., Moteetee, A.M., **Daru, B.H.** & Van der Bank, M. (2013) Efficacy of the core DNA barcodes in identifying processed and poorly conserved plant materials commonly used in South African traditional medicine. **_ZooKeys_** 365: 215-233.<br>
   [<i class="fa fa-book" aria-hidden="true"></i> DOI](https://doi.org/10.3897/zookeys.365.5730){: .btn .btn--small .btn--success}{:target="_blank"}
-  [<i class="fa fa-download" aria-hidden="true"></i> PDF file]({{ site.baseurl}}/docs/04_Mankga2013.pdf){: .btn .btn--small .btn--primary}{:target="_blank"}
+  [<i class="fa fa-download" aria-hidden="true"></i> PDF file](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3890679/pdf/ZooKeys-365-215.pdf){: .btn .btn--small .btn--primary}{:target="_blank"}
 
 ## 2012
 
