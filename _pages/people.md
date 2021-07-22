@@ -33,7 +33,7 @@ Guest Editor [**_Phil Trans Roy Soc B_**](http://rstb.royalsocietypublishing.org
 ---
 ### STUDENTS AND POSTDOCS
 
-![image-title-here](/images/paul.jpg){:class="img-responsive"}{:width="200px"}{: style="float: left; padding-right:10px"}
+![image-title-here](/assets/images/paul.jpg){:class="img-responsive"}{:width="200px"}{: style="float: left; padding-right:10px"}
 
 **Paul Markley**   
 PhD student   
@@ -43,7 +43,7 @@ Research: The changing nature of Arctic plant diversity<br>
 
 <br clear="left"/>
 
-![image-title-here](/images/brianna.jpg){:class="img-responsive"}{:width="200px"}{: style="float: left; padding-right:10px"}
+![image-title-here](/assets/images/brianna.jpg){:class="img-responsive"}{:width="200px"}{: style="float: left; padding-right:10px"}
 
 **Brianna Rock**   
 Masters student   
@@ -53,7 +53,7 @@ Research: An assessment of seagrass evolutionary diversity in the Anthropocene<b
 
 <br clear="left"/>
 
-![image-title-here](/images/jordan.jpg){:class="img-responsive"}{:width="200px"}{: style="float: left; padding-right:10px"}
+![image-title-here](/assets/images/jordan.jpg){:class="img-responsive"}{:width="200px"}{: style="float: left; padding-right:10px"}
 
 **Jordan Rodriguez**   
 Undergraduate student & Herbarium intern<br>
@@ -64,7 +64,7 @@ Research: Mismatches in plant sampling biases between vouchered specimens and ob
 
 <br clear="left"/>
 
-![future_lab-mate](/images/you.jpg){:class="img-responsive"}{:width="200px"}{: style="float: left; padding-right:10px"}
+![future_lab-mate](/assets/images/you.jpg){:class="img-responsive"}{:width="200px"}{: style="float: left; padding-right:10px"}
 
 **THIS COULD BE YOU!**   
 Please <a target="_blank" rel="noopener noreferrer" href = "mailto: barnabas.daru@tamucc.edu">contact me</a> about opportunities for undergraduate research experience, graduate study, or postdoctoral research in my lab<br> 
@@ -74,7 +74,7 @@ Please <a target="_blank" rel="noopener noreferrer" href = "mailto: barnabas.dar
 ---
 ### LAB ALUMNI
 
-![image-title-here](/images/piyal.jpg){:class="img-responsive"}{:width="200px"}{: style="float: left; padding-right:10px"}
+![image-title-here](/assets/images/piyal.jpg){:class="img-responsive"}{:width="200px"}{: style="float: left; padding-right:10px"}
 
 **Piyal Karunarathne (Postdoc)**  
 Piyal was a postdoc in the lab from June 2019 to August 2020. Piyal focused on developing a modeling framework to determine the evolutionary origin biomes at a global scale. After finishing in the Daru lab, Piyal accepted a postdoctoral fellowship in Sweden.<br>
