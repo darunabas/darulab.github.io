@@ -1,17 +1,13 @@
 ---
 title: "Phylogenetic Diversity for Large Datasets"
 date: 2019-10-16T15:34:30-04:00
-categories:
-  - blog
+categories: blog
 layout: single
 classes: wide
 header:
   overlay_image: /assets/images/figurepd.png
   overlay_filter: 0.2
 excerpt: ""
-toc: true
-toc_label: On this pages
-toc_sticky: true
 tags:
   - Jekyll
   - update
