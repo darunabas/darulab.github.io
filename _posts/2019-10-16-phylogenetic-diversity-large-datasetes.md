@@ -9,6 +9,9 @@ header:
   overlay_image: /assets/images/figurepd.png
   overlay_filter: 0.2
 excerpt: ""
+toc: true
+toc_label: On this pages
+toc_sticky: true
 tags:
   - Jekyll
   - update
