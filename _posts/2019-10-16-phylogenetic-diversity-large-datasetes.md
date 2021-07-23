@@ -2,6 +2,7 @@
 title: "Phylogenetic Diversity for Large Datasets"
 date: 2019-10-16T15:34:30-04:00
 categories: blog
+layout: single
 classes: wide
 header:
   teaser: assets/images/figurepd.png
