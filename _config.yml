@@ -14,6 +14,7 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 title: "Barnabas Daru"
+repository: darunabas/darunabas.github.io
 email:
 description:
 url: https://barnabasdaru.com
@@ -76,10 +77,10 @@ author:
   foursquare       :
   github           : "darunabas"
   google_plus      :
-  keybase          : 
+  keybase          :
   instagram        :
   lastfm           :
-  linkedin         : 
+  linkedin         :
   pinterest        :
   soundcloud       :
   stackoverflow    : # "1113276/sinqueso" # http://stackoverflow.com/users/123456/username
@@ -90,10 +91,10 @@ author:
   weibo            :
   xing             :
   youtube          :
-  impactstory      : 
+  impactstory      :
   googlescholar    : "I8fP-c4AAAAJ"
   orcid            : "0000-0002-2115-0257"
-  
+
 include:
   - .htaccess
   - _pages
