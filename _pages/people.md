@@ -28,7 +28,7 @@ BSc – University of Jos<br>
 Editorial Board [**_Am J Bot_**](https://bsapubs.onlinelibrary.wiley.com/hub/journal/15372197/homepage/editorialboard){:target="_blank" target="_blank" rel="noopener noreferrer"}<br>
 Editorial Member [**_eLife_**](https://elifesciences.org/about/people/ecology){:target="_blank" target="_blank" rel="noopener noreferrer"}<br>
 Guest Editor [**_Phil Trans Roy Soc B_**](http://rstb.royalsocietypublishing.org/content/374/1763){:target="_blank" target="_blank" rel="noopener noreferrer"}<br>
-[<i class="fa fa-download" aria-hidden="true"></i> Curriculum Vitae]({{ site.baseurl}}/docs/a_DaruCVAug2021.pdf){: .btn .btn--small .btn--primary}{:target="_blank"}
+[<i class="fa fa-download" aria-hidden="true"></i> Curriculum Vitae](/docs/a_DaruCVAug2021.pdf){: .btn .btn--small .btn--primary}{:target="_blank"}
 
 ---
 ### STUDENTS AND POSTDOCS
