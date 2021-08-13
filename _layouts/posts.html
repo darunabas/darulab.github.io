@@ -2,6 +2,17 @@
 layout: archive
 ---
 
+<!-- Look the author details up from the site config. -->
+{% assign author = site.data.authors[page.author] %}
+
+<!-- Output author details if some exist. -->
+{% if author %}
+    <span>
+        <!-- Personal Info. -->
+        Written by <a target="_blank" rel="noopener noreferrer" href="{{ author.web }}">{{ author.name }} </a>
+    </span>
+{% endif %}
+
 {{ content }}
 
 <ul class="taxonomy__index">

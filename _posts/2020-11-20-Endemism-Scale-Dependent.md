@@ -1,5 +1,5 @@
 ---
-layout: single
+layout: posts
 title: Endemism patterns are scale dependent
 date: November 20, 2020
 type: post
@@ -7,6 +7,7 @@ published: true
 classes: wide
 status: publish
 share: true
+author: barnabas_daru
 excerpt_separator: <!--more-->
 categories:
 - Updates
