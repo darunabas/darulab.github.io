@@ -16,7 +16,7 @@ tags: []
 ---
 ## 2021
 
-43- <sup>§</sup>Meineke, E.K. & **<sup>§</sup>Daru, B.H.** (2021) Bias assessments to expand research harnessing biological collections. **_Trends in Ecology and Evolution_** (<sup>§</sup>contributed equally).<br>
+43- Meineke, E.K. & **Daru, B.H.** (co-first author) (2021) Bias assessments to expand research harnessing biological collections. **_Trends in Ecology and Evolution_** (in press).<br>
   [<i class="fa fa-book" aria-hidden="true"></i> In press](){: .btn .btn--small .btn--warning}
 
 42- **Daru, B.H.** (2021) Migratory birds distribute seeds to new climates. **_Nature_** 595: 34-36.<br>
