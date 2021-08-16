@@ -1,9 +1,10 @@
 ---
-layout: single
+layout: posts
 title: Postdoctoral Position in Biogeographic Inference Tools (3 years)
 date: 2021-07-13
 type: post
 published: true
+author: barnabas_daru
 status: publish
 classes: wide
 excerpt_separator: <!--more-->

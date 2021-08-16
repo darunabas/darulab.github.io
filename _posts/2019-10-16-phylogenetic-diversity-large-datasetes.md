@@ -2,8 +2,9 @@
 title: "Phylogenetic Diversity for Large Datasets"
 date: 2019-10-16T15:34:30-04:00
 categories: blog
-layout: single
+layout: posts
 classes: wide
+author: barnabas_daru
 header:
   teaser: assets/images/figurepd.png
   overlay_image: /assets/images/figurepd.png

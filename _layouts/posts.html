@@ -9,7 +9,7 @@ layout: archive
 {% if author %}
     <span>
         <!-- Personal Info. -->
-        Written by <a target="_blank" rel="noopener noreferrer" href="{{ author.web }}">{{ author.name }} </a>
+        By <a target="_blank" rel="noopener noreferrer" href="{{ author.web }}">{{ author.name }} </a> | {{ page.date | date: '%B %d, %Y' }}
     </span>
 {% endif %}
 
