@@ -43,16 +43,6 @@ Research: The changing nature of Arctic plant diversity<br>
 
 <br clear="left"/>
 
-![image-title-here](/assets/images/brianna.jpg){:class="img-responsive"}{:width="200px"}{: style="float: left; padding-right:10px"}
-
-**Brianna Rock**   
-Masters student   
-BSc – University of Charleston-Charleston, West Virginia   
-Research: An assessment of seagrass evolutionary diversity in the Anthropocene<br>
-[<i class="fa fa-download" aria-hidden="true"></i> Curriculum Vitae]({{ site.baseurl}}/docs/c_BriannaCV.pdf){: .btn .btn--small .btn--primary}{:target="_blank"} 
-
-<br clear="left"/>
-
 ![image-title-here](/assets/images/jordan.jpg){:class="img-responsive"}{:width="200px"}{: style="float: left; padding-right:10px"}
 
 **Jordan Rodriguez**   
@@ -74,10 +64,18 @@ Please <a target="_blank" rel="noopener noreferrer" href = "mailto: barnabas.dar
 ---
 ### LAB ALUMNI
 
+![image-title-here](/assets/images/brianna.jpg){:class="img-responsive"}{:width="200px"}{: style="float: left; padding-right:10px"}
+
+**Brianna Rock (Masters)**   
+Brianna joined the lab in Jan 2019 & successfully defended her Masters in July 2021. Brianna's research focused on assessing seagrass evolutionary diversity in the Anthropocene. Her work resulted in 2 first-author papers, one published in [*Frontiers in Marine Science*](https://doi.org/10.3389/fmars.2021.608867){:target="_blank"}, and another under review at *Nature Communications*.<br>
+[<i class="fa fa-download" aria-hidden="true"></i> Curriculum Vitae]({{ site.baseurl}}/docs/c_BriannaCV.pdf){: .btn .btn--small .btn--primary}{:target="_blank"} 
+
+<br clear="left"/>
+
 ![image-title-here](/assets/images/piyal.jpg){:class="img-responsive"}{:width="200px"}{: style="float: left; padding-right:10px"}
 
 **Piyal Karunarathne (Postdoc)**  
-Piyal was a postdoc in the lab from June 2019 to August 2020. Piyal focused on developing a modeling framework to determine the evolutionary origin biomes at a global scale. After finishing in the Daru lab, Piyal accepted a postdoctoral fellowship in Sweden.<br>
+Piyal was a postdoc in the lab from June 2019 to August 2020. Piyal focused on developing a modeling framework to determine the evolutionary origin of biomes at a global scale. Piyal co-authored a paper in [*Methods Ecol Evol*](https://doi.org/10.1111/2041-210X.13478){:target="_blank"} describing a new `R` package [`phyloregion`](https://phyloregion.com/){:target="_blank"}. After finishing in the Daru lab, Piyal accepted a postdoctoral fellowship in Sweden.<br>
 [<i class="fa fa-download" aria-hidden="true"></i> Curriculum Vitae]({{ site.baseurl}}/docs/d_PiyalCV.pdf){: .btn .btn--small .btn--primary}{:target="_blank"}
 
 <br clear="left"/>

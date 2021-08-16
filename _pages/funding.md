@@ -23,7 +23,7 @@ Collaborative Research: phyloregion, computational infrastructure for biogeograp
 **2022-24 Texas Parks and Wildlife, $384,301**   
 Lead PI: Dr. Shawn McCracken\
 Co-PI: Dr. Barnabas Daru (co-PI)\
-A multi-taxa assessment of the Ingleside Sandsheet Pond habitat to inform and support conservation\
+A multi-taxa assessment of the Ingleside Sandsheet Pond habitat to inform and support conservation  
 
 **[2020-23 NSF DEB, $986,000 (NSF DEB 2031928)](https://www.nsf.gov/awardsearch/showAward?AWD_ID=2031928&HistoricalAwards=false){:target="_blank"}**\
 Lead PIs: Drs. Betsy Arnold and Jana U’Ren (University of Arizona), $388,000\
