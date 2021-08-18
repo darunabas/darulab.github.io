@@ -12,7 +12,7 @@ Currently, my work in the Daru Lab focuses on developing a modeling framework to
 
 ## Selected Publications
 
-2- Daru, B.H., **Karunarathne, P.** & Schliep, K. (2020) phyloregion: R package for biogeographic regionalization and macroecology. **_Methods in Ecology and Evolution_** 11: 1483-1491.<br>
+2- Daru, B.H., **Karunarathne, P.** & Schliep, K. (2020) phyloregion: R package for biogeographic regionalization and macroecology. **_Methods in Ecology and Evolution_** 11: 1483-1491.<br>
   [<i class="fa fa-book" aria-hidden="true"></i> DOI](https://doi.org/10.1111/2041-210X.13478){: .btn .btn--small .btn--success}{:target="_blank"}
   [<i class="fa fa-download" aria-hidden="true"></i> PDF file]({{ site.baseurl}}/docs/37_Daru2020_MEE.pdf){: .btn .btn--small .btn--primary}{:target="_blank"}
 

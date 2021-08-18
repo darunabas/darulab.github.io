@@ -33,6 +33,14 @@ Guest Editor [**_Phil Trans Roy Soc B_**](http://rstb.royalsocietypublishing.org
 ---
 ### STUDENTS AND POSTDOCS
 
+![future_lab-mate](/assets/images/you.jpg){:class="img-responsive"}{:width="200px"}{: style="float: left; padding-right:10px"}
+
+**Alex Aromin**   
+PhD student -- Incoming -- Spring 2022  
+NSF project on <code> <a href="https://phyloregion.com" target="_blank">phyloregion</a></code> <br> 
+
+<br clear="left"/>
+
 ![image-title-here](/assets/images/paul.jpg){:class="img-responsive"}{:width="200px"}{: style="float: left; padding-right:10px"}
 
 [**<span style="text-decoration: underline">Paul Markley</span>**]({% link _pages/about_paul.md %})  
