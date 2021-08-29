@@ -43,7 +43,7 @@ NSF project on <code> <a href="https://phyloregion.com" target="_blank">phyloreg
 
 ![image-title-here](/assets/images/paul.jpg){:class="img-responsive"}{:width="200px"}{: style="float: left; padding-right:10px"}
 
-[**<span style="text-decoration: underline">Paul Markley</span>**]({% link _pages/about_paul.md %})  
+[**<span style="text-decoration: underline">Paul Markley</span>** (*Daru Lab*)]({% link _pages/about_paul.md %})  
 PhD student   
 BSc – University of California-Riverside   
 Research: The changing nature of Arctic plant diversity<br>
@@ -51,9 +51,19 @@ Research: The changing nature of Arctic plant diversity<br>
 
 <br clear="left"/>
 
+![image-title-here](/assets/images/kendall.jpeg){:class="img-responsive"}{:width="200px"}{: style="float: left; padding-right:10px"}
+
+[**<span style="text-decoration: underline">Kendall Johnson</span>** (*Pezold & Daru Labs*)]({% link _pages/about_kendall.md %})  
+PhD student   
+BSc – University of Miami   
+Research: The Phylogeny and Evolution of Gobioid Fishes<br>
+[<i class="fa fa-download" aria-hidden="true"></i> Curriculum Vitae]({{ site.baseurl}}/docs/b_MarkleyCV.pdf){: .btn .btn--small .btn--primary}{:target="_blank"}
+
+<br clear="left"/>
+
 ![image-title-here](/assets/images/jordan.jpg){:class="img-responsive"}{:width="200px"}{: style="float: left; padding-right:10px"}
 
-[**<span style="text-decoration: underline">Jordan Rodriguez</span>**]({% link _pages/about_jordan.md %})  
+[**<span style="text-decoration: underline">Jordan Rodriguez</span>**  (*Daru Lab*)]({% link _pages/about_jordan.md %})  
 Undergraduate student & Herbarium intern<br>
 Undergrad – Texas A&M University-Corpus Christi   
 Islander Green Team Vice President   
