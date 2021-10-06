@@ -33,9 +33,9 @@ Guest Editor [**_Phil Trans Roy Soc B_**](http://rstb.royalsocietypublishing.org
 ---
 ### STUDENTS AND POSTDOCS
 
-![future_lab-mate](/assets/images/you.jpg){:class="img-responsive"}{:width="200px"}{: style="float: left; padding-right:10px"}
+![Alex-Aromin](/assets/images/alex.jpeg){:class="img-responsive"}{:width="200px"}{: style="float: left; padding-right:10px"}
 
-**Alex Aromin**  (*Daru Lab*)   
+[**<span style="text-decoration: underline">Alex Aromin</span>** (*Daru Lab*)]({% link _pages/about_alex.md %})  
 PhD student -- Incoming -- Spring 2022  
 NSF project on <code> <a href="https://phyloregion.com" target="_blank">phyloregion</a></code> <br> 
 

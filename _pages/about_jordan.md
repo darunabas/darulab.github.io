@@ -1,5 +1,5 @@
 ---
-permalink: /about_jrodan/
+permalink: /about_jordan/
 title: Jordan Rodriguez
 published: true
 ---
