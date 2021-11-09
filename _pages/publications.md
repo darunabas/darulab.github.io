@@ -16,21 +16,24 @@ tags: []
 ---
 ## 2021
 
+44- **Daru, B.H.**, Willis, C.G., Meineke, E.K., Ronk, A., Zobel, M., Pärtel, M., Antonelli, A., Davies, T.J. & Davis, C.C. Widespread homogenization of plant communities in the Anthropocene. **_Nature Communications_** (accepted). 
+
 43- Meineke, E.K. & **Daru, B.H.** (co-first author) (2021) Bias assessments to expand research harnessing biological collections. **_Trends in Ecology and Evolution_** [doi:10.1016/j.tree.2021.08.003](https://doi.org/10.1016/j.tree.2021.08.003){:target="_blank"}.<br>
   [<i class="fa fa-book" aria-hidden="true"></i> DOI](https://doi.org/10.1016/j.tree.2021.08.003){: .btn .btn--small .btn--success}{:target="_blank"}
   [<i class="fa fa-download" aria-hidden="true"></i> PDF file]({{ site.baseurl}}/docs/43_MeinekeDaru2021_TREE.pdf){: .btn .btn--small .btn--primary}{:target="_blank"}
 
-42- **Daru, B.H.** (2021) Migratory birds distribute seeds to new climates. **_Nature_** 595: 34-36.<br>
-  [<i class="fa fa-book" aria-hidden="true"></i> DOI](https://doi.org/10.1038/d41586-021-01547-1){: .btn .btn--small .btn--success}{:target="_blank"}
-  [<i class="fa fa-download" aria-hidden="true"></i> PDF file]({{ site.baseurl}}/docs/42_Daru2021_NATURE.pdf){: .btn .btn--small .btn--primary}{:target="_blank"}
-  
-41- Rock, B.M. & **Daru, B.H.** (2021) Impediments to understanding seagrasses' response to global change. **_Frontiers in Marine Science_** 8: 608867.<br>
+42- Rock, B.M. & **Daru, B.H.** (2021) Impediments to understanding seagrasses' response to global change. **_Frontiers in Marine Science_** 8: 608867.<br>
   [<i class="fa fa-book" aria-hidden="true"></i> DOI](https://doi.org/10.3389/fmars.2021.608867){: .btn .btn--small .btn--success}{:target="_blank"}
   [<i class="fa fa-download" aria-hidden="true"></i> PDF file]({{ site.baseurl}}/docs/41_RockDaru2021fmars.pdf){: .btn .btn--small .btn--primary}{:target="_blank"}
 
+41- **Daru, B.H.** (2021) Migratory birds distribute seeds to new climates. **_Nature_** 595: 34-36.<br>
+  [<i class="fa fa-book" aria-hidden="true"></i> DOI](https://doi.org/10.1038/d41586-021-01547-1){: .btn .btn--small .btn--success}{:target="_blank"}
+  [<i class="fa fa-download" aria-hidden="true"></i> PDF file]({{ site.baseurl}}/docs/42_Daru2021_NATURE.pdf){: .btn .btn--small .btn--primary}{:target="_blank"}
+  [News & views](https://doi.org/10.1038/d41586-021-01547-1){: .btn .btn--small .btn--info}{:target="_blank"}
+  
 40- **Daru, B.H.** (2021) Exploring a new way to think about climate regions. **_eLife_** 10: e67422.<br>
   [<i class="fa fa-book" aria-hidden="true"></i> DOI](https://doi.org/10.7554/eLife.67422){: .btn .btn--small .btn--success}{:target="_blank"}
-  [<i class="fa fa-download" aria-hidden="true"></i> PDF file]({{ site.baseurl}}/docs/40_Daru2021_eLife.pdf){: .btn .btn--small .btn--primary}{:target="_blank"}
+  [<i class="fa fa-download" aria-hidden="true"></i> PDF file]({{ site.baseurl}}/docs/40_Daru2021_eLife.pdf){: .btn .btn--small .btn--primary}{:target="_blank"} [Insight](https://doi.org/10.7554/eLife.67422){: .btn .btn--small .btn--info}{:target="_blank"}
 
 ## 2020
 
