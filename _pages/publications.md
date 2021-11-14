@@ -16,7 +16,7 @@ tags: []
 ---
 ## 2021
 
-44- **Daru, B.H.**, Willis, C.G., Meineke, E.K., Ronk, A., Zobel, M., Pärtel, M., Antonelli, A., Davies, T.J. & Davis, C.C. Widespread homogenization of plant communities in the Anthropocene. **_Nature Communications_** (accepted). 
+44- **Daru, B.H.**, Willis, C.G., Meineke, E.K., Ronk, A., Zobel, M., Pärtel, M., Antonelli, A., Davies, T.J. & Davis, C.C. Widespread homogenization of plant communities in the Anthropocene. **_Nature Communications_** (in press). 
 
 43- Meineke, E.K. & **Daru, B.H.** (co-first author) (2021) Bias assessments to expand research harnessing biological collections. **_Trends in Ecology and Evolution_** 36: 1071-1082.<br>
   [<i class="fa fa-book" aria-hidden="true"></i> DOI](https://doi.org/10.1016/j.tree.2021.08.003){: .btn .btn--small .btn--success}{:target="_blank"}
