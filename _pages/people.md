@@ -28,16 +28,26 @@ BSc – University of Jos<br>
 Editorial Board [**_Am J Bot_**](https://bsapubs.onlinelibrary.wiley.com/hub/journal/15372197/homepage/editorialboard){:target="_blank" target="_blank" rel="noopener noreferrer"}<br>
 Editorial Member [**_eLife_**](https://elifesciences.org/about/people/ecology){:target="_blank" target="_blank" rel="noopener noreferrer"}<br>
 Guest Editor [**_Phil Trans Roy Soc B_**](http://rstb.royalsocietypublishing.org/content/374/1763){:target="_blank" target="_blank" rel="noopener noreferrer"}<br>
-[<i class="fa fa-download" aria-hidden="true"></i> Curriculum Vitae](/docs/a_DaruCVDec2021.pdf){: .btn .btn--small .btn--primary}{:target="_blank"}
+[<i class="fa fa-download" aria-hidden="true"></i> Curriculum Vitae](/docs/a_DaruCVJan2022.pdf){: .btn .btn--small .btn--primary}{:target="_blank"}
 
 ---
 ### STUDENTS AND POSTDOCS
 
+![Gabriel Nakamura](/assets/images/GabrielNakamura.jpg){:class="img-responsive"}{:width="200px"}{: style="float: left; padding-right:10px"}
+
+[**<span style="text-decoration: underline">Gabriel Nakamura</span>** (*Daru Lab*)]({% link _pages/about_gabriel.md %})  
+Postdoc     
+Ph.D. in Ecology. Federal University of Rio Grande do Sul/Brazil   
+Research: Methods and tools development in macroecology and biogeography<br>
+[<i class="fa fa-download" aria-hidden="true"></i> Curriculum Vitae]({{ site.baseurl}}/docs/f_GabrielNakamuraCV.pdf){: .btn .btn--small .btn--primary}{:target="_blank"}
+
+<br clear="left"/>
+
 ![Alex-Aromin](/assets/images/alex.jpeg){:class="img-responsive"}{:width="200px"}{: style="float: left; padding-right:10px"}
 
 [**<span style="text-decoration: underline">Alex Aromin</span>** (*Daru Lab*)]({% link _pages/about_alex.md %})  
-PhD student -- Incoming -- Spring 2022  
-NSF project on <code> <a href="https://phyloregion.com" target="_blank">phyloregion</a></code> <br> 
+PhD student  
+NSF project on <code><a href="https://phyloregion.com" target="_blank">phyloregion</a></code> <br> 
 
 <br clear="left"/>
 
