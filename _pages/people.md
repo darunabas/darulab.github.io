@@ -37,7 +37,6 @@ Guest Editor [**_Phil Trans Roy Soc B_**](http://rstb.royalsocietypublishing.org
 
 [**<span style="text-decoration: underline">Gabriel Nakamura</span>** (*Daru Lab*)]({% link _pages/about_gabriel.md %})  
 Postdoc     
-Ph.D. in Ecology. Federal University of Rio Grande do Sul/Brazil   
 Research: Methods and tools development in macroecology and biogeography<br>
 [<i class="fa fa-download" aria-hidden="true"></i> Curriculum Vitae]({{ site.baseurl}}/docs/f_GabrielNakamuraCV.pdf){: .btn .btn--small .btn--primary}{:target="_blank"}
 
@@ -55,7 +54,6 @@ NSF project on <code><a href="https://phyloregion.com" target="_blank">phyloregi
 
 [**<span style="text-decoration: underline">Paul Markley</span>** (*Daru Lab*)]({% link _pages/about_paul.md %})  
 PhD student   
-BSc – University of California-Riverside   
 Research: The changing nature of Arctic plant diversity<br>
 [<i class="fa fa-download" aria-hidden="true"></i> Curriculum Vitae]({{ site.baseurl}}/docs/b_MarkleyCV.pdf){: .btn .btn--small .btn--primary}{:target="_blank"}
 
@@ -65,7 +63,6 @@ Research: The changing nature of Arctic plant diversity<br>
 
 [**<span style="text-decoration: underline">Kendall Johnson</span>** (*Pezold & Daru Labs*)]({% link _pages/about_kendall.md %})  
 PhD student   
-BSc – University of Miami   
 Research: The Phylogeny and Evolution of Gobioid Fishes<br>
 [<i class="fa fa-download" aria-hidden="true"></i> Curriculum Vitae]({{ site.baseurl}}/docs/b_MarkleyCV.pdf){: .btn .btn--small .btn--primary}{:target="_blank"}
 
@@ -75,8 +72,6 @@ Research: The Phylogeny and Evolution of Gobioid Fishes<br>
 
 [**<span style="text-decoration: underline">Jordan Rodriguez</span>** (*Daru Lab*)]({% link _pages/about_jordan.md %})  
 Undergraduate student & Herbarium intern<br>
-Undergrad – Texas A&M University-Corpus Christi   
-Islander Green Team Vice President   
 Research: Mismatches in plant sampling biases between vouchered specimens and observations<br>
 [<i class="fa fa-download" aria-hidden="true"></i> Curriculum Vitae]({{ site.baseurl}}/docs/41_RockDaru2021fmars.pdf){: .btn .btn--small .btn--primary}{:target="_blank"}
 
