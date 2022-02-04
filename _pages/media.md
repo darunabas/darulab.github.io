@@ -7,7 +7,7 @@ classes: wide
 published: true
 status: publish
 header:
-  overlay_image: /assets/images/pubs_header.jpg
+  overlay_image: /assets/images/newspaper.jpeg
   overlay_filter: 0.7
 excerpt: ""
 permalink: /media/
