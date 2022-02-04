@@ -64,16 +64,7 @@ Research: The changing nature of Arctic plant diversity<br>
 [**<span style="text-decoration: underline">Kendall Johnson</span>** (*Pezold & Daru Labs*)]({% link _pages/about_kendall.md %})  
 PhD student   
 Research: The Phylogeny and Evolution of Gobioid Fishes<br>
-[<i class="fa fa-download" aria-hidden="true"></i> Curriculum Vitae]({{ site.baseurl}}/docs/b_MarkleyCV.pdf){: .btn .btn--small .btn--primary}{:target="_blank"}
-
-<br clear="left"/>
-
-![image-title-here](/assets/images/jordan.jpg){:class="img-responsive"}{:width="200px"}{: style="float: left; padding-right:10px"}
-
-[**<span style="text-decoration: underline">Jordan Rodriguez</span>** (*Daru Lab*)]({% link _pages/about_jordan.md %})  
-Undergraduate student & Herbarium intern<br>
-Research: Mismatches in plant sampling biases between vouchered specimens and observations<br>
-[<i class="fa fa-download" aria-hidden="true"></i> Curriculum Vitae]({{ site.baseurl}}/docs/41_RockDaru2021fmars.pdf){: .btn .btn--small .btn--primary}{:target="_blank"}
+[<i class="fa fa-download" aria-hidden="true"></i> Curriculum Vitae]({{ site.baseurl}}/docs/g_KendallCV_2020.pdf){: .btn .btn--small .btn--primary}{:target="_blank"}
 
 <br clear="left"/>
 
@@ -87,10 +78,18 @@ Please <a target="_blank" rel="noopener noreferrer" href = "mailto: barnabas.dar
 ---
 ### LAB ALUMNI
 
+![image-title-here](/assets/images/jordan.jpg){:class="img-responsive"}{:width="200px"}{: style="float: left; padding-right:10px"}
+
+[**<span style="text-decoration: underline">Jordan Rodriguez (Undergraduate)</span>**]({% link _pages/about_jordan.md %})  
+Jordan was an undergraduate student & herbarium intern in the Daru lab from 2019 to 2022. Her research focused on disentangling the mismatches in plant sampling biases between vouchered specimens and observations.<br>
+[<i class="fa fa-download" aria-hidden="true"></i> Curriculum Vitae]({{ site.baseurl}}/docs/h_JordanCV.pdf){: .btn .btn--small .btn--primary}{:target="_blank"}
+
+<br clear="left"/>
+
 ![image-title-here](/assets/images/brianna.jpg){:class="img-responsive"}{:width="200px"}{: style="float: left; padding-right:10px"}
 
 [**<span style="text-decoration: underline">Brianna Rock (Masters)</span>**]({% link _pages/about_brianna.md %})  
-Brianna joined the lab in Jan 2019 & successfully defended her Masters in July 2021. Brianna's research focused on assessing seagrass evolutionary diversity in the Anthropocene. Her work resulted in 2 first-author papers, one published in [*Frontiers in Marine Science*](https://doi.org/10.3389/fmars.2021.608867){:target="_blank"}, and another under review at *Nature Communications*.<br>
+Brianna joined the lab in Jan 2019 & successfully defended her Masters in July 2021. Brianna's research focused on assessing seagrass evolutionary diversity in the Anthropocene. Her work resulted in 2 first-author papers, one published in [*Frontiers in Marine Science*](https://doi.org/10.3389/fmars.2021.608867){:target="_blank"}, and another under review at *Nature Plants*.<br>
 [<i class="fa fa-download" aria-hidden="true"></i> Curriculum Vitae]({{ site.baseurl}}/docs/c_BriannaCV.pdf){: .btn .btn--small .btn--primary}{:target="_blank"} 
 
 <br clear="left"/>
