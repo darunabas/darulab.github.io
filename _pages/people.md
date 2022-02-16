@@ -28,7 +28,7 @@ BSc – University of Jos<br>
 Editorial Board [**_Am J Bot_**](https://bsapubs.onlinelibrary.wiley.com/hub/journal/15372197/homepage/editorialboard){:target="_blank" target="_blank" rel="noopener noreferrer"}<br>
 Editorial Member [**_eLife_**](https://elifesciences.org/about/people/ecology){:target="_blank" target="_blank" rel="noopener noreferrer"}<br>
 Guest Editor [**_Phil Trans Roy Soc B_**](http://rstb.royalsocietypublishing.org/content/374/1763){:target="_blank" target="_blank" rel="noopener noreferrer"}<br>
-[<i class="fa fa-download" aria-hidden="true"></i> Curriculum Vitae](/docs/a_DaruCVJan2022.pdf){: .btn .btn--small .btn--primary}{:target="_blank"}
+[<i class="fa fa-download" aria-hidden="true"></i> Curriculum Vitae](/docs/a_DaruCVFeb2022.pdf){: .btn .btn--small .btn--primary}{:target="_blank"}
 
 ---
 ### STUDENTS AND POSTDOCS
@@ -46,7 +46,7 @@ Research: Methods and tools development in macroecology and biogeography<br>
 
 [**<span style="text-decoration: underline">Alex Aromin</span>** (*Daru Lab*)]({% link _pages/about_alex.md %})  
 PhD student  
-NSF project on <code><a href="https://phyloregion.com" target="_blank">phyloregion</a></code> <br> 
+Research: NSF project on <code><a href="https://phyloregion.com" target="_blank">phyloregion</a></code> <br> 
 
 <br clear="left"/>
 
