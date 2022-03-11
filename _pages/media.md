@@ -16,6 +16,8 @@ tags: []
 ---
 ## 2022
 
+14- **_The Guardian_** [Plants humans don’t need are heading for extinction, study finds](https://www.theguardian.com/environment/2022/mar/10/plants-humans-dont-need-extinction-biodiversity-study){:target="_blank" target="_blank" rel="noopener noreferrer"} (March 10, 2022)<br>
+
 13- **_Texas Standard_** (Radio Interview) [Study shows plant diversity declining due to invasive species’ success](https://www.texasstandard.org/stories/study-shows-plant-diversity-declining-due-to-invasive-species-success/){:target="_blank" target="_blank" rel="noopener noreferrer"} (February 2, 2022)<br>
 {% include embed-audio.html src="/media/daru_KUT_2022.mp3" %}<br>
 
@@ -26,21 +28,21 @@ tags: []
 11- **_TAMUCC News_** [TAMUCC Biology Professor Publishes Plant Research in _Nature Communications_ Journal](https://bit.ly/3EvoXLZ){:target="_blank" target="_blank" rel="noopener noreferrer"} (December 6, 2021)<br>
 
 10- **_Science for the Public_** [Can Seagrasses Weather Ocean Warming?](http://scienceforthepublic.org/earth/can-seagrasses-weather-ocean-warming){:target="_blank" target="_blank" rel="noopener noreferrer"} (June 14, 2021)<br>
-<iframe height="50" src="https://www.youtube.com/embed/ZnOPkCSzmsg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe src="https://www.youtube.com/embed/ZnOPkCSzmsg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 ## 2018
 
 09- **_EurekAlert_** [Critical collections](https://goo.gl/KXbvH9){:target="_blank" target="_blank" rel="noopener noreferrer"} (November 19, 2018)<br>
 
 08- **_Texas A&M University-Corpus Christi_** [Island University Professor, Barnabas Daru, Turns Herbarium Specimens into big Data](https://www.youtube.com/watch?v=-_pj1CsIcMo&t=1s){:target="_blank" target="_blank" rel="noopener noreferrer"} (October 26, 2018)<br>
-<iframe height="50" src="https://www.youtube.com/embed/-_pj1CsIcMo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe src="https://www.youtube.com/embed/-_pj1CsIcMo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 ## 2017
 
 07- **_Harvard Gazette_** [Study uncovers botanical bias](https://news.harvard.edu/gazette/story/2017/12/harvard-study-illuminates-botanical-bias/){:target="_blank" target="_blank" rel="noopener noreferrer"} (December 22, 2017)<br>
 
 06- **_WGBH Forum Network Boston_** [The vital role of seagrasses in marine ecosystems](https://forum-network.org/lectures/vital-role-seagrasses-marine-ecosystems/){:target="_blank" target="_blank" rel="noopener noreferrer"} (October 26, 2018)<br>
-<iframe height="50" src="https://www.youtube.com/embed/BV_iqJ-TPYI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe src="https://www.youtube.com/embed/BV_iqJ-TPYI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 ## 2016
 
@@ -53,7 +55,7 @@ tags: []
 ## 2015
 
 02- **_University of Johannesburg_** [UJ 3 Minute Thesis Competition - Dr Barnabas Daru 2015](https://www.youtube.com/watch?v=li9iJv5P47M){:target="_blank" target="_blank" rel="noopener noreferrer"} (June 2, 2015)<br>
-<iframe height="50" src="https://www.youtube.com/embed/li9iJv5P47M" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe src="https://www.youtube.com/embed/li9iJv5P47M" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 ## 2014
 
