@@ -14,6 +14,10 @@ permalink: /publications/
 categories: []
 tags: []
 ---
+## 2022
+
+45- Davies, T.J, Maurin, O., Yessoufou, K., **Daru, B.H.**, Bezeng, B.S., Mankga, L.T., Schaefer, H., Thuiller, W. & van der Bank, M. Woody plant phylogenetic diversity supports natures contributions to people but is at risk from human population growth. **_Conservation Letters_** (in press).
+
 ## 2021
 
 44- **Daru, B.H.**, Willis, C.G., Meineke, E.K., Ronk, A., Zobel, M., Pärtel, M., Antonelli, A., Davies, T.J. & Davis, C.C. (2021) Widespread homogenization of plant communities in the Anthropocene. **_Nature Communications_** 12: 6983.<br>
