@@ -17,61 +17,63 @@ toc_label: "Quick Links"
 toc_icon: "cog"
 ---
 
-### PRINCIPAL INVESTIGATOR
+### FACULTY
 
-![Barnabas-Daru](/assets/images/barnabas.jpg){:class="img-responsive"}{:width="200px"}{: style="float: left; padding-right:10px"}
+![Barnabas-Daru](/assets/images/barnabas.png){:class="img-responsive"}{:width="300px"}{: style="float: left; padding-right:10px"}
+<br>**Barnabas H. Daru, Ph.D.**<br>
+**Assistant Professor**<br>
+<br>[<span style="text-decoration: underline; font-size:13pt">Bio</span>]({% link _pages/about_barnabas.md %}) / [<span style="text-decoration: underline; font-size:13pt">CV</span>](/docs/a_DaruCVAug2022.pdf){:target="_blank"}<br>
+[<span style="text-decoration: underline; font-size:13pt">Email</span>](mailto:barnabas.daru@tamucc.edu){:target="_blank"}<br>
+<span style="font-size:13pt;">Phone: +1 (361) 825 3489</span><br>
 
-[**<span style="text-decoration: underline">Barnabas Daru</span>**]({% link _pages/about_barnabas.md %})  
-Postdoc – Harvard University<br>
-PhD – University of Johannesburg<br>
-BSc – University of Jos<br>
-Editorial Board [**_Am J Bot_**](https://bsapubs.onlinelibrary.wiley.com/hub/journal/15372197/homepage/editorialboard){:target="_blank" target="_blank" rel="noopener noreferrer"}<br>
-Editorial Member [**_eLife_**](https://elifesciences.org/about/people/ecology){:target="_blank" target="_blank" rel="noopener noreferrer"}<br>
-Guest Editor [**_Phil Trans Roy Soc B_**](http://rstb.royalsocietypublishing.org/content/374/1763){:target="_blank" target="_blank" rel="noopener noreferrer"}<br>
-[<i class="fa fa-download" aria-hidden="true"></i> Curriculum Vitae](/docs/a_DaruCVMar2022.pdf){: .btn .btn--small .btn--primary}{:target="_blank"}
-
+<br clear="left"/>
 ---
-### STUDENTS AND POSTDOCS
 
-![Gabriel Nakamura](/assets/images/GabrielNakamura.jpg){:class="img-responsive"}{:width="200px"}{: style="float: left; padding-right:10px"}
+### POSTDOCTORAL SCHOLAR
 
-[**<span style="text-decoration: underline">Gabriel Nakamura</span>** (*Daru Lab*)]({% link _pages/about_gabriel.md %})  
-Postdoc     
-Research: Methods and tools development in macroecology and biogeography<br>
-[<i class="fa fa-download" aria-hidden="true"></i> Curriculum Vitae]({{ site.baseurl}}/docs/f_GabrielNakamuraCV.pdf){: .btn .btn--small .btn--primary}{:target="_blank"}
+![Gabriel Nakamura](/assets/images/gabriel.png){:class="img-responsive"}{:width="300px"}{: style="float: left; padding-right:10px"}
+<br>**Gabriel Nakamura, Ph.D.**<br>
+<span style="font-size:12pt;">Ph.D., Ecology, Federal University of Rio Grande do Sul, Brazil, 2019</span><br>
+<span style="font-size:12pt;">M.S., Ecology and Conservation, Federal University of Mato Grosso do Sul, Brazil, 2014</span><br>
+[<span style="text-decoration: underline; font-size:12pt">Website</span>](https://gabrielnakamura.netlify.app/){:target="_blank"}<br>
+[<span style="text-decoration: underline; font-size:12pt">CV</span>](/docs/f_GabrielNakamuraCV.pdf){:target="_blank"}<br>
+[<span style="text-decoration: underline; font-size:12pt">Email</span>](mailto:gabriel.nakamuradesouza@tamucc.edu){:target="_blank"}<br>
+
+<br clear="left"/>
+---
+
+### GRADUATE STUDENTS
+
+![Alex-Aromin](/assets/images/alex.png){:class="img-responsive"}{:width="300px"}{: style="float: left; padding-right:10px"}
+<br>**Alex Aromin**<br>
+<span style="font-size:12pt;">M.S., Ecology & Evolutionary Biology, University of Tennessee, Knoxville, 2021</span><br>
+<span style="font-size:12pt;">Post-Baccalaureate, University of Montana, Missoula, MT, 2017</span><br>
+<span style="font-size:12pt;">B.S., Biology Environmental Science, Montana State University, Billings, 2016</span><br>
+[<span style="text-decoration: underline; font-size:12pt">Bio</span>]({% link _pages/about_alex.md %})<br>
+[<span style="text-decoration: underline; font-size:12pt">Email</span>](mailto:aaromin@islander.tamucc.edu){:target="_blank"}<br>
 
 <br clear="left"/>
 
-![Alex-Aromin](/assets/images/alex.jpeg){:class="img-responsive"}{:width="200px"}{: style="float: left; padding-right:10px"}
-
-[**<span style="text-decoration: underline">Alex Aromin</span>** (*Daru Lab*)]({% link _pages/about_alex.md %})  
-PhD student  
-Research: NSF project on <code><a href="https://phyloregion.com" target="_blank">phyloregion</a></code> <br> 
-
-<br clear="left"/>
-
-![image-title-here](/assets/images/paul.jpg){:class="img-responsive"}{:width="200px"}{: style="float: left; padding-right:10px"}
-
-[**<span style="text-decoration: underline">Paul Markley</span>** (*Daru Lab*)]({% link _pages/about_paul.md %})  
-PhD student   
-Research: The changing nature of Arctic plant diversity<br>
-[<i class="fa fa-download" aria-hidden="true"></i> Curriculum Vitae]({{ site.baseurl}}/docs/b_MarkleyCV.pdf){: .btn .btn--small .btn--primary}{:target="_blank"}
+![image-title-here](/assets/images/paul.png){:class="img-responsive"}{:width="300px"}{: style="float: left; padding-right:10px"}
+<br>**Paul Markley**<br>
+<span style="font-size:12pt;">B.S., Plant Biology, University of California, Riverside, 2019</span><br>
+[<span style="text-decoration: underline; font-size:12pt">Bio</span>]({% link _pages/about_paul.md %}) / [<span style="text-decoration: underline; font-size:12pt">CV</span>](/docs/b_MarkleyCV.pdf){:target="_blank"}<br>
+[<span style="text-decoration: underline; font-size:12pt">Email</span>](mailto:pmarkley@islander.tamucc.edu){:target="_blank"}<br>
 
 <br clear="left"/>
 
-![image-title-here](/assets/images/kendall.jpeg){:class="img-responsive"}{:width="200px"}{: style="float: left; padding-right:10px"}
-
-[**<span style="text-decoration: underline">Kendall Johnson</span>** (*Pezold & Daru Labs*)]({% link _pages/about_kendall.md %})  
-PhD student   
-Research: The Phylogeny and Evolution of Gobioid Fishes<br>
-[<i class="fa fa-download" aria-hidden="true"></i> Curriculum Vitae]({{ site.baseurl}}/docs/g_KendallCV_2020.pdf){: .btn .btn--small .btn--primary}{:target="_blank"}
+![image-title-here](/assets/images/kendall.png){:class="img-responsive"}{:width="300px"}{: style="float: left; padding-right:10px"}
+<br>**Kendall Johnson**<br>
+<span style="font-size:12pt;">B.S., Plant Biology, University of Miami, 2016</span><br>
+[<span style="text-decoration: underline; font-size:12pt">Bio</span>]({% link _pages/about_kendall.md %}) / [<span style="text-decoration: underline; font-size:12pt">CV</span>](/docs/g_KendallCV_2020.pdf){:target="_blank"}<br>
+[<span style="text-decoration: underline; font-size:12pt">Email</span>](mailto:kjohnson47@islander.tamucc.edu){:target="_blank"}<br>
 
 <br clear="left"/>
 
-![future_lab-mate](/assets/images/you.jpg){:class="img-responsive"}{:width="200px"}{: style="float: left; padding-right:10px"}
+<br>![future_lab-mate](/assets/images/you.png){:class="img-responsive"}{:width="300px"}{: style="float: left; padding-right:10px"}
 
-**THIS COULD BE YOU!**   
-Please <a target="_blank" rel="noopener noreferrer" href = "mailto: barnabas.daru@tamucc.edu">contact me</a> about opportunities for undergraduate research experience, graduate study, or postdoctoral research in my lab<br> 
+<br>**This could be you!**   
+<span style="font-size:12pt;">Please <a target="_blank" rel="noopener noreferrer" href = "mailto: barnabas.daru@tamucc.edu">contact me</a> about opportunities for undergraduate research experience, graduate study, or postdoctoral research in my lab</span><br>
 
 <br clear="left"/>
 
@@ -79,26 +81,28 @@ Please <a target="_blank" rel="noopener noreferrer" href = "mailto: barnabas.dar
 ### LAB ALUMNI
 
 ![image-title-here](/assets/images/jordan.jpg){:class="img-responsive"}{:width="200px"}{: style="float: left; padding-right:10px"}
-
-[**<span style="text-decoration: underline">Jordan Rodriguez (Undergraduate)</span>**]({% link _pages/about_jordan.md %})  
-Jordan was an undergraduate student & herbarium intern in the Daru lab from 2019 to 2022. Her research focused on disentangling the mismatches in plant sampling biases between vouchered specimens and observations.<br>
-[<i class="fa fa-download" aria-hidden="true"></i> Curriculum Vitae]({{ site.baseurl}}/docs/h_JordanCV.pdf){: .btn .btn--small .btn--primary}{:target="_blank"}
+<br>**Jordan Rodriguez (Daru Lab as undergrad)**<br>
+<span style="font-size:12pt;">B.S., Plant Biology, Texas A&M University-Corpus Christi, 2021</span><br>
+<span style="font-size:12pt;">First position after Daru Lab: Ph.D. student, University of Oregon</span><br>
 
 <br clear="left"/>
 
 ![image-title-here](/assets/images/brianna.jpg){:class="img-responsive"}{:width="200px"}{: style="float: left; padding-right:10px"}
-
-[**<span style="text-decoration: underline">Brianna Rock (Masters)</span>**]({% link _pages/about_brianna.md %})  
-Brianna joined the lab in Jan 2019 & successfully defended her Masters in July 2021. Brianna's research focused on assessing seagrass evolutionary diversity in the Anthropocene. Her work resulted in 2 first-author papers, one published in [*Frontiers in Marine Science*](https://doi.org/10.3389/fmars.2021.608867){:target="_blank"}, and another under review at *Nature Plants*.<br>
-[<i class="fa fa-download" aria-hidden="true"></i> Curriculum Vitae]({{ site.baseurl}}/docs/c_BriannaCV.pdf){: .btn .btn--small .btn--primary}{:target="_blank"} 
+<br>**Brianna Rock (Daru Lab as MS student)**<br>
+<span style="font-size:12pt;">M.S., Marine Biology, Texas A&M University-Corpus Christi, 2020</span><br>
+<span style="font-size:12pt;">B.S., Biology, University of Charleston-Charleston, West Virginia, 2019</span><br>
+<span style="font-size:12pt;">First position after Daru Lab: Associate Aquarist, SeaWorld Parks & Entertainment, Orlando, Florida</span><br>
+[<span style="text-decoration: underline; font-size:12pt">CV</span>](/docs/c_BriannaCV.pdf){:target="_blank"}<br>
 
 <br clear="left"/>
 
 ![image-title-here](/assets/images/piyal.jpg){:class="img-responsive"}{:width="200px"}{: style="float: left; padding-right:10px"}
-
-[**<span style="text-decoration: underline">Piyal Karunarathne (Postdoc)</span>**]({% link _pages/about_piyal.md %})  
-Piyal was a postdoc in the lab from June 2019 to August 2020. Piyal focused on developing a modeling framework to determine the evolutionary origin of biomes at a global scale. Piyal co-authored a paper in [*Methods Ecol Evol*](https://doi.org/10.1111/2041-210X.13478){:target="_blank"} describing a new `R` package [`phyloregion`](https://phyloregion.com/){:target="_blank"}. After finishing in the Daru lab, Piyal accepted a postdoctoral fellowship in Sweden.<br>
-[<i class="fa fa-download" aria-hidden="true"></i> Curriculum Vitae]({{ site.baseurl}}/docs/d_PiyalCV.pdf){: .btn .btn--small .btn--primary}{:target="_blank"}
+<br>**Piyal Karunarathne, Ph.D. (Daru Lab as Postdoc)**<br>
+<span style="font-size:12pt;">Ph.D., Evolutionary Biology, University of Göttingen, Germany, 2019</span><br>
+<span style="font-size:12pt;">M.Phil., Plant Biology, University of Peradeniya, Sri Lanka, 2014</span><br>
+<span style="font-size:12pt;">B.Sc.(Hons.), Biology, University of Peradeniya, Sri Lanka, 2010</span><br>
+<span style="font-size:12pt;">First position after Daru Lab: Postdoc, Uppsala University, Sweden</span><br>
+[<span style="text-decoration: underline; font-size:12pt">ORCID</span>](https://orcid.org/0000-0002-1934-145X){:target="_blank"}<br>
 
 <br clear="left"/>
 
@@ -119,3 +123,4 @@ Piyal was a postdoc in the lab from June 2019 to August 2020. Piyal focused on d
 <br>
 [**Betsy Arnold Lab**](http://www.arnoldlab.net/){:target="_blank" target="_blank" rel="noopener noreferrer"}<br>
 (_University of Arizona_)<br>
+

@@ -14,9 +14,6 @@ main:
 
   - title: "Media"
     url: /media/
-
-  - title: "Funding"
-    url: /funding/
     
   - title: "Contact"
     url: /contact/

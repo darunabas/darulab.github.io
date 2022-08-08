@@ -9,17 +9,17 @@ $doc-font-size              : 16;
    Colors
    ========================================================================== */
 
-$gray                       : #7a8288;
+$gray                       : #2E2D29;
 $dark-gray                  : mix(#000, $gray, 40%);
 $darker-gray                : mix(#000, $gray, 60%);
 $light-gray                 : mix(#fff, $gray, 50%);
 $lighter-gray               : mix(#fff, $gray, 90%);
 
 $body-color                 : #000; //#fff;
-$background-color           : #222; //#fff;
-$code-background-color      : $darker-gray;
+$background-color           : #fff; //#fff;
+$code-background-color      : $lighter-gray;
 $code-background-color-dark : $dark-gray;
-$text-color                 : $light-gray;
+$text-color                 : #2E2D29; //$light-gray;
 $border-color               : $dark-gray;
 
 $primary-color              : #999; //#7a8288;
@@ -28,8 +28,8 @@ $warning-color              : #f89406;
 $danger-color               : #ee5f5b;
 $info-color                 : #3F98DB; //#52adc8;
 
-$footer-background-color    : #000;
-$muted-text-color           : $gray;
+$footer-background-color    : #8C1515;
+$muted-text-color           : $text-color; //#EAEAEA; //$gray;
 
 $link-color: #03a9f4;
 
@@ -69,4 +69,8 @@ a {
 @charset "utf-8";
 
 @import "minimal-mistakes/skins/{{ site.minimal_mistakes_skin | default: 'default' }}"; // skin
+.site-title {font-size: 40px;}
+.site-header {border: none;}
 @import "minimal-mistakes"; // main partials
+//.greedy-nav a { color: #8C1515; }
+.masthead_menu { color: #8C1515; }

@@ -13,11 +13,11 @@
 # you will see them accessed via {{ site.title }}, {{ site.email }}, and so on.
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
-title: "Barnabas Daru"
+title: "Daru Lab at TAMUCC"
 repository: darunabas/darunabas.github.io
 email:
 description:
-url: https://barnabasdaru.com
+url: https://darulab.org/
 twitter_username: Barnabas Daru
 github_username: darunabas
 minimal_mistakes_skin: dark
@@ -63,7 +63,7 @@ google_ad_slot           :
 
 # Site Author
 author:
-  name             : "Barnabas Daru"
+  name             : "Daru Lab at TAMUCC"
   avatar           : "images/logo.png"
   bio              : "Assistant Professor of Biology"
   location         : #"The Carpentries"
