@@ -96,6 +96,14 @@ toc_icon: "cog"
 
 <br clear="left"/>
 
+![image-title-here](/assets/images/arras.jpg){:class="img-responsive"}{:width="200px"}{: style="float: left; padding-right:10px"}
+<br>**Arras Wiedorn (Daru Lab as MS student)**<br>
+<span style="font-size:12pt;">M.S., Biology, Texas A&M University-Corpus Christi, 2021</span><br>
+<span style="font-size:12pt;">B.S., Zoology, Washington State University</span><br>
+<span style="font-size:12pt;">First position after Daru Lab: Texas State Aquarium</span><br>
+
+<br clear="left"/>
+
 ![image-title-here](/assets/images/piyal.jpg){:class="img-responsive"}{:width="200px"}{: style="float: left; padding-right:10px"}
 <br>**Piyal Karunarathne, Ph.D. (Daru Lab as Postdoc)**<br>
 <span style="font-size:12pt;">Ph.D., Evolutionary Biology, University of Göttingen, Germany, 2019</span><br>
