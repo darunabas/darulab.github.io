@@ -3,7 +3,7 @@ layout: posts
 title: Daru Lab HPC guide
 date: 2022-07-27
 type: post
-published: true
+published: false
 author: barnabas_daru
 status: publish
 classes: wide
