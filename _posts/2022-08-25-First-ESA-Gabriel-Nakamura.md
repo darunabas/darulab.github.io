@@ -1,7 +1,7 @@
 ---
 layout: posts
 weight: 1
-title: "Ecological Society of America meeting - 2022"
+title: "A first Ecological Society of America meeting for Gabriel"
 excerpt: "ESA is one of the most important conferences for ecologists. Here I share some of my experiences during my first ESA meeting"
 date: 2022-08-25
 lastmod: 2022-08-25
@@ -25,9 +25,9 @@ tags:
 ---
 
 
-### Personal views on my first Ecological Society of America meeting
+### A personal account of my first Ecological Society of America meeting
 
-Last week (14-19th August), I attended my first ever Ecological Society of America (ESA) meeting. If you are an ecologist/evolutionary biologist, the ESA meeting is one of those “must-attend” events. It is the venue where researchers share their studies and is also an opportunity to connect with people from different places (unfortunately, not all places, but I will talk more about it later). Beyond the importance of the ESA meeting, this year, it happened in the fantastic city of Montreal, which made the meeting even better. Here I want to share a few things I experienced during the ESA meeting.
+Last week (14-19th August, 2022), I attended my first ever Ecological Society of America (ESA) meeting. If you are an ecologist/evolutionary biologist, the ESA meeting is one of those “must-attend” events. It is the venue where researchers share their studies and is also an opportunity to connect with people from different places (unfortunately, not all places, but I will talk more about it later). Beyond the importance of the ESA meeting, this year, it happened in the fantastic city of Montreal, which made the meeting even better. Here I want to share a few things I experienced during the ESA meeting.
 
 
 #### **Talks, symposiums, and sessions**
