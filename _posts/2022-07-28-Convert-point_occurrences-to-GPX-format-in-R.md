@@ -4,7 +4,7 @@ title: Convert coordinates to GPX format in R
 date: 2022-07-28
 type: post
 published: true
-author: barnabas_daru
+author: paul_markley
 status: publish
 classes: wide
 excerpt_separator: <!--more-->
