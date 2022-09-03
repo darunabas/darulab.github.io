@@ -83,14 +83,14 @@ toc_icon: "cog"
 ---
 ### LAB ALUMNI
 
-![image-title-here](/assets/images/jordan.jpg){:class="img-responsive"}{:width="200px"}{: style="float: left; padding-right:10px"}
+![image-title-here](/assets/images/jordan.png){:class="img-responsive"}{:width="200px"}{: style="float: left; padding-right:10px"}
 <br>**Jordan Rodriguez (Daru Lab as undergrad)**<br>
 <span style="font-size:12pt;">B.S., Plant Biology, Texas A&M University-Corpus Christi, 2021</span><br>
 <span style="font-size:12pt;">First position after Daru Lab: Ph.D. student, University of Oregon</span><br>
 
 <br clear="left"/>
 
-![image-title-here](/assets/images/arras.jpg){:class="img-responsive"}{:width="200px"}{: style="float: left; padding-right:10px"}
+![image-title-here](/assets/images/arras.png){:class="img-responsive"}{:width="200px"}{: style="float: left; padding-right:10px"}
 <br>**Arras Wiedorn (Daru Lab as MS student)**<br>
 <span style="font-size:12pt;">M.S., Biology, Texas A&M University-Corpus Christi, 2021</span><br>
 <span style="font-size:12pt;">B.S., Zoology, Washington State University</span><br>
@@ -98,7 +98,15 @@ toc_icon: "cog"
 
 <br clear="left"/>
 
-![image-title-here](/assets/images/brianna.jpg){:class="img-responsive"}{:width="200px"}{: style="float: left; padding-right:10px"}
+![image-title-here](/assets/images/lauren.png){:class="img-responsive"}{:width="200px"}{: style="float: left; padding-right:10px"}
+<br>**Lauren Snyder (Daru Lab as Herbarium Student Worker)**<br>
+<span style="font-size:12pt;">B.S., Biology, Texas A&M University-Corpus Christi, 2021</span><br>
+<span style="font-size:12pt;">First position after Daru Lab: Assistant monitoring invasive species, USDA, Houston, TX</span><br>
+[<span style="text-decoration: underline; font-size:12pt">CV</span>](/docs/i_laurenCV.pdf){:target="_blank"}<br>
+
+<br clear="left"/>
+
+![image-title-here](/assets/images/brianna.png){:class="img-responsive"}{:width="200px"}{: style="float: left; padding-right:10px"}
 <br>**Brianna Rock (Daru Lab as MS student)**<br>
 <span style="font-size:12pt;">M.S., Marine Biology, Texas A&M University-Corpus Christi, 2020</span><br>
 <span style="font-size:12pt;">B.S., Biology, University of Charleston-Charleston, West Virginia, 2019</span><br>
@@ -107,7 +115,7 @@ toc_icon: "cog"
 
 <br clear="left"/>
 
-![image-title-here](/assets/images/piyal.jpg){:class="img-responsive"}{:width="200px"}{: style="float: left; padding-right:10px"}
+![image-title-here](/assets/images/piyal.png){:class="img-responsive"}{:width="200px"}{: style="float: left; padding-right:10px"}
 <br>**Piyal Karunarathne, Ph.D. (Daru Lab as Postdoc)**<br>
 <span style="font-size:12pt;">Ph.D., Evolutionary Biology, University of Göttingen, Germany, 2019</span><br>
 <span style="font-size:12pt;">M.Phil., Plant Biology, University of Peradeniya, Sri Lanka, 2014</span><br>
