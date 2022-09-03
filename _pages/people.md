@@ -12,10 +12,13 @@ excerpt: ""
 permalink: /people/
 categories: []
 tags: []
-toc: true
+toc: false
 toc_label: "Quick Links"
 toc_icon: "cog"
 ---
+
+[<span style="font-size:13pt">LAB MEETING TIMETABLE</span>]({% link _pages/lab_meeting.md %}){: .btn .btn--small .btn--success}{:target="_blank"}
+
 
 ### FACULTY
 
@@ -36,7 +39,7 @@ toc_icon: "cog"
 <span style="font-size:12pt;">Ph.D., Ecology, Federal University of Rio Grande do Sul, Brazil, 2019</span><br>
 <span style="font-size:12pt;">M.S., Ecology and Conservation, Federal University of Mato Grosso do Sul, Brazil, 2014</span><br>
 [<span style="text-decoration: underline; font-size:12pt">Website</span>](https://gabrielnakamura.netlify.app/){:target="_blank"}<br>
-[<span style="text-decoration: underline; font-size:12pt">CV</span>](/docs/f_GabrielNakamuraCV.pdf){:target="_blank"}<br>
+[<span style="text-decoration: underline; font-size:13pt">Bio</span>]({% link _pages/about_gabriel.md %}) / [<span style="text-decoration: underline; font-size:12pt">CV</span>](https://gabrielnakamura.github.io/CV-gabrielnakamura/){:target="_blank"}<br>
 [<span style="text-decoration: underline; font-size:12pt">Email</span>](mailto:gabriel.nakamuradesouza@tamucc.edu){:target="_blank"}<br>
 
 <br clear="left"/>
