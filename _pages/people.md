@@ -17,9 +17,6 @@ toc_label: "Quick Links"
 toc_icon: "cog"
 ---
 
-[<span style="font-size:13pt">LAB MEETING TIMETABLE</span>]({% link _pages/lab_meeting.md %}){: .btn .btn--small .btn--success}{:target="_blank"}
-
-
 ### FACULTY
 
 ![Barnabas-Daru](/assets/images/barnabas.png){:class="img-responsive"}{:width="300px"}{: style="float: left; padding-right:10px"}
