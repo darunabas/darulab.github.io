@@ -6,7 +6,7 @@ excerpt: "ESA is one of the most important conferences for ecologists. Here I sh
 date: 2022-08-25
 lastmod: 2022-08-25
 type: post
-published: true
+published: false
 author: gabriel_nakamura
 status: publish
 classes: wide
@@ -54,3 +54,4 @@ If ESA are genuinely committed to promoting changes, it must come from actions, 
 
 Despite the negative points regarding inclusion and accessibility, ESA was an excellent experience to discuss ideas about science, work-life balance, jobs, connect with people from different places and institutions, make new friends, and see old ones.
 
+{% include social-share.html %}
