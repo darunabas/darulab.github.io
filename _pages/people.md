@@ -73,7 +73,7 @@ toc_icon: "cog"
 <br>![future_lab-mate](/assets/images/you.png){:class="img-responsive"}{:width="300px"}{: style="float: left; padding-right:10px"}
 
 <br>**This could be you!**   
-<span style="font-size:12pt;">Please <a target="_blank" rel="noopener noreferrer" href = "mailto: barnabas.daru@tamucc.edu">contact me</a> about opportunities for undergraduate research experience, graduate study, or postdoctoral research in my lab</span><br>
+<span style="font-size:12pt;">We're hiring at all levels! If you are interested in PhD opportunities in the Daru lab, please <a target="_blank" rel="noopener noreferrer" href = "https://forms.gle/9gFZwvcsbKmHCJhr5">fill out this form</a>.</span><br>
 
 <br clear="left"/>
 
