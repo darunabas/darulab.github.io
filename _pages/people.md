@@ -24,49 +24,18 @@ toc_icon: "cog"
 **Assistant Professor**<br>
 <br>[<span style="text-decoration: underline; font-size:13pt">Bio</span>]({% link _pages/about_barnabas.md %}) / [<span style="text-decoration: underline; font-size:13pt">CV</span>](/docs/a_DaruCVSep2022.pdf){:target="_blank"}<br>
 [<span style="text-decoration: underline; font-size:13pt">Email</span>](mailto:barnabas.daru@tamucc.edu){:target="_blank"}<br>
-<span style="font-size:13pt;">Phone: +1 (361) 825 3489</span><br>
-
-<br clear="left"/>
----
-
-### POSTDOCTORAL SCHOLAR
-
-![Gabriel Nakamura](/assets/images/gabriel.png){:class="img-responsive"}{:width="300px"}{: style="float: left; padding-right:10px"}
-<br>**Gabriel Nakamura, Ph.D.**<br>
-<span style="font-size:12pt;">Ph.D., Ecology, Federal University of Rio Grande do Sul, Brazil, 2019</span><br>
-<span style="font-size:12pt;">M.S., Ecology and Conservation, Federal University of Mato Grosso do Sul, Brazil, 2014</span><br>
-[<span style="text-decoration: underline; font-size:12pt">Website</span>](https://gabrielnakamura.netlify.app/){:target="_blank"}<br>
-[<span style="text-decoration: underline; font-size:13pt">Bio</span>]({% link _pages/about_gabriel.md %}) / [<span style="text-decoration: underline; font-size:12pt">CV</span>](https://gabrielnakamura.github.io/CV-gabrielnakamura/){:target="_blank"}<br>
-[<span style="text-decoration: underline; font-size:12pt">Email</span>](mailto:gabriel.nakamuradesouza@tamucc.edu){:target="_blank"}<br>
+<span style="font-size:13pt;">Phone: +1 upon request </span><br>
 
 <br clear="left"/>
 ---
 
 ### GRADUATE STUDENTS
 
-![Alex-Aromin](/assets/images/alex.png){:class="img-responsive"}{:width="300px"}{: style="float: left; padding-right:10px"}
-<br>**Alex Aromin**<br>
-<span style="font-size:12pt;">M.S., Ecology & Evolutionary Biology, University of Tennessee, Knoxville, 2021</span><br>
-<span style="font-size:12pt;">Post-Baccalaureate, University of Montana, Missoula, MT, 2017</span><br>
-<span style="font-size:12pt;">B.S., Biology Environmental Science, Montana State University, Billings, 2016</span><br>
-[<span style="text-decoration: underline; font-size:12pt">Bio</span>]({% link _pages/about_alex.md %})<br>
-[<span style="text-decoration: underline; font-size:12pt">Email</span>](mailto:aaromin@islander.tamucc.edu){:target="_blank"}<br>
-
-<br clear="left"/>
-
-![image-title-here](/assets/images/paul.png){:class="img-responsive"}{:width="300px"}{: style="float: left; padding-right:10px"}
+![Paul-Markley](/assets/images/paul.png){:class="img-responsive"}{:width="300px"}{: style="float: left; padding-right:10px"}
 <br>**Paul Markley**<br>
 <span style="font-size:12pt;">B.S., Plant Biology, University of California, Riverside, 2019</span><br>
 [<span style="text-decoration: underline; font-size:12pt">Bio</span>]({% link _pages/about_paul.md %}) / [<span style="text-decoration: underline; font-size:12pt">CV</span>](/docs/b_MarkleyCV.pdf){:target="_blank"}<br>
 [<span style="text-decoration: underline; font-size:12pt">Email</span>](mailto:pmarkley@islander.tamucc.edu){:target="_blank"}<br>
-
-<br clear="left"/>
-
-![image-title-here](/assets/images/kendall.png){:class="img-responsive"}{:width="300px"}{: style="float: left; padding-right:10px"}
-<br>**Kendall Johnson**<br>
-<span style="font-size:12pt;">B.S., Plant Biology, University of Miami, 2016</span><br>
-[<span style="text-decoration: underline; font-size:12pt">Bio</span>]({% link _pages/about_kendall.md %}) / [<span style="text-decoration: underline; font-size:12pt">CV</span>](/docs/g_KendallCV_2020.pdf){:target="_blank"}<br>
-[<span style="text-decoration: underline; font-size:12pt">Email</span>](mailto:kjohnson47@islander.tamucc.edu){:target="_blank"}<br>
 
 <br clear="left"/>
 

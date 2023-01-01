@@ -16,7 +16,7 @@ tags: []
 ---
 ## 2022
 
-45- Davies, T.J, Maurin, O., Yessoufou, K., **Daru, B.H.**, Bezeng, B.S., Mankga, L.T., Schaefer, H., Thuiller, W. & van der Bank, M. (2022) Woody plant phylogenetic diversity supports nature's contributions to people but is at risk from human population growth. **_Conservation Letters_** 00: e12914.<br>
+45- Davies, T.J, Maurin, O., Yessoufou, K., **Daru, B.H.**, Bezeng, B.S., Mankga, L.T., Schaefer, H., Thuiller, W. & van der Bank, M. (2022) Woody plant phylogenetic diversity supports nature's contributions to people but is at risk from human population growth. **_Conservation Letters_** 15: e12914.<br>
   [<i class="fa fa-book" aria-hidden="true"></i> DOI](https://doi.org/10.1111/conl.12914){: .btn .btn--small .btn--success}{:target="_blank"}
   [<i class="fa fa-download" aria-hidden="true"></i> PDF file]({{ site.baseurl}}/docs/45_Davies_etal_2022_ConservationLetters.pdf){: .btn .btn--small .btn--primary}{:target="_blank"}
 
