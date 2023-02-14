@@ -44,3 +44,5 @@ Direct any questions to Dr. Barnabas Daru at [bdaru@stanford.edu](mailto:bdaru@s
 
 **Terms of employment:**  
 Salary, health insurance, and other benefits are included. This position is based at Stanford University, and it is an Equal Opportunity/Affirmative Action/Veterans/Disability Employer committed to diversity.
+
+{% include social-share.html %}
