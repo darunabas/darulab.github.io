@@ -39,8 +39,8 @@ Applicants should electronically submit a single PDF containing the following:
 1. a 2-page cover letter detailing your research interests and skills that match the position;  
 2. a CV (with 3-5 references listed at the end)
 
-Please submit applications before *March 14, 2023* via [https://forms.gle/wKjNJHGcbfrJMXgQ7](https://forms.gle/wKjNJHGcbfrJMXgQ7){:target="_blank"}   
-Direct any questions to Dr. Barnabas Daru at [bdaru@stanford.edu](mailto:bdaru@stanford.edu). The start date is May 2023, with flexibility.
+Please submit applications before **March 14, 2023** via [https://forms.gle/wKjNJHGcbfrJMXgQ7](https://forms.gle/wKjNJHGcbfrJMXgQ7){:target="_blank"}   
+Direct any questions to Dr. Barnabas Daru at [bdaru@stanford.edu](mailto:bdaru@stanford.edu). The start date is **May 2023**, with flexibility.
 
 **Terms of employment:**  
 Salary, health insurance, and other benefits are included. This position is based at Stanford University, and it is an Equal Opportunity/Affirmative Action/Veterans/Disability Employer committed to diversity.
