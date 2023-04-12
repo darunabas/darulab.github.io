@@ -3,7 +3,7 @@ layout: single
 title: "People in the Daru Lab"
 date: null
 type: page
-published: true
+published: false
 status: publish
 header:
   overlay_image: /assets/images/people.png

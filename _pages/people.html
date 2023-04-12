@@ -1,0 +1,118 @@
+---
+layout: single
+title: People
+date:
+type: page
+classes: wide
+published: true
+permalink: /people/
+status: publish
+header:
+  overlay_image: /assets/images/alaska.png
+  overlay_filter: 0.5
+excerpt: ""
+categories: []
+tags: [] 
+---
+
+{% raw %}
+<style>
+.tab {
+  overflow: hidden;
+  background-color: rgba(204, 89, 89, 0.2);
+  border: 2px solid rgba(140, 21, 21, 0.8);
+  border-radius: 10px;
+  padding: 10px;
+}
+
+.tab button {
+  background-color: inherit;
+  float: left;
+  border: none;
+  outline: none;
+  cursor: pointer;
+  padding: 14px 16px;
+  transition: 0.3s;
+  font-size: 17px;
+}
+
+.tab button:hover {
+  background-color: rgba(140, 21, 21, 0.8);
+}
+
+.tab button.active {
+  background-color: rgba(140, 21, 21, 0.8);
+  color: #fff;
+}
+
+.tabcontent {
+  display: none;
+  padding: 6px 12px;
+  border: 2px solid rgba(140, 21, 21, 0.8);
+  border-top: none;
+}
+</style>
+
+<div class="tab">
+  <button class="tablinks active" onclick="openTab(event, 'home')">Barnabas</button>
+  <button class="tablinks" onclick="openTab(event, 'tab1')">Paul</button>
+  <button class="tablinks" onclick="openTab(event, 'tab2')">You</button>
+  <button class="tablinks" onclick="openTab(event, 'tab3')">You</button>
+</div>
+
+<div id="home" class="tabcontent" style="display:block;">
+  <h3>Barnabas Daru</h3>
+  <p>Principal Investigator</p>
+  <img src="/assets/images/barnabas.png" alt="Barnabas-Daru" class="img-responsive" style="float:left; padding-right:10px; border-radius:50%; width:300px; height:300px; object-fit:cover;">
+  <p style="margin-right: 50px;">Barnabas has had a fascinating career journey, which has taken him from his undergraduate studies in Zoology at the University of Jos in Nigeria, to completing a Masters and PhD in Botany at the University of Johannesburg in South Africa. During his studies, he developed a keen interest in phylogenetics, biogeography, and macroecology of plants across different ecological scales. After completing his PhD, Barnabas was awarded a prestigious postdoctoral fellowship at Harvard University, where he focused on new uses of herbarium specimens for ecology and evolutionary biology. Currently, his research primarily focuses on the role of phylogeny in understanding species distribution, conserving unique communities, and comprehending changing distributions in the Anthropocene. When not in the lab or field, Barnabas enjoys swimming and spending quality time with his wife and two young kids.</p>
+<a href="/docs/a_DaruCVApr2023.pdf" target="_blank" class="btn btn--small" style="background-color:#8C1515; color:#ffffff"><i class="fa fa-download" aria-hidden="true"></i> CV</a>
+<a href="mailto:bdaru@stanford.edu" class="btn btn--small" style="background-color:#8C1515; color:#ffffff"><i class="fa fa-envelope" aria-hidden="true"></i> Email</a>
+<a href="https://scholar.google.com/citations?user=I8fP-c4AAAAJ&hl=en" target="_blank" class="btn btn--small" style="background-color:#8C1515; color:#ffffff"><i class="fa fa-book" aria-hidden="true"></i> Google Scholar</a>
+</div>
+
+<div id="tab1" class="tabcontent">
+  <h3>Paul Markley</h3>
+  <p>Graduate Student</p>
+  <img src="/assets/images/paul.png" alt="Paul-Markley" class="img-responsive" style="float:left; padding-right:10px; border-radius:50%; width:300px; height:300px; object-fit:cover;">
+  <p style="margin-right: 50px;"><p>I joined the Daru lab in the Spring of 2021. I left the University of California-Riverside as a Highlander with a B.S. in Plant Biology and am now in Stanford University working towards a PhD in Biology. I previously worked at the USDA Salinity Lab for Dr. Elia Scudiero researching soil spatial variability in citrus orchards, and now study the biogeography of arctic flora. Broadly speaking, my research interests lie in arctic floristics, ecosystem modeling, and molecular phylogeny.
+<p></p>
+  <p>Sandhu, D.S., Pudussery, M.V., Kumar, R, Pallete, A., <strong>Markley, P.T.</strong>, Bridges, W.C., Sekhon, R.S. (2019). Characterization of natural genetic variation identifies multiple genes involved in salt tolerance in maize. <em>Functional and Integrative Genomics</em> 20: 261-275.</p>
+  </p>
+  <a href="/docs/b_MarkleyCV.pdf" target="_blank" class="btn btn--small" style="background-color:#8C1515; color:#ffffff"><i class="fa fa-download" aria-hidden="true"></i> CV</a>
+<a href="https://doi.org/10.1007/s10142-019-00707-x" target="_blank" class="btn btn--small" style="background-color:#8C1515; color:#ffffff"><i class="fa fa-book" aria-hidden="true"></i> DOI</a>
+<a href="/docs/Sandhu2020.pdf" target="_blank" class="btn btn--small" style="background-color:#8C1515; color:#ffffff"><i class="fa fa-download" aria-hidden="true"></i> PDF file</a>
+</div>
+
+<div id="tab2" class="tabcontent">
+  <h3>This could be you!</h3>
+  <img src="/assets/images/you.png" alt="Barnabas-Daru" class="img-responsive" style="float:left; padding-right:10px; border-radius:50%; width:300px; height:300px; object-fit:cover;">
+  <p style="margin-right: 50px;"><p>We’re hiring at all levels! If you are interested in PhD opportunities in the Daru lab, please fill out<a href="https://doi.org/10.1007/s10142-019-00707-x" target="_blank"><i></i> this form.</a></p>
+  </div>
+
+<div id="tab3" class="tabcontent">
+  <h3>Future lab member</h3>
+  <p>Saved for future lab member.</p>
+</div>
+
+<script>
+function openTab(evt, tabName) {
+  var i, tabcontent, tablinks;
+  tabcontent = document.getElementsByClassName("tabcontent");
+  for (i = 0; i < tabcontent.length; i++) {
+    tabcontent[i].style.display = "none";
+  }
+  tablinks = document.getElementsByClassName("tablinks");
+  for (i = 0; i < tablinks.length; i++) {
+    tablinks[i].className = tablinks[i].className.replace(" active", "");
+  }
+  document.getElementById(tabName).style.display = "block";
+  evt.currentTarget.className += " active";
+}
+
+// Add this code to set the home tab as default on page load
+window.onload = function() {
+  document.getElementsByClassName("tablinks")[0].click();
+}
+</script>
+
+{% endraw %}
