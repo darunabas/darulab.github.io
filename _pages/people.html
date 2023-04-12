@@ -16,13 +16,12 @@ tags: []
 ---
 
 {% raw %}
+
 <style>
 .tab {
   overflow: hidden;
   background-color: rgba(204, 89, 89, 0.2);
-  border: 2px solid rgba(140, 21, 21, 0.8);
-  border-radius: 10px;
-  padding: 10px;
+  border-radius: 10px 10px 0 0;
 }
 
 .tab button {
@@ -31,9 +30,15 @@ tags: []
   border: none;
   outline: none;
   cursor: pointer;
-  padding: 14px 16px;
+  padding: 10px 20px;
   transition: 0.3s;
   font-size: 17px;
+  border-top: 2px solid rgba(140, 21, 21, 0.8);
+  border-left: 2px solid rgba(140, 21, 21, 0.8);
+  border-right: 2px solid rgba(140, 21, 21, 0.8);
+  border-bottom: none;
+  border-radius: 10px 10px 0 0;
+  margin-right: 2px;
 }
 
 .tab button:hover {
@@ -50,14 +55,14 @@ tags: []
   padding: 6px 12px;
   border: 2px solid rgba(140, 21, 21, 0.8);
   border-top: none;
+  border-radius: 0 10px 10px 10px;
 }
 </style>
-
 <div class="tab">
   <button class="tablinks active" onclick="openTab(event, 'home')">Barnabas</button>
   <button class="tablinks" onclick="openTab(event, 'tab1')">Paul</button>
   <button class="tablinks" onclick="openTab(event, 'tab2')">You</button>
-  <button class="tablinks" onclick="openTab(event, 'tab3')">You</button>
+  <button class="tablinks" onclick="openTab(event, 'tab3')">Lab Alumni</button>
 </div>
 
 <div id="home" class="tabcontent" style="display:block;">
@@ -90,9 +95,56 @@ tags: []
   </div>
 
 <div id="tab3" class="tabcontent">
-  <h3>Future lab member</h3>
-  <p>Saved for future lab member.</p>
+  <h3>Former lab members</h3>
+  <div style="overflow:auto; margin-bottom:20px;">
+    <img src="/assets/images/jordan.png" alt="Jordan Rodriguez" style="float:left; padding-right:10px; width:200px;" class="img-responsive">
+    <div style="margin-left:220px;">
+        <h4>Jordan Rodriguez (Daru Lab as undergrad)</h4>
+        <p><span style="font-size:12pt;">B.S., Plant Biology, Texas A&amp;M University-Corpus Christi, 2021</span></p>
+        <p><span style="font-size:12pt;">First position after Daru Lab: Ph.D. student, University of Oregon</span></p>
+    </div>
 </div>
+<div style="overflow:auto; margin-bottom:20px;">
+    <img src="/assets/images/arras.png" alt="Arras Wiedorn" style="float:left; padding-right:10px; width:200px;" class="img-responsive">
+    <div style="margin-left:220px;">
+        <h4>Arras Wiedorn (Daru Lab as MS student)</h4>
+        <p><span style="font-size:12pt;">M.S., Biology, Texas A&amp;M University-Corpus Christi, 2021</span></p>
+        <p><span style="font-size:12pt;">B.S., Zoology, Washington State University</span></p>
+        <p><span style="font-size:12pt;">First position after Daru Lab: Texas State Aquarium</span></p>
+    </div>
+</div>
+<div style="overflow:auto;">
+    <img src="/assets/images/lauren.png" alt="Lauren Snyder" style="float:left; padding-right:10px; width:200px;" class="img-responsive">
+    <div style="margin-left:220px;">
+        <h4>Lauren Snyder (Daru Lab as Herbarium Student Worker)</h4>
+        <p><span style="font-size:12pt;">B.S., Biology, Texas A&amp;M University-Corpus Christi, 2021</span></p>
+        <p><span style="font-size:12pt;">First position after Daru Lab: Assistant monitoring invasive species, USDA, Houston, TX</span></p>
+        <p><a href="/docs/i_laurenCV.pdf" target="_blank" style="text-decoration:underline; font-size:12pt;">CV</a></p>
+    </div>
+</div>
+<div>
+<div style="overflow:auto;">
+    <img src="/assets/images/brianna.png" alt="Brianna Rock" style="float:left; padding-right:10px; width:200px;" class="img-responsive">
+    <div style="margin-left:220px;">
+        <h4>Brianna Rock (Daru Lab as MS student)</h4>
+        <p><span style="font-size:12pt;">M.S., Marine Biology, Texas A&amp;M University-Corpus Christi, 2020</span></p>
+        <p><span style="font-size:12pt;">B.S., Biology, University of Charleston-Charleston, West Virginia, 2019</span></p>
+        <p><span style="font-size:12pt;">First position after Daru Lab: Associate Aquarist, SeaWorld Parks &amp; Entertainment, Orlando, Florida</span></p>
+    </div>
+</div>
+<div>
+<div style="overflow:auto;">
+    <img src="/assets/images/piyal.png" alt="Piyal Karunarathne" style="float:left; padding-right:10px; width:200px;" class="img-responsive">
+    <div style="margin-left:220px;">
+        <h4>Piyal Karunarathne, Ph.D. (Daru Lab as Postdoc)</h4>
+        <p><span style="font-size:12pt;">Ph.D., Evolutionary Biology, University of Göttingen, Germany, 2019</span></p>
+        <p><span style="font-size:12pt;">M.Phil., Plant Biology, University of Peradeniya, Sri Lanka, 2014</span></p>
+        <p><span style="font-size:12pt;">B.Sc.(Hons.), Biology, University of Peradeniya, Sri Lanka, 2010</span></p>
+        <p><span style="font-size:12pt;">First position after Daru Lab: Postdoc, Uppsala University, Sweden</span></p>
+        <p><a href="https://orcid.org/0000-0002-1934-145X" target="_blank"><span style="text-decoration: underline; font-size:12pt">ORCID</span></a></p>
+    </div>
+</div>
+<div>
 
 <script>
 function openTab(evt, tabName) {
