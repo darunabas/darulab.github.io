@@ -42,11 +42,10 @@ tags: []
 41- **Daru, B.H.** (2021) Migratory birds aid the redistribution of plants to new climates. **_Nature_** 595: 34-36.<br>
   [<i class="fa fa-book" aria-hidden="true"></i> DOI](https://doi.org/10.1038/d41586-021-01547-1){: .btn .btn--small .btn--success style="background-color:#8C1515; color:#ffffff"}{:target="_blank"}
   [<i class="fa fa-download" aria-hidden="true"></i> PDF file]({{ site.baseurl}}/docs/42_Daru2021_NATURE.pdf){: .btn .btn--small .btn--primary style="background-color:#8C1515; color:#ffffff"}{:target="_blank"}
-  [Commentary](https://doi.org/10.1038/d41586-021-01547-1){: .btn .btn--small .btn--info}{:target="_blank"}
   
 40- **Daru, B.H.** (2021) Exploring a new way to think about climate regions. **_eLife_** 10: e67422.<br>
   [<i class="fa fa-book" aria-hidden="true"></i> DOI](https://doi.org/10.7554/eLife.67422){: .btn .btn--small .btn--success style="background-color:#8C1515; color:#ffffff"}{:target="_blank"}
-  [<i class="fa fa-download" aria-hidden="true"></i> PDF file]({{ site.baseurl}}/docs/40_Daru2021_eLife.pdf){: .btn .btn--small .btn--primary style="background-color:#8C1515; color:#ffffff"}{:target="_blank"} [Commentary](https://doi.org/10.7554/eLife.67422){: .btn .btn--small .btn--info}{:target="_blank"}
+  [<i class="fa fa-download" aria-hidden="true"></i> PDF file]({{ site.baseurl}}/docs/40_Daru2021_eLife.pdf){: .btn .btn--small .btn--primary style="background-color:#8C1515; color:#ffffff"}{:target="_blank"}
 
 ## 2020
 
