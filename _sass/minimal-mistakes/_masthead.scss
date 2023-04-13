@@ -20,7 +20,7 @@
     @include clearfix;
     margin-left: auto;
     margin-right: auto;
-    padding: 1em;
+    padding: -10em;
     max-width: 100%;
     display: -webkit-box;
     display: -ms-flexbox;
@@ -28,7 +28,8 @@
     -webkit-box-pack: justify;
     -ms-flex-pack: justify;
     justify-content: space-between;
-    font-family: $sans-serif-narrow;
+    font-family: "Helvetica Neue", Arial; /* Use a sans-serif font */
+    /*font-variant: small-caps; /* Convert all lowercase letters to small caps */
 
     @include breakpoint($x-large) {
       max-width: $max-width;
@@ -55,6 +56,7 @@
   justify-content: center;
   font-weight: bold;
   text-align: center;
+  font-size: 1.5rem;
 
   span:first-child {
     font-size: 3rem;
