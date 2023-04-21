@@ -13,7 +13,7 @@
 # you will see them accessed via {{ site.title }}, {{ site.email }}, and so on.
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
-title: "D a r u&nbsp;&nbsp;L a b<br>Stanford University"
+title: "D a r u&nbsp;&nbsp;L a b <br>Stanford University"
 repository: darunabas/darunabas.github.io
 email:
 description:
