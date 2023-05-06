@@ -1,0 +1,280 @@
+---
+layout: single
+title: We love communicating our research
+date:
+type: page
+classes: wide
+published: true
+permalink: /media/
+status: publish
+header:
+  overlay_image: /assets/images/newspaper.jpeg
+  overlay_filter: 0.5
+excerpt: ""
+categories: []
+tags: [] 
+---
+
+{% raw %}
+
+<style>
+.tab {
+  overflow: hidden;
+  background-color: rgba(204, 89, 89, 0.2);
+  border-radius: 10px 10px 0 0;
+}
+
+.tab button {
+  background-color: inherit;
+  float: left;
+  border: none;
+  outline: none;
+  cursor: pointer;
+  padding: 10px 20px;
+  transition: 0.3s;
+  font-size: 17px;
+  border-top: 2px solid rgba(140, 21, 21, 0.8);
+  border-left: 2px solid rgba(140, 21, 21, 0.8);
+  border-right: 2px solid rgba(140, 21, 21, 0.8);
+  border-bottom: none;
+  border-radius: 10px 10px 0 0;
+  margin-right: 2px;
+}
+
+.tab button:hover {
+  background-color: rgba(140, 21, 21, 0.8);
+}
+
+.tab button.active {
+  background-color: rgba(140, 21, 21, 0.8);
+  color: #fff;
+}
+
+.tabcontent {
+  display: none;
+  padding: 6px 12px;
+  border: 2px solid rgba(140, 21, 21, 0.8);
+  border-top: none;
+  border-radius: 0 10px 10px 10px;
+}
+.tabcontent img {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+.tabcontent h3 {
+  text-align: left;
+}
+
+.tabcontent h4 {
+  text-align: left;
+}
+
+.tabcontent h6 {
+  text-align: left;
+  margin-top: 10px;
+}
+
+.tabcontent p {
+  text-align: left;
+}
+
+.tabcontent a {
+  color: blue;
+  text-decoration: none;
+}
+
+.tabcontent a:hover {
+  text-decoration: underline;
+}
+
+.tabcontent .date {
+  font-size: 10pt;
+  text-align: left;
+  margin-top: 5px;
+}
+
+.tabcontent .article {
+  width: 250px;
+  margin: 10px;
+}
+
+@media screen and (max-width: 800px) {
+  .tabcontent .article {
+    width: 100%;
+  }
+}
+<style>
+  .tabcontent {
+    display: none;
+  }
+
+  .active {
+    background-color: #ccc;
+  }
+</style>
+<div class="tab">
+  <button class="tablinks active" onclick="openTab(event, 'home')">News Articles</button>
+  <button class="tablinks" onclick="openTab(event, 'tab1')">Videos</button>
+  <button class="tablinks" onclick="openTab(event, 'tab2')">Podcast</button>
+  <button class="tablinks" onclick="openTab(event, 'tab3')">Radio</button>
+</div>
+<div id="home" class="tabcontent" style="display:block;">
+  <h3>NEWS ARTICLES</h3>
+  <div style="display:flex; flex-wrap:wrap; justify-content:center;">
+    <div style="width:250px; margin:10px;">
+      <div class="date">May 1, 2023</div>
+      <h3>Stanford | News</h3>
+        <img src="https://news.stanford.edu/wp-content/uploads/2023/05/National_Museum_of_Natural_History_Washington_D.C._2013_-_09-705x470.jpg" alt="Guardian" style="width:250px; height:250px; object-fit:cover;" class="img-responsive">
+        <div>
+            <h6><a href="https://news.stanford.edu/2023/05/01/study-examines-biases-coverage-gaps-biodiversity-data/" style="text-decoration:none; color:inherit;" target="_blank">Study examines biases and coverage gaps in biodiversity data</a></h6>
+            <p style="font-size:12pt;">Natural history collections of plants, animals, and other organisms are becoming a thing of the past with the rise of biodiversity apps and digital tools ... <a href="https://news.stanford.edu/2023/05/01/study-examines-biases-coverage-gaps-biodiversity-data/" target="_blank">[read more]</a></p>
+        </div>
+    </div>
+    <div style="width:250px; margin:10px;">
+      <div class="date">March 10, 2022</div>
+      <h3>The Guardian</h3>
+        <img src="https://i.guim.co.uk/img/media/339ae5a34bd9dc226252985d36f97a0ccad98da0/0_29_2048_1229/master/2048.jpg?width=620&quality=45&dpr=2&s=none" alt="Guardian" style="width:250px; height:250px; object-fit:cover;" class="img-responsive">
+        <div>
+            <h6><a href="https://www.theguardian.com/environment/2022/mar/10/plants-humans-dont-need-extinction-biodiversity-study" style="text-decoration:none; color:inherit;" target="_blank">Plants humans don’t need are heading for extinction, study finds</a></h6>
+            <p style="font-size:12pt;">Bleak picture for biodiversity as analysis of over 80,000 species forecasts more losers than winners ... <a href="https://www.theguardian.com/environment/2022/mar/10/plants-humans-dont-need-extinction-biodiversity-study" target="_blank">[read more]</a></p>
+        </div>
+    </div>
+    <div style="width:250px; margin:10px;">
+      <div class="date">February 2, 2022</div>
+      <h4>TEXAS STANDARD</h5>
+        <img src="https://www.texasstandard.org/wp-content/uploads/2022/02/1024px-Tree_of_heaven_Ailanthus_altissima_15632767210.jpg" alt="Guardian" style="width:250px; height:250px; object-fit:cover;" class="img-responsive">
+        <div>
+            <h6><a href="https://www.texasstandard.org/stories/study-shows-plant-diversity-declining-due-to-invasive-species-success/" style="text-decoration:none; color:inherit;" target="_blank">Study shows plant diversity declining due to invasive species’ success</a></h6>
+            <p style="font-size:12pt;">Globalization means it’s easier than ever before for plants to move outside their native habitat ... <a href="https://www.texasstandard.org/stories/study-shows-plant-diversity-declining-due-to-invasive-species-success/" target="_blank">[read more]</a></p>
+        </div>
+    </div>
+    <div style="width:250px; margin:10px;">
+      <div class="date">December 6, 2021</div>
+      <h4>EurekAlert</h5>
+        <img src="https://earimediaprodweb.azurewebsites.net/Api/v1/Multimedia/35adcec2-f165-45ed-8cbd-5d5f04d5460b/Rendition/low-res/Content/Public" alt="EurekAlert" style="width:250px; height:250px; object-fit:cover;" class="img-responsive">
+        <div>
+            <h6><a href="https://www.eurekalert.org/news-releases/936979" style="text-decoration:none; color:inherit;" target="_blank">Global database of plants reveals human activity biggest driver of homogenization of plant communities</a></h6>
+            <p style="font-size:12pt;">Species extinction, the introduction of non-native plants, climate change, and pollution are all major drivers of changes in biological communities due to human activity ... <a href="https://www.eurekalert.org/news-releases/936979" target="_blank">[read more]</a></p>
+        </div>
+    </div>
+    <div style="width:250px; margin:10px;">
+      <div class="date">December 22, 2017</div>
+      <h4>Harvard Gazette</h5>
+        <img src="https://news.harvard.edu/wp-content/uploads/2017/12/120617_herbarium_067_2500-1-2048x1366.jpg" alt="EurekAlert" style="width:250px; height:250px; object-fit:cover;" class="img-responsive">
+        <div>
+            <h6><a href="https://news.harvard.edu/gazette/story/2017/12/harvard-study-illuminates-botanical-bias/" style="text-decoration:none; color:inherit;" target="_blank">Study uncovers botanical bias</a></h6>
+            <p style="font-size:12pt;">Findings seen as a wrinkle for researchers who rely on herbarium collections in climate change work ... <a href="https://news.harvard.edu/gazette/story/2017/12/harvard-study-illuminates-botanical-bias/" target="_blank">[read more]</a></p>
+        </div>
+    </div>
+  <div style="width:250px; margin:10px;">
+      <div class="date">May 11, 2017</div>
+      <h4>WOODZ</h5>
+        <img src="https://www.woodz.co/wp-content/uploads/2015/10/Upland_South_Africa_Savanna-e1445082315270.jpg" alt="EurekAlert" style="width:250px; height:250px; object-fit:cover;" class="img-responsive">
+        <div>
+            <h6><a href="https://www.woodz.co/journal/science-why-some-trees-evolved-to-live-underground/" style="text-decoration:none; color:inherit;" target="_blank">Why Some Trees Evolved to Live Underground</a></h6>
+            <p style="font-size:12pt;">With the exception of wildlife film makers, arboriculturalists and a few scientists, most of us don’t spend much time in the leafy upper reaches of tree canopies. But in the underground forests beneath the savannahs of southern Africa ... <a href="https://www.woodz.co/journal/science-why-some-trees-evolved-to-live-underground/" target="_blank">[read more]</a></p>
+        </div>
+    </div>
+ <div style="width:250px; margin:10px;">
+      <div class="date">September 15, 2016</div>
+      <h4>Harvard Gazette</h5>
+        <img src="https://news.harvard.edu/wp-content/uploads/2016/09/seagrass605.jpg" alt="EurekAlert" style="width:250px; height:250px; object-fit:cover;" class="img-responsive">
+        <div>
+            <h6><a href="https://news.harvard.edu/gazette/story/2016/09/strong-case-for-seagrass-in-biodiversity-analysis/" style="text-decoration:none; color:inherit;" target="_blank">Strong case for seagrass</a></h6>
+            <p style="font-size:12pt;">Researcher behind biodiversity analysis cites key role in food chain ... <a href="https://news.harvard.edu/gazette/story/2016/09/strong-case-for-seagrass-in-biodiversity-analysis/" target="_blank">[read more]</a></p>
+        </div>
+    </div>
+  <div style="width:250px; margin:10px;">
+      <div class="date">September 6, 2016</div>
+      <h4>ScienceDaily</h5>
+        <img src="https://scx1.b-cdn.net/csz/news/800a/2016/57cea64edc203.jpg" alt="EurekAlert" style="width:250px; height:250px; object-fit:cover;" class="img-responsive">
+        <div>
+            <h6><a href="https://www.sciencedaily.com/releases/2016/09/160906103156.htm" style="text-decoration:none; color:inherit;" target="_blank">Browsing antelope turned ancient African forests into grassy savanna ecosystems</a></h6>
+            <p style="font-size:12pt;">Millions of years ago, Africa's savannas were covered with thick, ancient forests, which disappeared and turned into the grassy ecosystems that they are today ... <a href="https://www.sciencedaily.com/releases/2016/09/160906103156.htm" target="_blank">[read more]</a></p>
+        </div>
+    </div>
+  </div>
+</div>
+<div id="tab1" class="tabcontent">
+  <h3>VIDEOS</h3>
+  <div style="display:flex; flex-wrap:wrap; justify-content:center;">
+    <div style="width:250px; margin:10px;">
+      <div class="date">April 27, 2023</div>
+      <h4>Stanford University</h5>
+        <iframe src="https://www.youtube.com/embed/fftx0bkBxYQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen style="width:250px; height:150px; object-fit:cover;"></iframe>
+        <div>
+            <h6><a href="https://www.youtube.com/embed/fftx0bkBxYQ" style="text-decoration:none; color:inherit;" target="_blank">Biases in biodiversity data</a></h6>
+            </div>
+    </div>
+    <div style="width:250px; margin:10px;">
+      <div class="date">October 26, 2018</div>
+      <h4>Texas A&M University-Corpus Christi</h5>
+        <iframe src="https://www.youtube.com/embed/-_pj1CsIcMo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen style="width:250px; height:150px; object-fit:cover;"></iframe>
+        <div>
+            <h6><a href="https://www.youtube.com/embed/-_pj1CsIcMo" style="text-decoration:none; color:inherit;" target="_blank">Turning Herbarium Specimens into big Data</a></h6>
+            </div>
+    </div>
+    <div style="width:250px; margin:10px;">
+      <div class="date">October 26, 2018</div>
+      <h4>University of Johannesburg</h5>
+        <iframe src="https://www.youtube.com/embed/li9iJv5P47M" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen style="width:250px; height:150px; object-fit:cover;"></iframe>
+        <div>
+            <h6><a href="https://www.youtube.com/embed/li9iJv5P47M" style="text-decoration:none; color:inherit;" target="_blank">3 Minute Thesis Competition</a></h6>
+            </div>
+    </div>
+    <div style="width:250px; margin:10px;">
+      <div class="date">January 13, 2017</div>
+      <h4>WGBH Forum Network Boston</h5>
+        <iframe src="https://www.youtube.com/embed/BV_iqJ-TPYI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen style="width:250px; height:150px; object-fit:cover;"></iframe>
+        <div>
+            <h6><a href="https://forum-network.org/lectures/vital-role-seagrasses-marine-ecosystems/" style="text-decoration:none; color:inherit;" target="_blank">The Vital Role of Seagrasses in Marine Ecosystems</a></h6>
+            </div>
+    </div>
+  </div>
+</div>
+<div id="tab2" class="tabcontent">
+  <h3>PODCAST</h3>
+  <div style="display:flex; flex-wrap:wrap; justify-content:center;">
+    <div style="width:250px; margin:10px;">
+      <div class="date">February 2, 2022</div>
+      <h4>Texas Standard</h5>
+      <audio src="/media/daru_KUT_2022.mp3" style="object-fit:cover;"controls></audio>
+            </div>
+    </div>
+  </div>
+</div>
+<div id="tab3" class="tabcontent">
+  <h3>RADIO</h3>
+  <div style="display:flex; flex-wrap:wrap; justify-content:center;">
+    <div style="width:250px; margin:10px;">
+      <div class="date">February 2, 2022</div>
+      <h4>Texas Standard</h5>
+      <audio src="/media/daru_KUT_2022.mp3" style="object-fit:cover;"controls></audio>
+            </div>
+    </div>
+  </div>
+</div>
+<script>
+function openTab(evt, tabName) {
+  var i, tabcontent, tablinks;
+  tabcontent = document.getElementsByClassName("tabcontent");
+  for (i = 0; i < tabcontent.length; i++) {
+    tabcontent[i].style.display = "none";
+  }
+  tablinks = document.getElementsByClassName("tablinks");
+  for (i = 0; i < tablinks.length; i++) {
+    tablinks[i].className = tablinks[i].className.replace(" active", "");
+  }
+  document.getElementById(tabName).style.display = "block";
+  evt.currentTarget.className += " active";
+}
+
+// Add this code to set the home tab as default on page load
+window.onload = function() {
+  document.getElementsByClassName("tablinks")[0].click();
+}
+</script>
+
+{% endraw %}

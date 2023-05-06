@@ -12,8 +12,8 @@ main:
   - title: "People"
     url: /people/
 
-  - title: "Apply"
-    url: /apply/
+  - title: "Media"
+    url: /media/
     
   - title: "Contact"
     url: /contact/

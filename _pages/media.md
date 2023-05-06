@@ -4,7 +4,7 @@ title: "We love communicating our research"
 date: null
 type: page
 classes: wide
-published: true
+published: false
 status: publish
 header:
   overlay_image: /assets/images/newspaper.jpeg
