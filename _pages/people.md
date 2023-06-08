@@ -22,8 +22,8 @@ toc_icon: "cog"
 ![Barnabas-Daru](/assets/images/barnabas.png){:class="img-responsive"}{:width="300px"}{: style="float: left; padding-right:10px"}
 <br>**Barnabas H. Daru, Ph.D.**<br>
 **Assistant Professor**<br>
-<br>[<span style="text-decoration: underline; font-size:13pt">Bio</span>]({% link _pages/about_barnabas.md %}) / [<span style="text-decoration: underline; font-size:13pt">CV</span>](/docs/a_DaruCVSep2022.pdf){:target="_blank"}<br>
-[<span style="text-decoration: underline; font-size:13pt">Email</span>](mailto:barnabas.daru@tamucc.edu){:target="_blank"}<br>
+<br>[<span style="text-decoration: underline; font-size:13pt">Bio</span>]({% link _pages/about_barnabas.md %}) / [<span style="text-decoration: underline; font-size:13pt">CV</span>](/docs/a_DaruCVJune2023.pdf){:target="_blank"}<br>
+[<span style="text-decoration: underline; font-size:13pt">Email</span>](mailto:bdaru@stanford.edu){:target="_blank"}<br>
 <span style="font-size:13pt;">Phone: +1 upon request </span><br>
 
 <br clear="left"/>

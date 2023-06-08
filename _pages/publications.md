@@ -16,9 +16,9 @@ tags: []
 ---
 ## 2023
 
-46- **Daru, B.H.** & Rodriguez, J. (2023) Mass production of unvouchered records fails to represent global biodiversity patterns. **_Nature Ecology & Evolution_** [doi: 10.1038/s41559-023-02047-3](https://doi.org/10.1038/s41559-023-02047-3){:target="_blank"}.<br>
+46- **Daru, B.H.** & Rodriguez, J. (2023) Mass production of unvouchered records fails to represent global biodiversity patterns. **_Nature Ecology & Evolution_** 7: 816–831.<br>
   [<i class="fa fa-book" aria-hidden="true"></i> DOI](https://doi.org/10.1038/s41559-023-02047-3){: .btn .btn--small .btn--success style="background-color:#8C1515; color:#ffffff"}{:target="_blank"}
-  [<i class="fa fa-download" aria-hidden="true"></i> PDF file]({{ site.baseurl}}/docs/46_Daru2023_NatEcolEvol.pdf){: .btn .btn--small .btn--primary style="background-color:#8C1515; color:#ffffff"}{:target="_blank"}
+  [<i class="fa fa-download" aria-hidden="true"></i> PDF file]({{ site.baseurl}}/docs/46_Daru_Rodriguez_2023_NatEcolEvol.pdf){: .btn .btn--small .btn--primary style="background-color:#8C1515; color:#ffffff"}{:target="_blank"}
 
 ## 2022
 
