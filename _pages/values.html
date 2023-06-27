@@ -26,7 +26,7 @@ tags: []
   <h2>Email Response Time</h2>
   <p>I may send emails during weekends or odd hours, but please respond during regular working hours unless marked as "URGENT" for immediate attention. Occasionally, I'll share interesting information.</p>
   <h2>Lab Meetings</h2>
-  <p>During lab meetings, prepare a few minutes introduction/update on your project, including a few bullet points. You can also discuss interesting papers related to your project, even if the data is not publication ready. We encourage the sharing of raw data and logical discussions.</p>
+  <p>Our lab meetings are Wednesday at 11am. During lab meetings, prepare a few minutes introduction/update on your project, including a few bullet points. You can also discuss interesting papers related to your project, even if the data is not publication ready. We encourage the sharing of raw data and logical discussions.</p>
   <h2>Data/Lab Management, Open Science, and Data Sharing</h2>
   <p>We prioritize careful documentation of field, lab, and code in the Daru Lab. Open and FAIR data sharing is promoted for biodiversity science and conservation. We adhere to data licensing, attribution, and acknowledgment practices. Our research papers encourage transparency, and we credit and link back to original data sources. We contribute to biodiversity data standards and create digital tools for data sharing. Our software, computational tools, and analytic code are open source and accessible to ensure reproducibility.</p>
   <h2>Commitment as Mentee (postdoc, PhD student, intern)</h2>
@@ -62,11 +62,18 @@ tags: []
   </ol>
   <p><em>Note: These responsibilities are subject to university policies and norms.</em></p>
   <script>
-    document.addEventListener('DOMContentLoaded', function() {
-      var dateElement = document.getElementById('last-updated');
-      var options = { year: 'numeric', month: 'long', day: 'numeric' };
-      var currentDate = new Date().toLocaleDateString(undefined, options);
+  document.addEventListener('DOMContentLoaded', function() {
+    var dateElement = document.getElementById('last-updated');
+    var options = { year: 'numeric', month: 'long', day: 'numeric' };
+    var currentDate = new Date().toLocaleDateString(undefined, options);
+
+    var existingDate = dateElement.textContent.trim();
+
+    if (currentDate !== existingDate) {
       dateElement.textContent = currentDate;
-    });
+      dateElement.style.color = "#8c1515cc"; // Hex code for rgba(140, 21, 21, 0.8)
+    }
+  });
 </script>
-  <p><em>Last Updated: <span id="last-updated"></span></em></p>
+
+<p><em>Last Updated: <span id="last-updated"></span></em></p>
