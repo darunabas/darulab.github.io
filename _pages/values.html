@@ -67,11 +67,12 @@ tags: []
     var options = { year: 'numeric', month: 'long', day: 'numeric' };
     var currentDate = new Date().toLocaleDateString(undefined, options);
 
-    var existingDate = dateElement.textContent.trim();
+    var existingDate = localStorage.getItem('lastUpdatedDate');
 
     if (currentDate !== existingDate) {
       dateElement.textContent = currentDate;
       dateElement.style.color = "#8c1515cc"; // Hex code for rgba(140, 21, 21, 0.8)
+      localStorage.setItem('lastUpdatedDate', currentDate);
     }
   });
 </script>
