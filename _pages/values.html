@@ -61,20 +61,5 @@ tags: []
     <li>Serve as an academic advisor and professional mentor during and after the PhD program, postdoctoral fellowship, or internship.</li>
   </ol>
   <p><em>Note: These responsibilities are subject to university policies and norms.</em></p>
-  <script>
-  document.addEventListener('DOMContentLoaded', function() {
-    var dateElement = document.getElementById('last-updated');
-    var options = { year: 'numeric', month: 'long', day: 'numeric' };
-    var currentDate = new Date().toLocaleDateString(undefined, options);
 
-    var existingDate = localStorage.getItem('lastUpdatedDate');
-
-    if (currentDate !== existingDate) {
-      dateElement.textContent = currentDate;
-      dateElement.style.color = "#8c1515cc"; // Hex code for rgba(140, 21, 21, 0.8)
-      localStorage.setItem('lastUpdatedDate', currentDate);
-    }
-  });
-</script>
-
-<p><em>Last Updated: <span id="last-updated"></span></em></p>
+<p><em>Last Updated: <span style="color:#8c1515;">June 29, 2023</span></em></p>
