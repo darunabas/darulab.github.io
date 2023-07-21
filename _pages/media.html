@@ -18,269 +18,378 @@ tags: []
 {% raw %}
 
 <style>
-.tab {
-  overflow: hidden;
-  background-color: rgba(204, 89, 89, 0.2);
-  border-radius: 10px 10px 0 0;
-}
-
-.tab button {
-  background-color: inherit;
-  float: left;
-  border: none;
-  outline: none;
-  cursor: pointer;
-  padding: 10px 20px;
-  transition: 0.3s;
-  font-size: 17px;
-  border-top: 2px solid rgba(140, 21, 21, 0.8);
-  border-left: 2px solid rgba(140, 21, 21, 0.8);
-  border-right: 2px solid rgba(140, 21, 21, 0.8);
-  border-bottom: none;
-  border-radius: 10px 10px 0 0;
-  margin-right: 2px;
-}
-
-.tab button:hover {
-  background-color: rgba(140, 21, 21, 0.8);
-}
-
-.tab button.active {
-  background-color: rgba(140, 21, 21, 0.8);
-  color: #fff;
-}
-
-.tabcontent {
-  display: none;
-  padding: 6px 12px;
-  border: 2px solid rgba(140, 21, 21, 0.8);
-  border-top: none;
-  border-radius: 0 10px 10px 10px;
-}
-.tabcontent img {
-  display: block;
-  margin-left: auto;
-  margin-right: auto;
-}
-
-.tabcontent h3 {
-  text-align: left;
-}
-
-.tabcontent h4 {
-  text-align: left;
-}
-
-.tabcontent h6 {
-  text-align: left;
-  margin-top: 10px;
-}
-
-.tabcontent p {
-  text-align: left;
-}
-
-.tabcontent a {
-  color: blue;
-  text-decoration: none;
-}
-
-.tabcontent a:hover {
-  text-decoration: underline;
-}
-
-.tabcontent .date {
-  font-size: 10pt;
-  text-align: left;
-  margin-top: 5px;
-}
-
-.tabcontent .article {
-  width: 250px;
-  margin: 10px;
-}
-
-@media screen and (max-width: 800px) {
-  .tabcontent .article {
-    width: 100%;
+  .tab {
+    overflow: hidden;
+    background-color: rgba(204, 89, 89, 0.2);
+    border-radius: 10px 10px 0 0;
   }
-}
-<style>
+
+  .tab button {
+    background-color: inherit;
+    float: left;
+    border: none;
+    outline: none;
+    cursor: pointer;
+    padding: 10px 20px;
+    transition: 0.3s;
+    font-size: 17px;
+    border-top: 2px solid rgba(140, 21, 21, 0.8);
+    border-left: 2px solid rgba(140, 21, 21, 0.8);
+    border-right: 2px solid rgba(140, 21, 21, 0.8);
+    border-bottom: none;
+    border-radius: 10px 10px 0 0;
+    margin-right: 2px;
+  }
+
+  .tab button:hover {
+    background-color: rgba(140, 21, 21, 0.8);
+  }
+
+  .tab button.active {
+    background-color: rgba(140, 21, 21, 0.8);
+    color: #fff;
+  }
+
   .tabcontent {
     display: none;
+    padding: 6px 12px;
+    border: 2px solid rgba(140, 21, 21, 0.8);
+    border-top: none;
+    border-radius: 0 10px 10px 10px;
   }
 
-  .active {
-    background-color: #ccc;
+  .tabcontent img {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+  }
+
+  .tabcontent h3,
+  .tabcontent h4,
+  .tabcontent h6,
+  .tabcontent p {
+    text-align: left;
+  }
+
+  .tabcontent a {
+    color: blue;
+    text-decoration: none;
+  }
+
+  .tabcontent a:hover {
+    text-decoration: underline;
+  }
+
+  .tabcontent .date {
+    font-size: 10pt;
+    text-align: left;
+    margin-top: 5px;
+  }
+
+  .gallery-container {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+  }
+
+  .album {
+    border: 1px solid #ccc;
+    padding: 10px;
+    width: calc(50% - 12px); /* Adjust width based on your preference */
+  }
+
+  .thumbnail-item,
+  .collage-item {
+    width: 250px;
+    margin: 5px; /* Adjust the margin to reduce the gap between images */
+    flex: 1 0 20%; /* Adjust the width as needed, 20% means five images in a row */
+    max-width: 100%;
+    height: auto;
+    box-sizing: border-box;
+    cursor: pointer;
+  }
+
+  .thumbnail-img,
+  .collage-item img {
+    width: 100%;
+    height: auto;
+    border-radius: 5px;
+    cursor: pointer;
+    transition: transform 0.2s ease;
+  }
+
+  .thumbnail-img:hover,
+  .collage-item:hover img {
+    transform: scale(1.1);
+  }
+
+  .lightbox {
+    display: none;
+    position: fixed;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    background-color: rgba(0, 0, 0, 0.7);
+    justify-content: center;
+    align-items: center;
+  }
+
+  .lightbox-image {
+    max-width: 90%;
+    max-height: 90%;
+  }
+
+  .lightbox-nav {
+    position: absolute;
+    top: 50%;
+    transform: translateY(-50%);
+    width: 100%;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+  }
+
+  .album-title {
+    font-size: 20px;
+    font-weight: bold;
+    margin-bottom: 10px;
+  }
+
+  .album-container {
+    margin-bottom: 30px;
+  }
+
+  .album-images {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 10px;
+  }
+
+  @media screen and (max-width: 800px) {
+    .thumbnail-item,
+    .collage-item {
+      width: 100%;
+    }
   }
 </style>
+
 <div class="tab">
   <button class="tablinks active" onclick="openTab(event, 'home')">News Articles</button>
-  <button class="tablinks" onclick="openTab(event, 'tab1')">Videos</button>
-  <button class="tablinks" onclick="openTab(event, 'tab2')">Podcast</button>
-  <button class="tablinks" onclick="openTab(event, 'tab3')">Radio</button>
+  <button class="tablinks" onclick="openTab(event, 'tab1')">Photos</button>
+  <button class="tablinks" onclick="openTab(event, 'tab2')">Videos</button>
+  <button class="tablinks" onclick="openTab(event, 'tab3')">Podcast</button>
+  <button class="tablinks" onclick="openTab(event, 'tab4')">Radio</button>
 </div>
 <div id="home" class="tabcontent" style="display:block;">
-  <h3>NEWS ARTICLES</h3>
-  <div style="display:flex; flex-wrap:wrap; justify-content:center;">
-    <div style="width:250px; margin:10px;">
-      <div class="date" style="margin-bottom: 5px; color: #8C1515;">June 20, 2023</div>
-      <h3 style="margin-top: 0;">Stanford | News</h3>
-        <img src="https://news.stanford.edu/wp-content/uploads/2023/06/Green_Sea_Turtle_grazing_seagrass.jpg" alt="Turtle" style="width:250px; height:250px; object-fit:cover;" class="img-responsive">
-        <div>
-            <h6><a href="https://news.stanford.edu/2023/06/20/study-explores-climate-change-impacts-seagrass-meadows/" style="text-decoration:none; color:inherit;" target="_blank">Seagrasses could suffer range and species loss in future new model predicts</a></h6>
-            <p style="font-size:12pt;">Climate change is expected to deal a heavy blow to marine species ... <a href="https://news.stanford.edu/2023/06/20/study-explores-climate-change-impacts-seagrass-meadows/" target="_blank">[read more]</a></p>
-        </div>
-    </div>
-    <div style="width:250px; margin:10px;">
-      <div class="date" style="margin-bottom: 5px; color: #8C1515;">May 1, 2023</div>
-      <h3 style="margin-top: 0;">Stanford | News</h3>
-        <img src="https://news.stanford.edu/wp-content/uploads/2023/05/National_Museum_of_Natural_History_Washington_D.C._2013_-_09-705x470.jpg" alt="Guardian" style="width:250px; height:250px; object-fit:cover;" class="img-responsive">
-        <div>
-            <h6><a href="https://news.stanford.edu/2023/05/01/study-examines-biases-coverage-gaps-biodiversity-data/" style="text-decoration:none; color:inherit;" target="_blank">Study examines biases and coverage gaps in biodiversity data</a></h6>
-            <p style="font-size:12pt;">Natural history collections of plants, animals, and other organisms are becoming a thing of the past with the rise of biodiversity apps and digital tools ... <a href="https://news.stanford.edu/2023/05/01/study-examines-biases-coverage-gaps-biodiversity-data/" target="_blank">[read more]</a></p>
-        </div>
-    </div>
-    <div style="width:250px; margin:10px;">
-      <div class="date" style="margin-bottom: 5px; color: #8C1515;">March 10, 2022</div>
-      <h3 style="margin-top: 0;">The Guardian</h3>
-        <img src="https://i.guim.co.uk/img/media/339ae5a34bd9dc226252985d36f97a0ccad98da0/0_29_2048_1229/master/2048.jpg?width=620&quality=45&dpr=2&s=none" alt="Guardian" style="width:250px; height:250px; object-fit:cover;" class="img-responsive">
-        <div>
-            <h6><a href="https://www.theguardian.com/environment/2022/mar/10/plants-humans-dont-need-extinction-biodiversity-study" style="text-decoration:none; color:inherit;" target="_blank">Plants humans don’t need are heading for extinction, study finds</a></h6>
-            <p style="font-size:12pt;">Bleak picture for biodiversity as analysis of over 80,000 species forecasts more losers than winners ... <a href="https://www.theguardian.com/environment/2022/mar/10/plants-humans-dont-need-extinction-biodiversity-study" target="_blank">[read more]</a></p>
-        </div>
-    </div>
-    <div style="width:250px; margin:10px;">
-      <div class="date" style="margin-bottom: 5px; color: #8C1515;">February 2, 2022</div>
-      <h3 style="margin-top: 0;">TEXAS STANDARD</h3>
-        <img src="https://www.texasstandard.org/wp-content/uploads/2022/02/1024px-Tree_of_heaven_Ailanthus_altissima_15632767210.jpg" alt="Guardian" style="width:250px; height:250px; object-fit:cover;" class="img-responsive">
-        <div>
-            <h6><a href="https://www.texasstandard.org/stories/study-shows-plant-diversity-declining-due-to-invasive-species-success/" style="text-decoration:none; color:inherit;" target="_blank">Study shows plant diversity declining due to invasive species’ success</a></h6>
-            <p style="font-size:12pt;">Globalization means it’s easier than ever before for plants to move outside their native habitat ... <a href="https://www.texasstandard.org/stories/study-shows-plant-diversity-declining-due-to-invasive-species-success/" target="_blank">[read more]</a></p>
-        </div>
-    </div>
-    <div style="width:250px; margin:10px;">
-      <div class="date" style="margin-bottom: 5px; color: #8C1515;">December 6, 2021</div>
-      <h3 style="margin-top: 0;">EurekAlert</h3>
-        <img src="https://earimediaprodweb.azurewebsites.net/Api/v1/Multimedia/35adcec2-f165-45ed-8cbd-5d5f04d5460b/Rendition/low-res/Content/Public" alt="EurekAlert" style="width:250px; height:250px; object-fit:cover;" class="img-responsive">
-        <div>
-            <h6><a href="https://www.eurekalert.org/news-releases/936979" style="text-decoration:none; color:inherit;" target="_blank">Global database of plants reveals human activity biggest driver of homogenization of plant communities</a></h6>
-            <p style="font-size:12pt;">Species extinction, the introduction of non-native plants, climate change, and pollution are all major drivers of changes in biological communities due to human activity ... <a href="https://www.eurekalert.org/news-releases/936979" target="_blank">[read more]</a></p>
-        </div>
-    </div>
-    <div style="width:250px; margin:10px;">
-      <div class="date" style="margin-bottom: 5px; color: #8C1515;">December 22, 2017</div>
-      <h3 style="margin-top: 0;">Harvard Gazette</h3>
-        <img src="https://news.harvard.edu/wp-content/uploads/2017/12/120617_herbarium_067_2500-1-2048x1366.jpg" alt="EurekAlert" style="width:250px; height:250px; object-fit:cover;" class="img-responsive">
-        <div>
-            <h6><a href="https://news.harvard.edu/gazette/story/2017/12/harvard-study-illuminates-botanical-bias/" style="text-decoration:none; color:inherit;" target="_blank">Study uncovers botanical bias</a></h6>
-            <p style="font-size:12pt;">Findings seen as a wrinkle for researchers who rely on herbarium collections in climate change work ... <a href="https://news.harvard.edu/gazette/story/2017/12/harvard-study-illuminates-botanical-bias/" target="_blank">[read more]</a></p>
-        </div>
-    </div>
-  <div style="width:250px; margin:10px;">
-      <div class="date" style="margin-bottom: 5px; color: #8C1515;">May 11, 2017</div>
-      <h3 style="margin-top: 0;">WOODZ</h3>
-        <img src="https://www.woodz.co/wp-content/uploads/2015/10/Upland_South_Africa_Savanna-e1445082315270.jpg" alt="EurekAlert" style="width:250px; height:250px; object-fit:cover;" class="img-responsive">
-        <div>
-            <h6><a href="https://www.woodz.co/journal/science-why-some-trees-evolved-to-live-underground/" style="text-decoration:none; color:inherit;" target="_blank">Why Some Trees Evolved to Live Underground</a></h6>
-            <p style="font-size:12pt;">With the exception of wildlife film makers, arboriculturalists and a few scientists, most of us don’t spend much time in the leafy upper reaches of tree canopies. But in the underground forests beneath the savannahs of southern Africa ... <a href="https://www.woodz.co/journal/science-why-some-trees-evolved-to-live-underground/" target="_blank">[read more]</a></p>
-        </div>
-    </div>
- <div style="width:250px; margin:10px;">
-      <div class="date" style="margin-bottom: 5px; color: #8C1515;">September 15, 2016</div>
-      <h3 style="margin-top: 0;">Harvard Gazette</h3>
-        <img src="https://news.harvard.edu/wp-content/uploads/2016/09/seagrass605.jpg" alt="EurekAlert" style="width:250px; height:250px; object-fit:cover;" class="img-responsive">
-        <div>
-            <h6><a href="https://news.harvard.edu/gazette/story/2016/09/strong-case-for-seagrass-in-biodiversity-analysis/" style="text-decoration:none; color:inherit;" target="_blank">Strong case for seagrass</a></h6>
-            <p style="font-size:12pt;">Researcher behind biodiversity analysis cites key role in food chain ... <a href="https://news.harvard.edu/gazette/story/2016/09/strong-case-for-seagrass-in-biodiversity-analysis/" target="_blank">[read more]</a></p>
-        </div>
-    </div>
-  <div style="width:250px; margin:10px;">
-      <div class="date" style="margin-bottom: 5px; color: #8C1515;">September 6, 2016</div>
-      <h3 style="margin-top: 0;">ScienceDaily</h3>
-        <img src="https://scx1.b-cdn.net/csz/news/800a/2016/57cea64edc203.jpg" alt="EurekAlert" style="width:250px; height:250px; object-fit:cover;" class="img-responsive">
-        <div>
-            <h6><a href="https://www.sciencedaily.com/releases/2016/09/160906103156.htm" style="text-decoration:none; color:inherit;" target="_blank">Browsing antelope turned ancient African forests into grassy savanna ecosystems</a></h6>
-            <p style="font-size:12pt;">Millions of years ago, Africa's savannas were covered with thick, ancient forests, which disappeared and turned into the grassy ecosystems that they are today ... <a href="https://www.sciencedaily.com/releases/2016/09/160906103156.htm" target="_blank">[read more]</a></p>
-        </div>
-    </div>
-  </div>
+  <script>
+    var xhr = new XMLHttpRequest();
+    var url = "/_pages/News.html";
+    xhr.open("GET", url, true);
+    xhr.onreadystatechange = function() {
+      if (xhr.readyState === 4 && xhr.status === 200) {
+        document.getElementById("home").innerHTML = xhr.responseText;
+      }
+    };
+    xhr.send();
+  </script>
 </div>
+
 <div id="tab1" class="tabcontent">
-  <h3>VIDEOS</h3>
-  <div style="display:flex; flex-wrap:wrap; justify-content:center;">
-    <div style="width:250px; margin:10px;">
-      <div class="date">April 27, 2023</div>
-      <h4>Stanford University</h5>
-        <iframe src="https://www.youtube.com/embed/fftx0bkBxYQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen style="width:250px; height:150px; object-fit:cover;"></iframe>
-        <div>
-            <h6><a href="https://www.youtube.com/embed/fftx0bkBxYQ" style="text-decoration:none; color:inherit;" target="_blank">Biases in biodiversity data</a></h6>
-            </div>
+    <h3>Photos</h3>
+    <div class="collage-container">
+  <div class="album-container">
+    <h2 class="album-title">Arctic Plants Fieldwork: Nunavut 2023</h2>
+    <div class="album-images">
+      <div class="collage-item" onclick="showLightbox('https://lh3.googleusercontent.com/pw/AIL4fc8lhXl8_jg7K9o59FaHJacrpS7BqIP1rewA31_B1mSHZ_ZSQYkRR8B9WmRq_Q21zT02erPHGNCf9_sZjgTjwi0XM9XjRvg8dn6_D03DtogiD3Odek21yZ13brVlK8Jlci2Y4kcLNNKzXn5eeZv5K1euCQ=w2154-h1616-s-no?authuser=1', 1)">
+        <img src="https://lh3.googleusercontent.com/pw/AIL4fc8lhXl8_jg7K9o59FaHJacrpS7BqIP1rewA31_B1mSHZ_ZSQYkRR8B9WmRq_Q21zT02erPHGNCf9_sZjgTjwi0XM9XjRvg8dn6_D03DtogiD3Odek21yZ13brVlK8Jlci2Y4kcLNNKzXn5eeZv5K1euCQ=w2154-h1616-s-no?authuser=1" alt="Image 1">
+      </div>
+      <div class="collage-item" onclick="showLightbox('https://lh3.googleusercontent.com/pw/AIL4fc-i3Xz56xEKKbCSvJjWU6ud_PZlgFZYHLIilaXga5uVUD5vcGmswEUAjKJGAMxMvGNNt4Q7rXyUAsXMteTA778w7DUf3yHCDYbLtKbqq1nkM49BDogknspZdhxCowtG0uz7XTVsYxPhlXajGZyOKEtBuA=w2154-h1616-s-no?authuser=1', 2)">
+        <img src="https://lh3.googleusercontent.com/pw/AIL4fc-i3Xz56xEKKbCSvJjWU6ud_PZlgFZYHLIilaXga5uVUD5vcGmswEUAjKJGAMxMvGNNt4Q7rXyUAsXMteTA778w7DUf3yHCDYbLtKbqq1nkM49BDogknspZdhxCowtG0uz7XTVsYxPhlXajGZyOKEtBuA=w2154-h1616-s-no?authuser=1" alt="Image 2">
+      </div>
+      <div class="collage-item" onclick="showLightbox('https://lh3.googleusercontent.com/pw/AIL4fc94lTfutsMB2-cY8ijt9ladFJ-u-0ioFeUGUt2gtnTX8hWqzytgp3Lc7pVNFyjQwh6-eLJUsd5SXRxkdd30zZzKC_ns6QWGah7ep0Sxwt5K5sKq1drssK1XyTc83BOL_JE7BR8DduhnGkX2eMVgB0-1XQ=w1600-h1200-s-no?authuser=1', 3)">
+        <img src="https://lh3.googleusercontent.com/pw/AIL4fc94lTfutsMB2-cY8ijt9ladFJ-u-0ioFeUGUt2gtnTX8hWqzytgp3Lc7pVNFyjQwh6-eLJUsd5SXRxkdd30zZzKC_ns6QWGah7ep0Sxwt5K5sKq1drssK1XyTc83BOL_JE7BR8DduhnGkX2eMVgB0-1XQ=w1600-h1200-s-no?authuser=1" alt="Image 3">
+      </div>
+      <div class="collage-item" onclick="showLightbox('https://lh3.googleusercontent.com/pw/AIL4fc-8RSqZAUjg3pr3DPM0zB9wMiL2Qt_s-IaetKQ5CuSxDMKQuDGXtXhS1Sl0lt_i5c1sCI7eP5sGimzOJMCm2efu6tNmN53wNlzuZPKGBLWogwLbI25WAPRXfd9qmExAt0iMu0AC0Dk_GkBdbDWh3n-XQA=w2154-h1616-s-no?authuser=1', 4)">
+        <img src="https://lh3.googleusercontent.com/pw/AIL4fc-8RSqZAUjg3pr3DPM0zB9wMiL2Qt_s-IaetKQ5CuSxDMKQuDGXtXhS1Sl0lt_i5c1sCI7eP5sGimzOJMCm2efu6tNmN53wNlzuZPKGBLWogwLbI25WAPRXfd9qmExAt0iMu0AC0Dk_GkBdbDWh3n-XQA=w2154-h1616-s-no?authuser=1" alt="Image 4">
+      </div>
+      <div class="collage-item" onclick="showLightbox('https://lh3.googleusercontent.com/pw/AIL4fc95q0C6gEDw2_4Rbyp1RZTB7H9s-vTObccv-HZ0P0FYRskLCf-Uwz8-s5p6Po093l77qUPOIEUvRovCG0UbRuUmUUpPiwGedUfwHdberkeu8PfShtUfVv1YI-h2WCs5_hMrP22_Sv5IB7Q0fLOrweQcHQ=w2154-h1616-s-no?authuser=1', 5)">
+        <img src="https://lh3.googleusercontent.com/pw/AIL4fc95q0C6gEDw2_4Rbyp1RZTB7H9s-vTObccv-HZ0P0FYRskLCf-Uwz8-s5p6Po093l77qUPOIEUvRovCG0UbRuUmUUpPiwGedUfwHdberkeu8PfShtUfVv1YI-h2WCs5_hMrP22_Sv5IB7Q0fLOrweQcHQ=w2154-h1616-s-no?authuser=1" alt="Image 5">
+      </div>
+      <div class="collage-item" onclick="showLightbox('https://lh3.googleusercontent.com/pw/AIL4fc8Gkeu9gGE-zmVKtVw22m2AUazMmvQuT-dpD3llLyda3erjLtFre9DcvyrwC3P27oEKCRflGo8DnP1Pfb4Al1qqUpObImIC-qUG640GaZNFPQsae0MxsKeFDpQaelxKPsZ4i2yIaGpy58OdHe0o4C4rmA=w1600-h688-s-no?authuser=1', 6)">
+        <img src="https://lh3.googleusercontent.com/pw/AIL4fc8Gkeu9gGE-zmVKtVw22m2AUazMmvQuT-dpD3llLyda3erjLtFre9DcvyrwC3P27oEKCRflGo8DnP1Pfb4Al1qqUpObImIC-qUG640GaZNFPQsae0MxsKeFDpQaelxKPsZ4i2yIaGpy58OdHe0o4C4rmA=w1600-h688-s-no?authuser=1" alt="Image 6">
+      </div>
+      <div class="collage-item" onclick="showLightbox('https://lh3.googleusercontent.com/pw/AIL4fc-UqjL91vxvyL9-ipRb-pUtS7jkgXRNE0t7tA3fw5KMDzRPiRmB33pRH934_TV5iHjRsBJ0mBnOCBR7fbBv8eATZL0Xh8qmAbBc3R-fbstDJR_PV2pZVhDc4jh3w0zJZbXijfeWxEDJZrqY_dLqQQLxyA=w2154-h1616-s-no?authuser=1', 7)">
+        <img src="https://lh3.googleusercontent.com/pw/AIL4fc-UqjL91vxvyL9-ipRb-pUtS7jkgXRNE0t7tA3fw5KMDzRPiRmB33pRH934_TV5iHjRsBJ0mBnOCBR7fbBv8eATZL0Xh8qmAbBc3R-fbstDJR_PV2pZVhDc4jh3w0zJZbXijfeWxEDJZrqY_dLqQQLxyA=w2154-h1616-s-no?authuser=1" alt="Image 7">
+      </div>
+      <div class="collage-item" onclick="showLightbox('https://lh3.googleusercontent.com/pw/AIL4fc9NXiJdg7UBnUGARty1UG6mFAfsG4CtId8fKddYpfhpkIX3LcqZ0j1XzksXDFbwfvjBwYO1WFcVTqXhcgaQYPQHs8dCq1xcphyE2dan1C6BKob93WptV-holgSA9JfaglgyXOdtyDfWDILPUoeeHy0vJw=w2154-h1616-s-no?authuser=1', 8)">
+        <img src="https://lh3.googleusercontent.com/pw/AIL4fc9NXiJdg7UBnUGARty1UG6mFAfsG4CtId8fKddYpfhpkIX3LcqZ0j1XzksXDFbwfvjBwYO1WFcVTqXhcgaQYPQHs8dCq1xcphyE2dan1C6BKob93WptV-holgSA9JfaglgyXOdtyDfWDILPUoeeHy0vJw=w2154-h1616-s-no?authuser=1" alt="Image 8">
+      </div>
+      <div class="collage-item" onclick="showLightbox('https://lh3.googleusercontent.com/pw/AIL4fc97ONEHsxQvwid0Erm8UrIAv6rISqzADcf3H5ofA27oQiVoZ1cHt9FCP_nu8FPsJSvU9uvkswHkyIFGvGhCA02rIwQXbZ7yZI3MMlcNKtECzSvcz3tbrYbuZLz8-61_o_JNSfhZb9CBnQozfm4gv1g0mw=w2154-h1616-s-no?authuser=1', 9)">
+        <img src="https://lh3.googleusercontent.com/pw/AIL4fc97ONEHsxQvwid0Erm8UrIAv6rISqzADcf3H5ofA27oQiVoZ1cHt9FCP_nu8FPsJSvU9uvkswHkyIFGvGhCA02rIwQXbZ7yZI3MMlcNKtECzSvcz3tbrYbuZLz8-61_o_JNSfhZb9CBnQozfm4gv1g0mw=w2154-h1616-s-no?authuser=1" alt="Image 9">
+      </div>
+      <div class="collage-item" onclick="showLightbox('https://lh3.googleusercontent.com/pw/AIL4fc8Wym31_2MDvmMYo-Jyy1aTnnasbBYJIyhEpdMr9JwVv33zAjLderbXcskjvN7oOz54GUW5x5h9Db2Nk7Z3RcONhdPxtHxznZFyLQJFMG-DUI6sh5YydPmeXBaES5VHKGW070Doep0ZKyyrMkNv9vQY8A=w2154-h1616-s-no?authuser=1', 10)">
+        <img src="https://lh3.googleusercontent.com/pw/AIL4fc8Wym31_2MDvmMYo-Jyy1aTnnasbBYJIyhEpdMr9JwVv33zAjLderbXcskjvN7oOz54GUW5x5h9Db2Nk7Z3RcONhdPxtHxznZFyLQJFMG-DUI6sh5YydPmeXBaES5VHKGW070Doep0ZKyyrMkNv9vQY8A=w2154-h1616-s-no?authuser=1" alt="Image 10">
+      </div>
+      <div class="collage-item" onclick="showLightbox('https://lh3.googleusercontent.com/pw/AIL4fc8Zz-UhJSZDPzFvyDkGiY1RQIKEP_XKi-hyaYiSc95UOerbEUdc1P7sQxnEUePUS-uTdmVEXf678SRoZjm8PPVsuWEl-G9VoujDUBFkn3Pj-Hqaf_8zyY-mJL9QX4wm4r0iENkJY8z-pYefJ_LrT9ALxA=w2154-h1616-s-no?authuser=1', 11)">
+        <img src="https://lh3.googleusercontent.com/pw/AIL4fc8Zz-UhJSZDPzFvyDkGiY1RQIKEP_XKi-hyaYiSc95UOerbEUdc1P7sQxnEUePUS-uTdmVEXf678SRoZjm8PPVsuWEl-G9VoujDUBFkn3Pj-Hqaf_8zyY-mJL9QX4wm4r0iENkJY8z-pYefJ_LrT9ALxA=w2154-h1616-s-no?authuser=1" alt="Image 10">
+      </div>
+      <div class="collage-item" onclick="showLightbox('https://lh3.googleusercontent.com/pw/AIL4fc93yZ1Xppt4N9ln6SKIGEJllu_2OHvEnVd3OC-GQZtQwfdNX7yxjhfhLEodnNPq6sLrUQoO9vhc1zuzMXojzvHba9OyZlwnKyMV-Sxg0-cf-rStJCEnMBpVbiZQDitZ1e3j_W0CWxJt7_6LViwUCBQ7OQ=w2154-h1616-s-no?authuser=1', 11)">
+        <img src="https://lh3.googleusercontent.com/pw/AIL4fc93yZ1Xppt4N9ln6SKIGEJllu_2OHvEnVd3OC-GQZtQwfdNX7yxjhfhLEodnNPq6sLrUQoO9vhc1zuzMXojzvHba9OyZlwnKyMV-Sxg0-cf-rStJCEnMBpVbiZQDitZ1e3j_W0CWxJt7_6LViwUCBQ7OQ=w2154-h1616-s-no?authuser=1" alt="Image 11">
+      </div>
+      <div class="collage-item" onclick="showLightbox('https://lh3.googleusercontent.com/pw/AIL4fc-gEPfnCStMQGjCPdb4mkpQeYelPGZFK84NOrvB90x8UHiWjGXcshwiEF1T0dpnynHp2oXqsbesMwiHB8dQjElvn-Q7ccptTb_734zPLq5pEDHGnkO549yvLrUdhRFUiIZ2V0gyyvZYEAXtwKtv3hfqxg=w2154-h1616-s-no?authuser=1', 12)">
+        <img src="https://lh3.googleusercontent.com/pw/AIL4fc-gEPfnCStMQGjCPdb4mkpQeYelPGZFK84NOrvB90x8UHiWjGXcshwiEF1T0dpnynHp2oXqsbesMwiHB8dQjElvn-Q7ccptTb_734zPLq5pEDHGnkO549yvLrUdhRFUiIZ2V0gyyvZYEAXtwKtv3hfqxg=w2154-h1616-s-no?authuser=1" alt="Image 12">
+      </div>
+      <div class="collage-item" onclick="showLightbox('https://lh3.googleusercontent.com/pw/AIL4fc_4Q7fXFJqQ3ba-Ep_j5yP_fG2hW6mA3uh3lg82OtNCMvSgir032p1QRptHHUV_ks15l3rwYx1xaZZgtzmBVpwiEIsXmD-RupWEt58Wj6WdMDQzRe1IBAoqdGSNxW3YCCr3E7YlzRLmwbe2ZBG_YwwNJA=w2154-h1616-s-no?authuser=1', 13)">
+        <img src="https://lh3.googleusercontent.com/pw/AIL4fc_4Q7fXFJqQ3ba-Ep_j5yP_fG2hW6mA3uh3lg82OtNCMvSgir032p1QRptHHUV_ks15l3rwYx1xaZZgtzmBVpwiEIsXmD-RupWEt58Wj6WdMDQzRe1IBAoqdGSNxW3YCCr3E7YlzRLmwbe2ZBG_YwwNJA=w2154-h1616-s-no?authuser=1" alt="Image 13">
+      </div>
+      <div class="collage-item" onclick="showLightbox('https://lh3.googleusercontent.com/pw/AIL4fc9o6pL790gdyHDs5CNNZxJHVC4nd9rc10y4ByJevW23RmICKh74c7xU99CFjei1Ekv4nJpMtGz_B4rS-AKiWLxeIHBWxAqMY4AFgTWwr2cbflUGMueT3evy_a8MWYJb8qzH794CY-ZxrI4qtylBethetg=w2154-h1616-s-no?authuser=1', 14)">
+        <img src="https://lh3.googleusercontent.com/pw/AIL4fc9o6pL790gdyHDs5CNNZxJHVC4nd9rc10y4ByJevW23RmICKh74c7xU99CFjei1Ekv4nJpMtGz_B4rS-AKiWLxeIHBWxAqMY4AFgTWwr2cbflUGMueT3evy_a8MWYJb8qzH794CY-ZxrI4qtylBethetg=w2154-h1616-s-no?authuser=1" alt="Image 14">
+      </div>
+      <div class="collage-item" onclick="showLightbox('https://lh3.googleusercontent.com/pw/AIL4fc-WhVOelTLDO2UVa_8Oumhc-0Ok_n8OPs_3E_o33txm7nJ3387sDdZuLquJipBGEyBqOiKf8tDUtkho2aA7azfMUEQf6BbBWRwbHHEyHLA5aLGzT1d2JiJWyDLvgT1VR13fFnqAMwguLa_8c252Rv6aZA=w2154-h1616-s-no?authuser=1', 15)">
+        <img src="https://lh3.googleusercontent.com/pw/AIL4fc-WhVOelTLDO2UVa_8Oumhc-0Ok_n8OPs_3E_o33txm7nJ3387sDdZuLquJipBGEyBqOiKf8tDUtkho2aA7azfMUEQf6BbBWRwbHHEyHLA5aLGzT1d2JiJWyDLvgT1VR13fFnqAMwguLa_8c252Rv6aZA=w2154-h1616-s-no?authuser=1" alt="Image 15">
+      </div>
+      <div class="collage-item" onclick="showLightbox('https://lh3.googleusercontent.com/pw/AIL4fc_yB4ha-eA5hlekRU1DO0M-mKWx5kF7rKF1lzeMUzEUa05XWOKv4ZfEFDn4d0w_K1obarTVS4cwmYz2k38rY_bBM75NS56YxZQW9EYHp6oJzeifvYTgNLbgNA5kMwBj0uo9ilN3FQTdIKL56EZiOTDKkA=w1024-h768-s-no?authuser=1', 16)">
+        <img src="https://lh3.googleusercontent.com/pw/AIL4fc_yB4ha-eA5hlekRU1DO0M-mKWx5kF7rKF1lzeMUzEUa05XWOKv4ZfEFDn4d0w_K1obarTVS4cwmYz2k38rY_bBM75NS56YxZQW9EYHp6oJzeifvYTgNLbgNA5kMwBj0uo9ilN3FQTdIKL56EZiOTDKkA=w1024-h768-s-no?authuser=1" alt="Image 16">
+      </div>
+      <div class="collage-item" onclick="showLightbox('https://lh3.googleusercontent.com/pw/AIL4fc8GPJFgga8izS7fql8xAyvEBB2VPzGi41VrZwmgOR6kFQ27Y9Bt5y_t3ZOxqRnae_a6l88GW-DLA6itpxu-KNRSnaT1rjxTVYrPITn08Kq_48hYHx5D2dYt3snHrsCKhgQk40PiP0aJehM4sM6kfhYrVg=w2154-h1616-s-no?authuser=1', 17)">
+        <img src="https://lh3.googleusercontent.com/pw/AIL4fc8GPJFgga8izS7fql8xAyvEBB2VPzGi41VrZwmgOR6kFQ27Y9Bt5y_t3ZOxqRnae_a6l88GW-DLA6itpxu-KNRSnaT1rjxTVYrPITn08Kq_48hYHx5D2dYt3snHrsCKhgQk40PiP0aJehM4sM6kfhYrVg=w2154-h1616-s-no?authuser=1" alt="Image 17">
+      </div>
+      <div class="collage-item" onclick="showLightbox('https://lh3.googleusercontent.com/pw/AIL4fc9Y13FD8AYdDwaJ6MWibnuul8SpUTP4FJ6zwVTEixUqkE1xgCB1pyfHW_jICEPmL0els-IFDvXfaxXc194-saGQX3D_e4UjhtiIpwXeLYDtcP9t0hX9yeATZDUVcG4XQKW3EmTuL5X3nK4O1WRqhnAaPw=w2154-h1616-s-no?authuser=1', 18)">
+        <img src="https://lh3.googleusercontent.com/pw/AIL4fc9Y13FD8AYdDwaJ6MWibnuul8SpUTP4FJ6zwVTEixUqkE1xgCB1pyfHW_jICEPmL0els-IFDvXfaxXc194-saGQX3D_e4UjhtiIpwXeLYDtcP9t0hX9yeATZDUVcG4XQKW3EmTuL5X3nK4O1WRqhnAaPw=w2154-h1616-s-no?authuser=1" alt="Image 18">
+      </div>
+      <div class="collage-item" onclick="showLightbox('https://lh3.googleusercontent.com/pw/AIL4fc9cCgZMPRqQpR4Ks8UlIn5Pmef_vRU_V2qZ2jB0onP44uVsW56Z1VxQAx0dKL7bGCaxJx03ilFtCStIVElh0Oz4VQV5uhfFMIif2L5-HJhAdhZAnvYQIAy8eOPJ6iHkARlVD8vPTGy_m9IyNHI2f5BLZA=w2154-h1616-s-no?authuser=1', 19)">
+        <img src="https://lh3.googleusercontent.com/pw/AIL4fc9cCgZMPRqQpR4Ks8UlIn5Pmef_vRU_V2qZ2jB0onP44uVsW56Z1VxQAx0dKL7bGCaxJx03ilFtCStIVElh0Oz4VQV5uhfFMIif2L5-HJhAdhZAnvYQIAy8eOPJ6iHkARlVD8vPTGy_m9IyNHI2f5BLZA=w2154-h1616-s-no?authuser=1" alt="Image 19">
+      </div>
+      <div class="collage-item" onclick="showLightbox('https://lh3.googleusercontent.com/pw/AIL4fc-GSNysvz29GJY8qbhbEkm0o6u8v9_uhGByogsX5FGNdrpPlPxaYNxblBHHOpsZMuh13MejigOcpM8W4bP3fAwG8UWGbz2j05ogavVxpiLJ-hbGl22qa9YI9OcbHlfhZtWQ11tBcgc-lxDp9buIk5KGew=w2154-h1616-s-no?authuser=1', 20)">
+        <img src="https://lh3.googleusercontent.com/pw/AIL4fc-GSNysvz29GJY8qbhbEkm0o6u8v9_uhGByogsX5FGNdrpPlPxaYNxblBHHOpsZMuh13MejigOcpM8W4bP3fAwG8UWGbz2j05ogavVxpiLJ-hbGl22qa9YI9OcbHlfhZtWQ11tBcgc-lxDp9buIk5KGew=w2154-h1616-s-no?authuser=1" alt="Image 20">
+      </div>
+      <div class="collage-item" onclick="showLightbox('https://lh3.googleusercontent.com/pw/AIL4fc9mQfioTrlfnkqxD0J4T4IG7jmXqhwdmKK9VfnWNcN2U4iEx9yWNMXNbSuwpEenzlhDWTFOikl093-mwyA-ThtZX8Sg3rri8tRWB5zudYVz2HZsfaXGM7pRBxIfcXy4d_1sdzy3kHn9k7iW0uz4c_Iu1w=w2154-h1616-s-no?authuser=1', 21)">
+        <img src="https://lh3.googleusercontent.com/pw/AIL4fc9mQfioTrlfnkqxD0J4T4IG7jmXqhwdmKK9VfnWNcN2U4iEx9yWNMXNbSuwpEenzlhDWTFOikl093-mwyA-ThtZX8Sg3rri8tRWB5zudYVz2HZsfaXGM7pRBxIfcXy4d_1sdzy3kHn9k7iW0uz4c_Iu1w=w2154-h1616-s-no?authuser=1" alt="Image 21">
+      </div>
+   </div>
+  </div>
+  <div class="album-container">
+    <h2 class="album-title">Welcome Sophie and Sam! New BSURP students to the Daru Lab</h2>
+    <div class="album-images">
+      <div class="collage-item" onclick="showLightbox('https://lh3.googleusercontent.com/pw/AIL4fc_7JhH1AEQCiogueRpyuGmv1DL7azzrq_lU-kW1GuLYszOgnk4NRmSGNX3xSr4cMnr6Lk-NwVW_V_JctxVKj3tGa7-RFRUKim0iGfIEFVoWBjQXkLa6aZxL__nwbR1_dI2PCfr56G33HWKmY9xswJsTGg=w1000-h667-s-no?authuser=1', 1)">
+        <img src="https://lh3.googleusercontent.com/pw/AIL4fc_7JhH1AEQCiogueRpyuGmv1DL7azzrq_lU-kW1GuLYszOgnk4NRmSGNX3xSr4cMnr6Lk-NwVW_V_JctxVKj3tGa7-RFRUKim0iGfIEFVoWBjQXkLa6aZxL__nwbR1_dI2PCfr56G33HWKmY9xswJsTGg=w1000-h667-s-no?authuser=1" alt="Image 3">
+      </div>
+      <div class="collage-item" onclick="showLightbox('https://lh3.googleusercontent.com/pw/AIL4fc9QwBQt2xywTHx79o6XLJllBH7ySZiGldRV1qDFzl5ARynKR1fNRZG3Z9x96AIWEoEzOK63lZlYlRk-BSGLtUqqgmi4HgUshku8ui0siXKYfPOOu75x08OS8A2cbq7-eez4IDh4BfJMxVYqrGG9P07T4g=w1000-h667-s-no?authuser=1', 2)">
+        <img src="https://lh3.googleusercontent.com/pw/AIL4fc9QwBQt2xywTHx79o6XLJllBH7ySZiGldRV1qDFzl5ARynKR1fNRZG3Z9x96AIWEoEzOK63lZlYlRk-BSGLtUqqgmi4HgUshku8ui0siXKYfPOOu75x08OS8A2cbq7-eez4IDh4BfJMxVYqrGG9P07T4g=w1000-h667-s-no?authuser=1" alt="Image 4">
+      </div>
+      <div class="collage-item" onclick="showLightbox('https://lh3.googleusercontent.com/pw/AIL4fc-e3nmFohY0_ZFoxXSPjF1xgSlUFiWXMCsf9R9aD5stG-j2yvY7zpDGQiZ5-HXl3dcSSbdu-tdN_J6ChzElqgJvgscZ6GlKopx_VxrUoGRjT7anPWb5eVtAiARFXoipSeKAv328KT4YxjGT9wwsHspqxw=w1000-h667-s-no?authuser=1', 1)">
+        <img src="https://lh3.googleusercontent.com/pw/AIL4fc-e3nmFohY0_ZFoxXSPjF1xgSlUFiWXMCsf9R9aD5stG-j2yvY7zpDGQiZ5-HXl3dcSSbdu-tdN_J6ChzElqgJvgscZ6GlKopx_VxrUoGRjT7anPWb5eVtAiARFXoipSeKAv328KT4YxjGT9wwsHspqxw=w1000-h667-s-no?authuser=1" alt="Image 3">
+      </div>
     </div>
-    <div style="width:250px; margin:10px;">
-      <div class="date">April 21, 2023</div>
-      <h4>University of Oregon</h5>
-        <iframe src="https://www.youtube.com/embed/7I-ADXvHf6s" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen style="width:250px; height:150px; object-fit:cover;"></iframe>
-        <div>
-            <h6><a href="https://www.youtube.com/embed/7I-ADXvHf6s" style="text-decoration:none; color:inherit;" target="_blank">Exploring Contemporary Plant Biogeography</a></h6>
-            </div>
-    </div>
-    <div style="width:250px; margin:10px;">
-      <div class="date">July 4, 2019</div>
-      <h4>Evolution conference, Rhode Island</h5>
-        <iframe src="https://www.youtube.com/embed/5IfJIXOAlbQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen style="width:250px; height:150px; object-fit:cover;"></iframe>
-        <div>
-            <h6><a href="https://www.youtube.com/embed/5IfJIXOAlbQ" style="text-decoration:none; color:inherit;" target="_blank">Spatial overlaps between the global protected areas network and hotspots of diversity</a></h6>
-            </div>
-    </div>
-    <div style="width:250px; margin:10px;">
-      <div class="date">October 26, 2018</div>
-      <h4>Texas A&M University-Corpus Christi</h5>
-        <iframe src="https://www.youtube.com/embed/-_pj1CsIcMo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen style="width:250px; height:150px; object-fit:cover;"></iframe>
-        <div>
-            <h6><a href="https://www.youtube.com/embed/-_pj1CsIcMo" style="text-decoration:none; color:inherit;" target="_blank">Turning Herbarium Specimens into big Data</a></h6>
-            </div>
-    </div>
-    <div style="width:250px; margin:10px;">
-      <div class="date">January 13, 2017</div>
-      <h4>WGBH Forum Network Boston</h5>
-        <iframe src="https://www.youtube.com/embed/BV_iqJ-TPYI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen style="width:250px; height:150px; object-fit:cover;"></iframe>
-        <div>
-            <h6><a href="https://forum-network.org/lectures/vital-role-seagrasses-marine-ecosystems/" style="text-decoration:none; color:inherit;" target="_blank">The Vital Role of Seagrasses in Marine Ecosystems</a></h6>
-            </div>
-    </div>
-  <div style="width:250px; margin:10px;">
-      <div class="date">June 2, 2015</div>
-      <h4>University of Johannesburg</h5>
-        <iframe src="https://www.youtube.com/embed/li9iJv5P47M" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen style="width:250px; height:150px; object-fit:cover;"></iframe>
-        <div>
-            <h6><a href="https://www.youtube.com/embed/li9iJv5P47M" style="text-decoration:none; color:inherit;" target="_blank">3 Minute Thesis Competition</a></h6>
-            </div>
-    </div>
-    </div>
+  </div>
 </div>
+</div>
+
+<!-- Lightbox markup -->
+<div class="lightbox" onclick="hideLightbox()">
+  <div class="lightbox-nav">
+    <span onclick="changeImage(-1)">&#10094;</span>
+    <span onclick="changeImage(1)">&#10095;</span>
+  </div>
+  <img class="lightbox-image" src="" alt="Full-size image">
+</div>
+
+<!-- JavaScript for lightbox functionality -->
+<script>
+  let currentImageIndex = 0;
+  let images = [];
+
+  function showLightbox(imageSrc, index) {
+    const lightbox = document.querySelector('.lightbox');
+    const lightboxImage = lightbox.querySelector('.lightbox-image');
+
+    images = document.querySelectorAll('.collage-item img');
+    currentImageIndex = index - 1; // Convert to 0-based index
+
+    lightboxImage.src = imageSrc;
+    lightbox.style.display = 'flex';
+  }
+
+  function hideLightbox() {
+    const lightbox = document.querySelector('.lightbox');
+    lightbox.style.display = 'none';
+  }
+
+  function changeImage(offset) {
+    currentImageIndex += offset;
+
+    if (currentImageIndex < 0) {
+      currentImageIndex = images.length - 1;
+    } else if (currentImageIndex >= images.length) {
+      currentImageIndex = 0;
+    }
+
+    const lightboxImage = document.querySelector('.lightbox-image');
+    lightboxImage.src = images[currentImageIndex].src;
+  }
+
+  // Event listener for arrow keys
+  document.onkeydown = function (event) {
+    const lightbox = document.querySelector('.lightbox');
+    if (lightbox.style.display === 'flex') {
+      switch (event.key) {
+        case 'ArrowLeft':
+          changeImage(-1);
+          break;
+        case 'ArrowRight':
+          changeImage(1);
+          break;
+        case 'Escape':
+          hideLightbox();
+          break;
+      }
+    }
+  };
+</script>
+
 <div id="tab2" class="tabcontent">
-  <h3>PODCAST</h3>
-  <div style="display:flex; flex-wrap:wrap; justify-content:center;">
-    <div style="width:250px; margin:10px;">
-      <div class="date">May 9, 2023</div>
-      <h4>African Center for DNA Barcoding</h5>
-      <audio src="https://static1.squarespace.com/static/5e29669ddc8bed1672a0249a/t/6458c59078e14d0abf3a6ccc/1683539670679/Podcast+Ep.2+Davies+%26+Barnabas.mp3/original/Podcast+Ep.2+Davies+%26+Barnabas.mp3" style="object-fit:cover;"controls></audio>
-            </div>
-    </div>
-  </div>
+  <script>
+    var xhr2 = new XMLHttpRequest();
+    var url2 = "/_pages/Videos.html";
+    xhr2.open("GET", url2, true);
+    xhr2.onreadystatechange = function() {
+      if (xhr2.readyState === 4 && xhr2.status === 200) {
+        document.getElementById("tab2").innerHTML = xhr2.responseText;
+      }
+    };
+    xhr2.send();
+  </script>
 </div>
+
 <div id="tab3" class="tabcontent">
-  <h3>RADIO</h3>
-  <div style="display:flex; flex-wrap:wrap; justify-content:center;">
-    <div style="width:250px; margin:10px;">
-      <div class="date">February 2, 2022</div>
-      <h4>Texas Standard</h5>
-      <audio src="/media/daru_KUT_2022.mp3" style="object-fit:cover;"controls></audio>
-            </div>
-    </div>
-  </div>
+  <script>
+    var xhr3 = new XMLHttpRequest();
+    var url3 = "/_pages/Podcast.html";
+    xhr3.open("GET", url3, true);
+    xhr3.onreadystatechange = function() {
+      if (xhr3.readyState === 4 && xhr3.status === 200) {
+        document.getElementById("tab3").innerHTML = xhr3.responseText;
+      }
+    };
+    xhr3.send();
+  </script>
 </div>
+
+<div id="tab4" class="tabcontent">
+  <script>
+    var xhr4 = new XMLHttpRequest();
+    var url4 = "/_pages/Radio.html";
+    xhr4.open("GET", url4, true);
+    xhr4.onreadystatechange = function() {
+      if (xhr4.readyState === 4 && xhr4.status === 200) {
+        document.getElementById("tab4").innerHTML = xhr4.responseText;
+      }
+    };
+    xhr4.send();
+  </script>
+</div>
+
 <script>
 function openTab(evt, tabName) {
   var i, tabcontent, tablinks;
@@ -301,5 +410,7 @@ window.onload = function() {
   document.getElementsByClassName("tablinks")[0].click();
 }
 </script>
+
+
 
 {% endraw %}

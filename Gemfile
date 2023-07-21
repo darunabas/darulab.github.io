@@ -8,3 +8,6 @@ group :jekyll_plugins do
 end
 
 gem "webrick", "~> 1.7"
+
+gem "jekyll-google-photos", "~> 1.4"
+gem 'concurrent-ruby', '1.1.10'

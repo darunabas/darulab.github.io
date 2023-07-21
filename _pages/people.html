@@ -67,33 +67,45 @@ tags: []
 </div>
 
 <div id="home" class="tabcontent" style="display:block;">
-  <h3>Barnabas Daru</h3>
-  <p>Principal Investigator</p>
-  <img src="/assets/images/barnabas.png" alt="Barnabas-Daru" class="img-responsive" style="float:left; padding-right:10px; border-radius:50%; width:300px; height:300px; object-fit:cover;">
-  <p style="margin-right: 50px;">Barnabas has had a fascinating career journey, which has taken him from his undergraduate studies in Zoology at the University of Jos in Nigeria, to completing a Masters and PhD in Botany at the University of Johannesburg in South Africa. During his studies, he developed a keen interest in phylogenetics, biogeography, and macroecology of plants across different ecological scales. After completing his PhD, Barnabas was awarded a prestigious postdoctoral fellowship at Harvard University, where he focused on new uses of herbarium specimens for ecology and evolutionary biology. Currently, his research primarily focuses on the role of phylogeny in understanding species distribution, conserving unique communities, and comprehending changing distributions in the Anthropocene. When not in the lab or field, Barnabas enjoys swimming and spending quality time with his wife and two young kids.</p>
-<a href="/docs/a_DaruCVJune2023.pdf" target="_blank" class="btn btn--small" style="background-color:#8C1515; color:#ffffff"><i class="fa fa-download" aria-hidden="true"></i> CV</a>
-<a href="mailto:bdaru@stanford.edu" class="btn btn--small" style="background-color:#8C1515; color:#ffffff"><i class="fa fa-envelope" aria-hidden="true"></i> Email</a>
-<a href="https://scholar.google.com/citations?hl=en&user=I8fP-c4AAAAJ&view_op=list_works&sortby=pubdate" target="_blank" class="btn btn--small" style="background-color:#8C1515; color:#ffffff"><i class="fa fa-book" aria-hidden="true"></i> Google Scholar</a>
+  <script>
+    var xhr = new XMLHttpRequest();
+    var url = "/_pages/Barnabas.html";
+    xhr.open("GET", url, true);
+    xhr.onreadystatechange = function() {
+      if (xhr.readyState === 4 && xhr.status === 200) {
+        document.getElementById("home").innerHTML = xhr.responseText;
+      }
+    };
+    xhr.send();
+  </script>
 </div>
 
 <div id="tab1" class="tabcontent">
-  <h3>Paul Markley</h3>
-  <p>Graduate Student</p>
-  <img src="/assets/images/paul.png" alt="Paul-Markley" class="img-responsive" style="float:left; padding-right:10px; border-radius:50%; width:300px; height:300px; object-fit:cover;">
-  <p style="margin-right: 50px;"><p>I joined the Daru lab in the Spring of 2021. I left the University of California-Riverside as a Highlander with a B.S. in Plant Biology and am now in Stanford University working towards a PhD in Biology. I previously worked at the USDA Salinity Lab for Dr. Elia Scudiero researching soil spatial variability in citrus orchards, and now study the biogeography of arctic flora. Broadly speaking, my research interests lie in arctic floristics, ecosystem modeling, and molecular phylogeny.
-<p></p>
-  <p>Sandhu, D.S., Pudussery, M.V., Kumar, R, Pallete, A., <strong>Markley, P.T.</strong>, Bridges, W.C., Sekhon, R.S. (2019). Characterization of natural genetic variation identifies multiple genes involved in salt tolerance in maize. <em>Functional and Integrative Genomics</em> 20: 261-275.</p>
-  </p>
-  <a href="/docs/b_MarkleyCV.pdf" target="_blank" class="btn btn--small" style="background-color:#8C1515; color:#ffffff"><i class="fa fa-download" aria-hidden="true"></i> CV</a>
-<a href="https://doi.org/10.1007/s10142-019-00707-x" target="_blank" class="btn btn--small" style="background-color:#8C1515; color:#ffffff"><i class="fa fa-book" aria-hidden="true"></i> DOI</a>
-<a href="/docs/Sandhu2020.pdf" target="_blank" class="btn btn--small" style="background-color:#8C1515; color:#ffffff"><i class="fa fa-download" aria-hidden="true"></i> PDF file</a>
+  <script>
+    var xhr1 = new XMLHttpRequest();
+    var url1 = "/_pages/Paul.html";
+    xhr1.open("GET", url1, true);
+    xhr1.onreadystatechange = function() {
+      if (xhr1.readyState === 4 && xhr1.status === 200) {
+        document.getElementById("tab1").innerHTML = xhr1.responseText;
+      }
+    };
+    xhr1.send();
+  </script>
 </div>
 
 <div id="tab2" class="tabcontent">
-  <h3>Samuel Benzecry</h3>
-  <p>BSURP Student</p>
-  <img src="/assets/images/samuel.JPG" alt="Samuel-Benzecry" class="img-responsive" style="float:left; padding-right:10px; border-radius:50%; width:300px; height:300px; object-fit:cover;">
-  <p style="margin-right: 50px;"><p>I am a rising Sophomore at Stanford University pursuing a double major in Earth Systems and Symbolic Systems. Through the BSURP program, I joined the Daru Lab in the Summer of 2023. In the past, during high school, I worked with mycology in Amazonia. My interests range from linguistics to ecology (especially mycology), passing through anthropology and biogeography. In the Daru lab, my research will focus on plant invasions and implications for biogeography in the Anthropocene.
+  <script>
+    var xhr2 = new XMLHttpRequest();
+    var url2 = "/_pages/Photos.html";
+    xhr2.open("GET", url2, true);
+    xhr2.onreadystatechange = function() {
+      if (xhr2.readyState === 4 && xhr2.status === 200) {
+        document.getElementById("tab2").innerHTML = xhr2.responseText;
+      }
+    };
+    xhr2.send();
+  </script>
 </div>
 
 <div id="tab3" class="tabcontent">

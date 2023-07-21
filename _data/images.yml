@@ -1,0 +1,13 @@
+- title: Album 1
+  images:
+    - url: /assets/images/you.png
+      alt: Barnabas-Daru
+    - url: /assets/images/you.png
+      alt: Barnabas-Daru
+
+- title: Album 2
+  images:
+    - url: /assets/images/jordan.png
+      alt: Jordan Rodriguez
+    - url: /assets/images/arras.png
+      alt: Arras Wiedorn
