@@ -101,7 +101,7 @@ tags: []
   .thumbnail-item,
   .collage-item {
     width: 250px;
-    margin: 5px; /* Adjust the margin to reduce the gap between images */
+    margin: 1px; /* Adjust the margin to reduce the gap between images */
     flex: 1 0 20%; /* Adjust the width as needed, 20% means five images in a row */
     max-width: 100%;
     height: auto;
@@ -299,6 +299,7 @@ tags: []
 <script>
   let currentImageIndex = 0;
   let images = [];
+  let touchStartX = 0;
 
   function showLightbox(imageSrc, index) {
     const lightbox = document.querySelector('.lightbox');
@@ -309,11 +310,21 @@ tags: []
 
     lightboxImage.src = imageSrc;
     lightbox.style.display = 'flex';
+
+    // Add touch event listeners for swiping
+    lightbox.addEventListener('touchstart', handleTouchStart);
+    lightbox.addEventListener('touchmove', handleTouchMove);
+    lightbox.addEventListener('touchend', handleTouchEnd);
   }
 
   function hideLightbox() {
     const lightbox = document.querySelector('.lightbox');
     lightbox.style.display = 'none';
+
+    // Remove touch event listeners
+    lightbox.removeEventListener('touchstart', handleTouchStart);
+    lightbox.removeEventListener('touchmove', handleTouchMove);
+    lightbox.removeEventListener('touchend', handleTouchEnd);
   }
 
   function changeImage(offset) {
@@ -346,6 +357,28 @@ tags: []
       }
     }
   };
+
+  // Functions to handle touch events
+  function handleTouchStart(event) {
+    touchStartX = event.touches[0].clientX;
+  }
+
+  function handleTouchMove(event) {
+    event.preventDefault();
+  }
+
+  function handleTouchEnd(event) {
+    const touchEndX = event.changedTouches[0].clientX;
+    const touchSensitivity = 50; // Adjust the sensitivity of swipe gestures
+
+    if (touchEndX - touchStartX > touchSensitivity) {
+      // Swipe right
+      changeImage(-1);
+    } else if (touchStartX - touchEndX > touchSensitivity) {
+      // Swipe left
+      changeImage(1);
+    }
+  }
 </script>
 
 <div id="tab2" class="tabcontent">
