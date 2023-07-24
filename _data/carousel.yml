@@ -5,21 +5,21 @@ images:
   - image: /assets/images/biases.png
     link: https://doi.org/10.1038/s41559-023-02047-3
     slide_text: "doi:10.1038/s41559-023-02047-3"
-    slide_title: "Biodiversity collections and apps both have bias"
+    slide_title: "Biases in biodiversity data"
   - image: /assets/images/header.JPG
     link: https://www.stanford.edu/
     slide_text: "doi:10.1111/jbi.12619"
-    slide_title: "Miombo woodland, a biome in southern Africa"
+    slide_title: "Miombo woodland biome"
   - image: /assets/images/stanford2.png
     link: https://www.stanford.edu/
   - image: /assets/images/Seagrass.png
     link: https://doi.org/10.1038/s41477-023-01445-6
     slide_text: "doi:10.1038/s41477-023-01445-6"
-    slide_title: "Seagrasses face uncertain future from climate change"
+    slide_title: "Seagrasses and climate change"
   - image: /assets/images/Fynbos.JPG
     link: https://www.stanford.edu/
     slide_text: "doi:10.1111/jbi.12619"
-    slide_title: "Fynbos of the Cape Floristic Region"
+    slide_title: "Fynbos, Cape Floristic Region"
   - image: /assets/images/protea.png
     link: https://doi.org/10.1002/aps3.1232
     slide_text: "doi:10.1002/aps3.1232"
@@ -34,4 +34,4 @@ images:
   - image: /assets/images/homogenize.png
     link: https://doi.org/10.1038/s41467-021-27186-8
     slide_text: "doi:10.1038/s41467-021-27186-8"
-    slide_title: "Human activity drives homogenization of plant communities"
+    slide_title: "Homogenization of plant communities"

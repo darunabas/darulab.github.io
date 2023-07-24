@@ -577,7 +577,7 @@ body {
   padding: 20px;
   text-align: left;
   position: absolute;
-  top: 50%;
+  top: 20px;
   left: 20px;
   text-shadow: 2px 2px 4px rgba(0, 0, 0, 0.5);
   font-size: 18px; /* Default font size for larger screens */
@@ -586,7 +586,7 @@ body {
 
 /* Default styles for the carousel title and description */
 .carousel__title {
-  font-size: 25px;
+  font-size: 30px;
   font-weight: bold;
   color: #fff;
 }
