@@ -25,12 +25,24 @@
           </div>
         {% endfor %}
         <div class="carousel__track">
-          <ul>
-            {% for item in site.data.carousel.images %}
-            <li class="carousel__slide" style="background-image: url('{{ item.image }}');"></li>
-            {% endfor %}
-          </ul>
+  <ul>
+    {% for item in site.data.carousel.images %}
+    <li class="carousel__slide">
+      <a href="{{ item.link }}" target="_blank">
+        <img src="{{ item.image }}" alt="Image {{ forloop.index }}" />
+        <div class="carousel__overlay">
+        <div class="carousel__text">
+          <div class="floating-wrapper">
+            <div class="carousel__title">{{ item.slide_title }}</div>
+            <div class="carousel__description">{{ item.slide_text }}</div>
+          </div>
         </div>
+      </div>
+      </a>
+    </li>
+    {% endfor %}
+  </ul>
+</div>
         <div class="carousel__indicators">
             {% for item in site.data.carousel.images %}
               <label class="carousel__indicator" for="{{ letters[forloop.index0] }}"></label>

@@ -558,3 +558,41 @@ body {
     }
   }
 }
+/* In the appropriate file, e.g., _page.scss or _layout.scss */
+.carousel__overlay {
+  /* Your overlay styling (background, opacity, etc.) goes here */
+  background-color: rgba(0, 0, 0, 0.2); /* The fourth value (0.7) represents opacity */
+  position: absolute;
+  top: 0;
+  left: 0;
+  right: 0;
+  bottom: 0;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.floating-wrapper {
+  /* Your floating text wrapper styling goes here */
+  padding: 20px;
+  text-align: left; /* Set text alignment to left */
+  position: absolute;
+  top: 50%;
+  left: 20px; /* Adjust the left position as needed */
+  /* Add text-shadow for the floating text */
+  text-shadow: 2px 2px 4px rgba(0, 0, 0, 0.5);
+}
+
+.carousel__title {
+  /* Your carousel title styling goes here */
+  font-size: 44px;
+  font-weight: bold;
+  color: #fff;
+}
+
+.carousel__description {
+  /* Your carousel description styling goes here */
+  font-size: 18px;
+  color: #fff;
+}
+

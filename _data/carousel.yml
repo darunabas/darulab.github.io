@@ -1,8 +1,37 @@
 images: 
   - image: /assets/images/stanford1.png
+    link: https://www.stanford.edu/
+    slide_title: "Stanford campus"
+  - image: /assets/images/biases.png
+    link: https://doi.org/10.1038/s41559-023-02047-3
+    slide_text: "doi:10.1038/s41559-023-02047-3"
+    slide_title: "Biodiversity collections and apps both have bias"
   - image: /assets/images/header.JPG
+    link: https://www.stanford.edu/
+    slide_text: "doi:10.1111/jbi.12619"
+    slide_title: "Miombo woodland, a biome in southern Africa"
   - image: /assets/images/stanford2.png
+    link: https://www.stanford.edu/
+  - image: /assets/images/Seagrass.png
+    link: https://doi.org/10.1038/s41477-023-01445-6
+    slide_text: "doi:10.1038/s41477-023-01445-6"
+    slide_title: "Seagrasses face uncertain future from climate change"
   - image: /assets/images/Fynbos.JPG
+    link: https://www.stanford.edu/
+    slide_text: "doi:10.1111/jbi.12619"
+    slide_title: "Fynbos of the Cape Floristic Region"
+  - image: /assets/images/protea.png
+    link: https://doi.org/10.1002/aps3.1232
+    slide_text: "doi:10.1002/aps3.1232"
+    slide_title: "Protea flowering phenology"
   - image: /assets/images/stanford3.png
+    link: https://www.stanford.edu/
+    slide_title: "Stanford Main Quad"
+  - image: https://lh3.googleusercontent.com/pw/AIL4fc9wkC143M6RgX3YYIOajIRi8KcRNNVsKxMUPcGGw_2-er1Z_jMR6iU42BZqTKoiWgtHE3kq-8ZDSPWKvao-rYOVdbD2Z-TtE_4k-Sf_-_cZSnPz0sCxWWPoWBmjKTenitK2bAuoMu7eMAlzczk8VNwZJA=w1600-h438-s-no?authuser=0
+    slide_title: "Pond Inlet, Nunavut in North Pole"
   - image: /assets/images/alaska2.png
-  
+    slide_title: "Point Barrow `Nuvuk`, Alaska"
+  - image: /assets/images/homogenize.png
+    link: https://doi.org/10.1038/s41467-021-27186-8
+    slide_text: "doi:10.1038/s41467-021-27186-8"
+    slide_title: "Human activity drives homogenization of plant communities"
