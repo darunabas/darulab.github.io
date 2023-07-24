@@ -584,26 +584,26 @@ body {
   width: 70%; /* Adjust the width as needed for larger screens */
 }
 
-/* Media query for screens with a maximum width of 768px (typical for mobile devices) */
-@media (max-width: 768px) {
-  .floating-wrapper {
-    font-size: 14px; /* Adjust font size for mobile screens */
-    width: 90%; /* Adjust the width for mobile screens */
-    left: 5%; /* Adjust the horizontal position for mobile screens */
-    top: 40%; /* Adjust the vertical position for mobile screens */
-  }
-}
-
+/* Default styles for the carousel title and description */
 .carousel__title {
-  /* Your carousel title styling goes here */
-  font-size: 20px;
+  font-size: 25px;
   font-weight: bold;
   color: #fff;
 }
 
 .carousel__description {
-  /* Your carousel description styling goes here */
   font-size: 18px;
   color: #fff;
+}
+
+/* Media query for screens with a maximum width of 768px (typical for mobile devices) */
+@media (max-width: 768px) {
+  .carousel__title {
+    font-size: 16px; /* Adjust font size for mobile screens */
+  }
+
+  .carousel__description {
+    font-size: 14px; /* Adjust font size for mobile screens */
+  }
 }
 
