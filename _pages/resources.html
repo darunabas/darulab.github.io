@@ -1,11 +1,11 @@
 ---
 layout: single
-title: Research
+title: Codes, protocols, and datasets
 date:
 type: page
 classes: wide
 published: true
-permalink: /research/
+permalink: /resources/
 status: publish
 header:
   overlay_image: /assets/images/alaska.png
@@ -59,15 +59,15 @@ tags: []
 }
 </style>
 <div class="tab">
-  <button class="tablinks active" onclick="openTab(event, 'home')">Herbarium microbiome</button>
-  <button class="tablinks" onclick="openTab(event, 'tab1')">phyloregion</button>
+  <button class="tablinks active" onclick="openTab(event, 'home')">Surface sterlization</button>
+  <button class="tablinks" onclick="openTab(event, 'tab1')">Sherlock HPC</button>
   <button class="tablinks" onclick="openTab(event, 'tab2')">GreenMaps</button>
 </div>
 
 <div id="home" class="tabcontent" style="display:block;">
   <script>
     var xhr = new XMLHttpRequest();
-    var url = "/_pages/Seagrass.html";
+    var url = "/_pages/sterilization.html";
     xhr.open("GET", url, true);
     xhr.onreadystatechange = function() {
       if (xhr.readyState === 4 && xhr.status === 200) {
@@ -81,7 +81,7 @@ tags: []
 <div id="tab1" class="tabcontent">
   <script>
     var xhr1 = new XMLHttpRequest();
-    var url1 = "/_pages/phyloregion.html";
+    var url1 = "/_pages/sherlock.html";
     xhr1.open("GET", url1, true);
     xhr1.onreadystatechange = function() {
       if (xhr1.readyState === 4 && xhr1.status === 200) {

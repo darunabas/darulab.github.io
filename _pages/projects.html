@@ -1,0 +1,130 @@
+---
+layout: single
+title: Projects
+date:
+type: page
+classes: wide
+published: true
+permalink: /projects/
+status: publish
+header:
+  overlay_image: /assets/images/alaska.png
+  overlay_filter: 0.5
+excerpt: ""
+categories: []
+tags: [] 
+---
+
+{% raw %}
+
+<style>
+.tab {
+  overflow: hidden;
+  background-color: rgba(204, 89, 89, 0.2);
+  border-radius: 10px 10px 0 0;
+}
+
+.tab button {
+  background-color: inherit;
+  float: left;
+  border: none;
+  outline: none;
+  cursor: pointer;
+  padding: 10px 20px;
+  transition: 0.3s;
+  font-size: 17px;
+  border-top: 2px solid rgba(140, 21, 21, 0.8);
+  border-left: 2px solid rgba(140, 21, 21, 0.8);
+  border-right: 2px solid rgba(140, 21, 21, 0.8);
+  border-bottom: none;
+  border-radius: 10px 10px 0 0;
+  margin-right: 2px;
+}
+
+.tab button:hover {
+  background-color: rgba(140, 21, 21, 0.8);
+}
+
+.tab button.active {
+  background-color: rgba(140, 21, 21, 0.8);
+  color: #fff;
+}
+
+.tabcontent {
+  display: none;
+  padding: 6px 12px;
+  border: 2px solid rgba(140, 21, 21, 0.8);
+  border-top: none;
+  border-radius: 0 10px 10px 10px;
+}
+</style>
+<div class="tab">
+  <button class="tablinks active" onclick="openTab(event, 'home')">Herbarium microbiome</button>
+  <button class="tablinks" onclick="openTab(event, 'tab1')">phyloregion</button>
+  <button class="tablinks" onclick="openTab(event, 'tab2')">GreenMaps</button>
+</div>
+
+<div id="home" class="tabcontent" style="display:block;">
+  <script>
+    var xhr = new XMLHttpRequest();
+    var url = "/_pages/Herbarium.html";
+    xhr.open("GET", url, true);
+    xhr.onreadystatechange = function() {
+      if (xhr.readyState === 4 && xhr.status === 200) {
+        document.getElementById("home").innerHTML = xhr.responseText;
+      }
+    };
+    xhr.send();
+  </script>
+</div>
+
+<div id="tab1" class="tabcontent">
+  <script>
+    var xhr1 = new XMLHttpRequest();
+    var url1 = "/_pages/phyloregion.html";
+    xhr1.open("GET", url1, true);
+    xhr1.onreadystatechange = function() {
+      if (xhr1.readyState === 4 && xhr1.status === 200) {
+        document.getElementById("tab1").innerHTML = xhr1.responseText;
+      }
+    };
+    xhr1.send();
+  </script>
+</div>
+
+<div id="tab2" class="tabcontent">
+  <script>
+    var xhr2 = new XMLHttpRequest();
+    var url2 = "/_pages/greenmaps.html";
+    xhr2.open("GET", url2, true);
+    xhr2.onreadystatechange = function() {
+      if (xhr2.readyState === 4 && xhr2.status === 200) {
+        document.getElementById("tab2").innerHTML = xhr2.responseText;
+      }
+    };
+    xhr2.send();
+  </script>
+</div>
+
+<script>
+function openTab(evt, tabName) {
+  var i, tabcontent, tablinks;
+  tabcontent = document.getElementsByClassName("tabcontent");
+  for (i = 0; i < tabcontent.length; i++) {
+    tabcontent[i].style.display = "none";
+  }
+  tablinks = document.getElementsByClassName("tablinks");
+  for (i = 0; i < tablinks.length; i++) {
+    tablinks[i].className = tablinks[i].className.replace(" active", "");
+  }
+  document.getElementById(tabName).style.display = "block";
+  evt.currentTarget.className += " active";
+}
+
+// Add this code to set the home tab as default on page load
+window.onload = function() {
+  document.getElementsByClassName("tablinks")[0].click();
+}
+</script>
+
+{% endraw %}
