@@ -61,7 +61,7 @@ tags: []
 <div class="tab">
   <button class="tablinks active" onclick="openTab(event, 'home')">Surface sterlization</button>
   <button class="tablinks" onclick="openTab(event, 'tab1')">Sherlock HPC</button>
-  <button class="tablinks" onclick="openTab(event, 'tab2')">GreenMaps</button>
+  <button class="tablinks" onclick="openTab(event, 'tab2')">GPS</button>
 </div>
 
 <div id="home" class="tabcontent" style="display:block;">
@@ -95,7 +95,7 @@ tags: []
 <div id="tab2" class="tabcontent">
   <script>
     var xhr2 = new XMLHttpRequest();
-    var url2 = "/_pages/greenmaps.html";
+    var url2 = "/_pages/gps.html";
     xhr2.open("GET", url2, true);
     xhr2.onreadystatechange = function() {
       if (xhr2.readyState === 4 && xhr2.status === 200) {

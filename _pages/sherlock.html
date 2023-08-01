@@ -2,7 +2,7 @@
 <h3>A Daru Lab Guide to Using the Stanford Sherlock HPC Cluster</h3>
     <hr>
 <h4>Sherlock HPC Resources</h4>
-<p>We have access to the <em>Sherlock</em> clusters. Documentation for Sherlock is <a href="https://www.sherlock.stanford.edu/docs/user-guide/running-jobs/">here</a>. <p>As a member of the Daru lab, you have access to the following resources on Sherlock:</p>
+<p>We have access to the <em>Sherlock</em> clusters. Documentation for Sherlock is <a href="https://www.sherlock.stanford.edu/docs/">here</a>. <p>As a member of the Daru lab, you have access to the following resources on Sherlock:</p>
 <ul>
     <li>Individual and Group Scratch Space: You have access to 100TB of scratch space for storing temporary data. Please note that files on SCRATCH and GROUP_SCRATCH are automatically purged 90 days after their last content modification. So, make sure to move your data before that time to avoid loss.</li>
     <li>Home Directory: Each lab member has 15GB of space in their home directory.</li>
@@ -18,7 +18,7 @@
         }
     </style>
   <h4>Connecting by SSH</h4>
-    <p>Use SSH from a terminal and your UNI credentials to log in.</p>
+    <p>Use SSH from a terminal and your SUNet username to log in.</p>
     <pre><code># Connect to Sherlock from your local computer
 ssh &lt;user&gt;@login.sherlock.stanford.edu
     </code></pre>
@@ -33,9 +33,9 @@ put /pathtofile/on/your/computer/file.csv
     </code></pre>
 
     <h4>Submit Jobs to the Cluster Using SLURM</h4>
-    <p>The Sherlock cluster uses the SLURM job submission system to manage shared resources on the cluster. When you log in, you will start at the "head" node, which is like a waiting area. Remember not to run any heavy tasks on this node. Instead, you can submit your jobs using a "job script" to reserve resources for your job and send it to run on a "compute node".</p>
+    <p>The Sherlock cluster uses the SLURM job submission system to manage shared resources on the cluster. When you log in, you will start at the "head" node, which is like a waiting area. Remember not to run any jobs on this node. Instead, you can submit your jobs via SCRATCH using a "job script" to reserve resources for your job and send it to run on a "compute node".</p>
     <p>To keep things organized, create a directory called "Batch" for your job submissions. This way, you can easily keep track of your tasks.</p>
-    <pre><code># On the head node
+    <pre><code># In the SCRATCH node
 mkdir ~/Batch{1..10}
     </code></pre>
 
@@ -56,11 +56,11 @@ cd ${1}
 R CMD BATCH --no-save --no-restore calibration.R output.out
     </code></pre>
     <p>Submit the job to the scheduling queue.</p>
-    <pre><code># On the head node
+    <pre><code># On the scratch node
 for DIR in Batch*; do sbatch script.sbatch $DIR; done
     </code></pre>
     <p>Check whether it has started yet.</p>
-    <pre><code># On the head node
+    <pre><code># On the scratch node
 sacct
     </code></pre>
 
