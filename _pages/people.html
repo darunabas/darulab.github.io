@@ -60,10 +60,11 @@ tags: []
 </style>
 <div class="tab">
   <button class="tablinks active" onclick="openTab(event, 'home')">Barnabas</button>
-  <button class="tablinks" onclick="openTab(event, 'tab1')">Paul</button>
-  <button class="tablinks" onclick="openTab(event, 'tab2')">Samuel</button>
-  <button class="tablinks" onclick="openTab(event, 'tab3')">You</button>
-  <button class="tablinks" onclick="openTab(event, 'tab4')">Lab Alumni</button>
+  <button class="tablinks" onclick="openTab(event, 'tab1')">Collin</button>
+  <button class="tablinks" onclick="openTab(event, 'tab2')">Paul</button>
+  <button class="tablinks" onclick="openTab(event, 'tab3')">Samuel</button>
+  <button class="tablinks" onclick="openTab(event, 'tab4')">You</button>
+  <button class="tablinks" onclick="openTab(event, 'tab5')">Lab Alumni</button>
 </div>
 
 <div id="home" class="tabcontent" style="display:block;">
@@ -82,39 +83,53 @@ tags: []
 
 <div id="tab1" class="tabcontent">
   <script>
+    var xhr0 = new XMLHttpRequest();
+    var url0 = "/_pages/Collin.html";
+    xhr0.open("GET", url0, true);
+    xhr0.onreadystatechange = function() {
+      if (xhr0.readyState === 4 && xhr0.status === 200) {
+        document.getElementById("tab1").innerHTML = xhr0.responseText;
+      }
+    };
+    xhr0.send();
+  </script>
+</div>
+
+<div id="tab2" class="tabcontent">
+  <script>
     var xhr1 = new XMLHttpRequest();
     var url1 = "/_pages/Paul.html";
     xhr1.open("GET", url1, true);
     xhr1.onreadystatechange = function() {
       if (xhr1.readyState === 4 && xhr1.status === 200) {
-        document.getElementById("tab1").innerHTML = xhr1.responseText;
+        document.getElementById("tab2").innerHTML = xhr1.responseText;
       }
     };
     xhr1.send();
   </script>
 </div>
 
-<div id="tab2" class="tabcontent">
+<div id="tab3" class="tabcontent">
   <script>
     var xhr2 = new XMLHttpRequest();
     var url2 = "/_pages/Samuel.html";
     xhr2.open("GET", url2, true);
     xhr2.onreadystatechange = function() {
       if (xhr2.readyState === 4 && xhr2.status === 200) {
-        document.getElementById("tab2").innerHTML = xhr2.responseText;
+        document.getElementById("tab3").innerHTML = xhr2.responseText;
       }
     };
     xhr2.send();
   </script>
 </div>
 
-<div id="tab3" class="tabcontent">
+<div id="tab4" class="tabcontent">
   <h3>This could be you!</h3>
   <img src="/assets/images/you.png" alt="Barnabas-Daru" class="img-responsive" style="float:left; padding-right:10px; border-radius:50%; width:300px; height:300px; object-fit:cover;">
   <p>We're currently looking for candidates at all levels to join our team at the Daru lab. If you're interested in joining us, please get in touch by emailing us at <a href="mailto:bdaru@stanford.edu">bdaru[at]stanford.edu</a>.</p>
   </div>
 
-<div id="tab4" class="tabcontent">
+<div id="tab5" class="tabcontent">
   <h3>Former lab members</h3>
   <div style="display:flex; flex-wrap:wrap; justify-content:center;">
     <div style="width:250px; margin:10px;">
