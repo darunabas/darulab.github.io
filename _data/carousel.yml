@@ -2,10 +2,8 @@ images:
   - image: /assets/images/stanford1.png
     link: https://www.stanford.edu/
     slide_title: "Stanford campus"
-  - image: /assets/images/biases.png
+  - image: https://lh3.googleusercontent.com/pw/AIL4fc-pAUgcOQxb3e1xR74lRCyFcl5nYmozEXN2D5ImV2mFlIEW2QrvnIT_-XLkgBHAJCmCZeEUuV9vi8mWlrgY_67tRkyGPI5b5Na46XtU_G3qxfONzfLgyIN6J_LIxOwuKfXsebiQRp1fLmM4sT3-KVnGgw=w2940-h672-s-no?authuser=0
     link: https://doi.org/10.1038/s41559-023-02047-3
-    slide_text: "doi:10.1038/s41559-023-02047-3"
-    slide_title: "Biases in biodiversity data"
   - image: /assets/images/header.JPG
     link: https://www.stanford.edu/
     slide_text: "doi:10.1111/jbi.12619"
