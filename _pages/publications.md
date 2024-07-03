@@ -14,12 +14,18 @@ permalink: /publications/
 categories: []
 tags: []
 ---
+## 2024
+
+49- **Daru, B.H.** A global database of butterfly species native distributions. **_(Forthcoming)_**
+
 ## 2023
 
 48- **Daru, B.H.** & Rock, B.M. (2023) Reorganization of seagrass communities in a changing climate. **_Nature Plants_** 9: 1034–1043.<br> [DOI](https://doi.org/10.1038/s41477-023-01445-6){: .btn .btn--small .btn--success style="background-color:#8C1515; color:#ffffff"}{:target="_blank"}
 [<i class="fa fa-download" aria-hidden="true"></i> PDF file]({{ site.baseurl}}/docs/48_Daru_Rock_2023_NATURE_PLANTS.pdf){: .btn .btn--small .btn--primary style="background-color:#8C1515; color:#ffffff"}{:target="_blank"}
   
-  47- Gumbs, R., Chaudhary, A., **Daru, B.H.**, Faith, D.P., Forest, F., Gray, C.L., Kowalska, A., Lee, W.S., Pellens, R., Pollock, L.J., Rosindell, J., Scherson, R.A. & Owen, N.R. (2023)  Indicators to monitor the status of the Tree of Life. **_Conservation Biology_** [doi: 10.1111/cobi.14138](https://doi.org/10.1111/cobi.14138){:target="_blank"} <br> [DOI](https://doi.org/10.1111/cobi.14138){: .btn .btn--small .btn--success style="background-color:#8C1515; color:#ffffff"}{:target="_blank"}
+  47- Gumbs, R., Chaudhary, A., **Daru, B.H.**, Faith, D.P., Forest, F., Gray, C.L., Kowalska, A., Lee, W.S., Pellens, R., Pollock, L.J., Rosindell, J., Scherson, R.A. & Owen, N.R. (2023)  Indicators to monitor the status of the Tree of Life. **_Conservation Biology_** 37: e14138. <br>
+[DOI](https://doi.org/10.1111/cobi.14138){: .btn .btn--small .btn--success style="background-color:#8C1515; color:#ffffff"}{:target="_blank"}
+[<i class="fa fa-download" aria-hidden="true"></i> PDF file]({{ site.baseurl}}/docs/47_Gumbs_etal_2023_CONBIOL.pdf){: .btn .btn--small .btn--primary style="background-color:#8C1515; color:#ffffff"}{:target="_blank"}
   
   46- **Daru, B.H.** & Rodriguez, J. (2023) Mass production of unvouchered records fails to represent global biodiversity patterns. **_Nature Ecology & Evolution_** 7: 816–831.<br>
   [<i class="fa fa-book" aria-hidden="true"></i> DOI](https://doi.org/10.1038/s41559-023-02047-3){: .btn .btn--small .btn--success style="background-color:#8C1515; color:#ffffff"}{:target="_blank"}
