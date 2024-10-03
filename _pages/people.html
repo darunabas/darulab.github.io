@@ -62,11 +62,13 @@ tags: []
   <button class="tablinks active" onclick="openTab(event, 'home')">Barnabas</button>
   <button class="tablinks" onclick="openTab(event, 'tab1')">Collin</button>
   <button class="tablinks" onclick="openTab(event, 'tab2')">Paul</button>
-  <button class="tablinks" onclick="openTab(event, 'tab3')">Madeline</button>
-  <button class="tablinks" onclick="openTab(event, 'tab4')">Weston</button>
-  <button class="tablinks" onclick="openTab(event, 'tab5')">Natalie</button>
-  <button class="tablinks" onclick="openTab(event, 'tab6')">You</button>
-  <button class="tablinks" onclick="openTab(event, 'tab7')">Lab Alumni</button>
+  <button class="tablinks" onclick="openTab(event, 'tab3')">Lauren</button>
+  <button class="tablinks" onclick="openTab(event, 'tab4')">Joseph</button>
+  <button class="tablinks" onclick="openTab(event, 'tab5')">Madeline</button>
+  <button class="tablinks" onclick="openTab(event, 'tab6')">Weston</button>
+  <button class="tablinks" onclick="openTab(event, 'tab7')">Natalie</button>
+  <button class="tablinks" onclick="openTab(event, 'tab8')">You</button>
+  <button class="tablinks" onclick="openTab(event, 'tab9')">Lab Alumni</button>
 </div>
 
 <div id="home" class="tabcontent" style="display:block;">
@@ -114,7 +116,7 @@ tags: []
 <div id="tab3" class="tabcontent">
   <script>
     var xhr2 = new XMLHttpRequest();
-    var url2 = "/_pages/Madeline.html";
+    var url2 = "/_pages/Lauren.html";
     xhr2.open("GET", url2, true);
     xhr2.onreadystatechange = function() {
       if (xhr2.readyState === 4 && xhr2.status === 200) {
@@ -128,7 +130,7 @@ tags: []
 <div id="tab4" class="tabcontent">
   <script>
     var xhr3 = new XMLHttpRequest();
-    var url3 = "/_pages/Weston.html";
+    var url3 = "/_pages/JoeKesler.html";
     xhr3.open("GET", url3, true);
     xhr3.onreadystatechange = function() {
       if (xhr3.readyState === 4 && xhr3.status === 200) {
@@ -142,7 +144,7 @@ tags: []
 <div id="tab5" class="tabcontent">
   <script>
     var xhr4 = new XMLHttpRequest();
-    var url4 = "/_pages/Natalie.html";
+    var url4 = "/_pages/Madeline.html";
     xhr4.open("GET", url4, true);
     xhr4.onreadystatechange = function() {
       if (xhr4.readyState === 4 && xhr4.status === 200) {
@@ -154,12 +156,40 @@ tags: []
 </div>
 
 <div id="tab6" class="tabcontent">
+  <script>
+    var xhr5 = new XMLHttpRequest();
+    var url5 = "/_pages/Weston.html";
+    xhr5.open("GET", url5, true);
+    xhr5.onreadystatechange = function() {
+      if (xhr5.readyState === 4 && xhr5.status === 200) {
+        document.getElementById("tab6").innerHTML = xhr5.responseText;
+      }
+    };
+    xhr5.send();
+  </script>
+</div>
+
+<div id="tab7" class="tabcontent">
+  <script>
+    var xhr6 = new XMLHttpRequest();
+    var url6 = "/_pages/Natalie.html";
+    xhr6.open("GET", url6, true);
+    xhr6.onreadystatechange = function() {
+      if (xhr6.readyState === 4 && xhr6.status === 200) {
+        document.getElementById("tab7").innerHTML = xhr6.responseText;
+      }
+    };
+    xhr6.send();
+  </script>
+</div>
+
+<div id="tab8" class="tabcontent">
   <h3>This could be you!</h3>
   <img src="/assets/images/you.png" alt="Barnabas-Daru" class="img-responsive" style="float:left; padding-right:10px; border-radius:50%; width:300px; height:300px; object-fit:cover;">
   <p>We're currently looking for candidates at all levels to join our team at the Daru lab. If you're interested in joining us, please get in touch by emailing us at <a href="mailto:bdaru@stanford.edu">bdaru[at]stanford.edu</a>.</p>
   </div>
 
-<div id="tab7" class="tabcontent">
+<div id="tab9" class="tabcontent">
   <h3>Former lab members</h3>
   <div style="display:flex; flex-wrap:wrap; justify-content:center;">
     <div style="width:250px; margin:10px;">

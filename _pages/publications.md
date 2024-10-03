@@ -4,7 +4,7 @@ title: "Our peer-reviewed publications"
 date: null
 type: page
 classes: wide
-published: true
+published: false
 status: publish
 header:
   overlay_image: /assets/images/pubs_header.jpg
@@ -20,7 +20,14 @@ tags: []
   [<i class="fa fa-book" aria-hidden="true"></i> DOI](https://doi.org/10.1073/pnas.2319989121){: .btn .btn--small .btn--success style="background-color:#8C1515; color:#ffffff"}{:target="_blank"}
   [<i class="fa fa-download" aria-hidden="true"></i> PDF file]({{ site.baseurl}}/docs/50_Daru_2024_PNAS.pdf){: .btn .btn--small .btn--primary style="background-color:#8C1515; color:#ffffff"}{:target="_blank"}
   
-49- **Daru, B.H.** A global database of butterfly species native distributions. **_(Forthcoming)_**
+ +++
+ 49- **Daru, B.H.** A global database of butterfly species native distributions. **_Forthcoming_** <br>
+ +++
+ {% include metrics.html data-doi="10.1073/pnas.2319989121" %}
+ 
+
+
+
 
 ## 2023
 
